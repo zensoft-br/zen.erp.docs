@@ -5,6 +5,7 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
+    "express": "node express.js -i src -t src/template.html",
     "scss:zen": "sass scss/main.scss src/styles.zen.css",
     "scss:zen:watch": "sass scss/main.scss src/styles.zen.css --watch",
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -20,6 +21,12 @@
   },
   "homepage": "https://bitbucket.org/personalsoft/personalsofterpdocs#readme",
   "dependencies": {
+    "argparse": "^2.0.1",
+    "express": "^4.18.2",
+    "jsdom": "^20.0.1",
+    "markdown-it": "^13.0.1",
+    "markdown-it-attrs": "^4.1.4",
+    "prettier": "^2.7.1",
     "sass": "^1.55.0"
   }
 }

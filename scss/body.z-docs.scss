@@ -5,6 +5,14 @@ body.z-docs {
 
   margin: 1rem;
 
+  >header {
+    display: none;
+  }
+
+  // >nav {
+  //   display: none;
+  // }
+
   .menu {
     &::before {
       content: "MENU";
@@ -18,8 +26,8 @@ body.z-docs {
   }
 
   .status {
-    background-color: var(--color-on-surface);
-    color: var(--color-surface);
+    background-color: var(--color-secondary);
+    color: var(--color-on-secondary);
     padding: 0.1rem 0.25rem;
     border-radius: var(--border-radius);
     // font-weight: bold;

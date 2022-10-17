@@ -1154,6 +1154,9 @@ body.z-docs .emphasis:before {
   transform: rotate(20deg);
   -webkit-text-stroke: 1px white;
 }
+body.z-docs > header {
+  display: none;
+}
 body.z-docs .menu::before {
   content: "MENU";
   background-color: var(--color-on-surface);
@@ -1164,8 +1167,8 @@ body.z-docs .menu::before {
   margin-right: 0.2rem;
 }
 body.z-docs .status {
-  background-color: var(--color-on-surface);
-  color: var(--color-surface);
+  background-color: var(--color-secondary);
+  color: var(--color-on-secondary);
   padding: 0.1rem 0.25rem;
   border-radius: var(--border-radius);
 }
