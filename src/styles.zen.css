@@ -550,11 +550,6 @@ html {
   --font-size-xxx-large: 26.2px;
 }
 
-html {
-  font-family: "Anek Latin";
-  font-size: var(--font-size-medium);
-}
-
 h1 {
   font-size: var(--font-size-xxx-large);
 }
@@ -1020,8 +1015,21 @@ fieldset.frame {
   padding: 0.5rem 1rem;
 }
 
+html.z {
+  font-family: "Anek Latin";
+  font-size: var(--font-size-medium);
+}
+
 body.z-docs {
-  margin: 1rem;
+  position: fixed;
+  box-sizing: border-box;
+  margin: 0;
+  margin-top: 5rem;
+  overflow: auto;
+  width: 100vw;
+  height: calc(100vh - 5rem);
+  display: flex;
+  flex-direction: column;
 }
 body.z-docs html {
   background-color: var(--color-background);
@@ -1156,6 +1164,25 @@ body.z-docs .emphasis:before {
 }
 body.z-docs > header {
   display: none;
+  position: fixed;
+  top: 0;
+  width: 100vw;
+}
+body.z-docs > nav {
+  display: none;
+}
+body.z-docs > main {
+  top: 5rem;
+  overflow: auto;
+}
+body.z-docs > main > .content {
+  margin: 3vmin 5vmin;
+}
+body.z-docs blockquote {
+  background-color: var(--color-background);
+  margin: 1rem 0;
+  border-left: 5px solid var(--color-primary);
+  padding: 0.5rem;
 }
 body.z-docs .menu::before {
   content: "MENU";

@@ -5,7 +5,7 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "express": "node express.js -i src -t src/template.html",
+    "express": "node express.js -i src -t src/template.html -s .content",
     "scss:zen": "sass scss/main.scss src/styles.zen.css",
     "scss:zen:watch": "sass scss/main.scss src/styles.zen.css --watch",
     "test": "echo \"Error: no test specified\" && exit 1"

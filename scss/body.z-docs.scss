@@ -1,17 +1,50 @@
-html.z {}
+html.z {
+  font-family: 'Anek Latin';
+  font-size: var(--font-size-medium);
+}
 
 body.z-docs {
   @include zen-identity;
 
-  margin: 1rem;
+  position: fixed;
+  box-sizing: border-box;
+  margin: 0;
+  margin-top: 5rem;
+  overflow: auto;
+
+  width: 100vw;
+  height: calc(100vh - 5rem);
+
+  display: flex;
+  flex-direction: column;
 
   >header {
     display: none;
+
+    position: fixed;
+    top: 0;
+    width: 100vw;
   }
 
-  // >nav {
-  //   display: none;
-  // }
+  >nav {
+    display: none;
+  }
+
+  >main {
+    top: 5rem;
+    overflow: auto;
+
+    >.content {
+      margin: 3vmin 5vmin;
+    }
+  }
+
+  blockquote {
+    background-color: var(--color-background);
+    margin: 1rem 0;
+    border-left: 5px solid var(--color-primary);
+    padding: 0.5rem;
+  }
 
   .menu {
     &::before {
