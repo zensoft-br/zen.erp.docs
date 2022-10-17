@@ -1,0 +1,14 @@
+.z-buttons {
+  display: flex;
+  flex-direction: row;
+  gap: 1rem;
+  justify-content: flex-end;
+
+  background-color: var(--color-surface);
+
+  box-sizing: border-box;
+  border-bottom-left-radius: var(--border-radius);
+  border-bottom-right-radius: var(--border-radius);
+  // padding: 1rem 3rem 2rem 3rem;
+  // max-width: 70rem; // TODO remover
+}

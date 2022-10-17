@@ -1,0 +1,193 @@
+// Layout
+// WARNING! Avoid to change layout unless you know exactly what are you doing
+body.z-login {
+  $panel-width: 22.5rem;
+  $panel-height: 30rem;
+
+  @include zen-identity;
+
+  // Default position for <body> is static, making children relative to <html>
+  position: fixed;
+
+  box-sizing: border-box;
+  margin: 0;
+  overflow: auto;
+
+  width: 100vw;
+  height: 100vh;
+
+  display: flex;
+  flex-direction: column;
+
+  background-color: var(--color-background);
+
+  // Small 
+  // On small screens content will use all available space
+  @media not screen and (min-width: $panel-width) and (min-height: $panel-height) {
+    >main {
+      flex: 1;
+      width: 100%;
+
+      section#login {
+        flex: 1;
+        height: 100%;
+      }
+
+      section#other {
+        display: none;
+      }
+    }
+  }
+
+  // Regular 
+  // On regular screens content will be centered
+  @media screen and (min-width: $panel-width) and (min-height: $panel-height) {
+    align-items: center;
+    justify-content: safe center;
+
+    >main {
+      border-radius: var(--border-radius);
+
+      width: $panel-width;
+      height: $panel-height;
+
+      section#other {
+        display: none;
+      }
+    }
+  }
+
+  // Regular x2
+  // On regular screens content will be centered
+  @media screen and (min-width: calc($panel-width * 2)) and (min-height: $panel-height) {
+    align-items: center;
+    justify-content: safe center;
+
+    >main {
+      border-radius: var(--border-radius);
+
+      width: calc($panel-width * 2);
+      height: $panel-height;
+
+      section#login .logo {
+        display: none;
+      }
+
+      section#other {
+        display: flex;
+      }
+    }
+  }
+
+  >main {
+    display: flex;
+    flex-direction: row;
+
+    border-radius: var(--border-radius);
+    overflow: hidden;
+
+    &>section {
+      display: flex;
+      flex-direction: column;
+
+      box-sizing: border-box;
+
+      width: $panel-width;
+      height: $panel-height;
+      overflow: auto;
+
+      padding: 1rem 2rem;
+
+      &>.logo {
+        width: 100%;
+
+        svg {
+          width: 6rem;
+          height: 3rem;
+        }
+      }
+
+      &#login {
+        background-color: var(--color-surface);
+
+        .logo {
+          fill: var(--color-primary);
+        }
+
+        >.z-form  {
+          display: flex;
+          flex-direction: column;
+          justify-content: center;
+          gap: 1rem;
+  
+          flex: 1;
+          position: relative;
+
+          .bottom {
+            display: flex;
+            justify-content: space-between;
+            flex-wrap: wrap;
+            
+            position: absolute;
+            bottom: 0;
+            width: 100%;
+          }
+        }
+  
+        select {
+          width: fit-content;
+        }
+
+        option {
+          font-size: var(--font-size-xx-large);
+          background-color: var(--color-surface);
+        }
+      }
+
+      &#other {
+        background-color: var(--color-primary);
+
+        .logo {
+          fill: var(--color-on-primary);
+        }
+      }
+    }
+
+    // Full screen when width < $panel-width * 2 OR height < $panel-height
+    // @media screen and (max-width: $panel-width),
+    // screen and (max-height: $panel-height) {
+    //   width: 100vw;
+    //   height: 100vh;
+    //   background-color: blue;
+    //   border-radius: 0;
+
+    //   &>section {
+    //     flex: 1;
+    //     height: 100%;
+    //   }
+    // }
+
+    .icons {
+      display: flex;
+      flex-direction: row;
+      gap: 1rem;
+    }
+
+    .icons>div {
+      width: 1.5em;
+      height: 1.5rem;
+
+      /* border: 1px solid var(--color-primary); */
+      border-radius: 50%;
+      box-shadow: 0 0 2px 1px var(--color-primary);
+
+      box-sizing: content-box;
+      padding: 0.5rem;
+    }
+
+    .icons svg {
+      width: 100%;
+      height: 100%;
+    }
+  }
+}

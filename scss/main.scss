@@ -1,0 +1,67 @@
+@import 'reset.scss';
+
+@import 'reset.zen.scss';
+
+@import 'typography.scss';
+
+@import 'variables.scss';
+
+@import 'media-queries.scss';
+
+input[type="checkbox"],
+input[type="radio"] {
+  margin: 0;
+  margin-right: 0.2em;
+}
+
+::selection {
+  background-color: var(--color-secondary);
+  color: var(--color-on-secondary);
+}
+
+@import 'images.scss';
+@import 'input.scss';
+@import 'mixin.scss';
+@import 'body.z-docs.scss';
+@import 'body.z-grid.scss';
+@import 'body.z-headerless.scss';
+@import 'body.z-login.scss';
+@import 'body.z-site.scss';
+@import 'body.z-workspace.scss';
+@import 'tailwind.scss';
+@import 'z-buttons.scss';
+@import 'z-form.scss';
+@import 'z-header.scss';
+@import 'z-menu.scss';
+@import 'z-notification.scss';
+@import 'z-table.scss';
+@import 'z-tabs.scss';
+
+.z-image {
+  display: flex;
+
+  width: 2rem;
+  height: 2rem;
+
+  object-fit: contain;
+
+  padding: 1rem;
+  border-radius: 50%;
+  background-color: d6f5ff;
+
+  svg {
+    // chrome & edge are ignoring svg classes
+    color: var(--color-primary);
+    // fill: var(--color-primary);
+
+    .fa-primary {
+      color: var(--color-primary);
+      // fill: var(--color-primary);
+    }
+
+    .fa-secondary {
+      color: var(--color-secondary);
+      // fill: var(--color-secondary);
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "name": "personalsofterpdocs",
+  "version": "1.0.0",
+  "description": "This README would normally document whatever steps are necessary to get your application up and running.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "scss:zen": "sass scss/main.scss src/styles.zen.css",
+    "scss:zen:watch": "sass scss/main.scss src/styles.zen.css --watch",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://bitbucket.org/personalsoft/personalsofterpdocs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://bitbucket.org/personalsoft/personalsofterpdocs/issues"
+  },
+  "homepage": "https://bitbucket.org/personalsoft/personalsofterpdocs#readme",
+  "dependencies": {
+    "sass": "^1.55.0"
+  }
+}

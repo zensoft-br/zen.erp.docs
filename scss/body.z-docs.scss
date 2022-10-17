@@ -1,0 +1,27 @@
+html.z {}
+
+body.z-docs {
+  @include zen-identity;
+
+  margin: 1rem;
+
+  .menu {
+    &::before {
+      content: "MENU";
+      background-color: var(--color-on-surface);
+      color: var(--color-surface);
+      padding: 0.2rem;
+      font-size: 0.65rem;
+      border-radius: var(--border-radius);
+      margin-right: 0.2rem;
+    }
+  }
+
+  .status {
+    background-color: var(--color-on-surface);
+    color: var(--color-surface);
+    padding: 0.1rem 0.25rem;
+    border-radius: var(--border-radius);
+    // font-weight: bold;
+  }
+}

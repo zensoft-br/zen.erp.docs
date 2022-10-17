@@ -1,0 +1,22 @@
+// https://www.freecodecamp.org/news/css-media-queries-breakpoints-media-types-standard-resolutions-and-more/
+
+$breakpoint-small: 480px; // mobile
+$breakpoint-medium: 768px; // table
+$breakpoint-large: 1024px; // laptop
+$breakpoint-x-large: 1200px; // desktop
+
+@mixin mq-small {
+
+  @media (orientation: portrait) and (max-width: $breakpoint-small),
+  (orientation: landscape) and (max-height: $breakpoint-small) {
+    @content;
+  }
+}
+
+@mixin mq-medium {
+
+  @media (orientation: portrait) and (min-width: calc($breakpoint-small + 1px)),
+  (orientation: landscape) and (min-height: calc($breakpoint-small + 1px)) {
+    @content;
+  }
+}
