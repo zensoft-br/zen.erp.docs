@@ -7,8 +7,7 @@
   color: var(--color-on-surface);
 }
 
-.z-table-slot table,
-.z-table {
+@mixin z-table {
   width: fit-content;
   height: fit-content;
 
@@ -106,4 +105,9 @@
 
     vertical-align: middle;
   }
+}
+
+.z-table-slot table,
+.z-table {
+  @include z-table;
 }

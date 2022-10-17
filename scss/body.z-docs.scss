@@ -18,6 +18,11 @@ body.z-docs {
   display: flex;
   flex-direction: column;
 
+  h1, h2, h3, h4, h5, h6 {
+    padding-top: 0.75em;
+    padding-bottom: 0.25em;
+  }
+
   >header {
     display: none;
 
@@ -44,6 +49,16 @@ body.z-docs {
     margin: 1rem 0;
     border-left: 5px solid var(--color-primary);
     padding: 0.5rem;
+  }
+
+  table {
+    @include z-table;
+    
+    border: 1px solid var(--color-background);
+
+    thead {
+      inset-block-start: unset;
+    }
   }
 
   .menu {

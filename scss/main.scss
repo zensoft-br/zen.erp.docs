@@ -19,6 +19,7 @@ input[type="radio"] {
   color: var(--color-on-secondary);
 }
 
+@import 'z-table.scss';
 @import 'images.scss';
 @import 'input.scss';
 @import 'mixin.scss';
@@ -34,7 +35,6 @@ input[type="radio"] {
 @import 'z-header.scss';
 @import 'z-menu.scss';
 @import 'z-notification.scss';
-@import 'z-table.scss';
 @import 'z-tabs.scss';
 
 .z-image {

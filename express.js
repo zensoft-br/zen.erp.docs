@@ -21,7 +21,7 @@ argumentParser.add_argument("-s", "--selector", {
 });
 argumentParser.add_argument("-p", "--port", {
   help: "Port",
-  default: 3000
+  default: 80
 });
 // argumentParser.add_argument("-s", "--selector", {
 //   help: "Template element selector"

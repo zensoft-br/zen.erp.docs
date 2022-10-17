@@ -15,6 +15,13 @@ Financeiro, Contas a receber, Incluir {.menu}
 >
 > linha3
 
+Exemplo   | Valor do exemplo
+--------- | ------
+Exemplo 1 | R$ 10
+Exemplo 2 | R$ 8
+Exemplo 3 | R$ 7
+Exemplo 4 | R$ 8
+
 ## Alteração manual de título
 
 Títulos incluídos manualmente podem ser alterados, desde que estejam no status **PREPARANDO**{.status}.
