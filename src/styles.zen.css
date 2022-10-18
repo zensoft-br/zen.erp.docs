@@ -1146,8 +1146,8 @@ body.z-docs textarea {
   background-color: transparent;
   color: var(--color-on-surface);
 }
-body.z-docs button {
-  display: flex;
+body.z-docs button, body.z-docs .button {
+  display: inline-flex;
   flex-direction: row;
   align-items: center;
   gap: 0.25rem;
@@ -1162,21 +1162,22 @@ body.z-docs button {
   padding: 1.1rem 2.4rem;
   cursor: pointer;
 }
-body.z-docs button.disabled {
+body.z-docs button.disabled, body.z-docs .button.disabled {
   opacity: 0.3;
 }
-body.z-docs button.default {
+body.z-docs button.default, body.z-docs .button.default {
   border: none;
   background-color: var(--color-primary);
   color: var(--color-on-primary);
 }
-body.z-docs button.cancel {
+body.z-docs button.cancel, body.z-docs .button.cancel {
   border: none;
   background-color: transparent;
   color: var(--color-primary);
 }
 body.z-docs button image,
-body.z-docs button svg {
+body.z-docs button svg, body.z-docs .button image,
+body.z-docs .button svg {
   width: 1rem;
   height: 1rem;
   padding-right: 0.25rem;
@@ -1244,9 +1245,20 @@ body.z-docs .emphasis:before {
   transform: rotate(20deg);
   -webkit-text-stroke: 1px white;
 }
-body.z-docs h1, body.z-docs h2, body.z-docs h3, body.z-docs h4, body.z-docs h5, body.z-docs h6 {
+body.z-docs h1,
+body.z-docs h2,
+body.z-docs h3,
+body.z-docs h4,
+body.z-docs h5,
+body.z-docs h6 {
   padding-top: 0.75em;
   padding-bottom: 0.25em;
+}
+body.z-docs em {
+  font-style: italic;
+}
+body.z-docs strong {
+  font-weight: bold;
 }
 body.z-docs > header {
   display: none;
@@ -1269,6 +1281,24 @@ body.z-docs blockquote {
   margin: 1rem 0;
   border-left: 5px solid var(--color-primary);
   padding: 0.5rem;
+}
+body.z-docs img {
+  max-width: 10rem;
+  max-height: 10rem;
+}
+body.z-docs img.icon {
+  max-width: 1.5rem;
+  max-height: 1.5rem;
+}
+body.z-docs ul {
+  list-style-position: inside;
+  list-style-type: circle;
+  margin: 0;
+  padding: 0;
+}
+body.z-docs ol {
+  list-style-position: inside;
+  list-style-type: decimal;
 }
 body.z-docs table {
   width: fit-content;
@@ -1335,14 +1365,27 @@ body.z-docs table .icon {
 body.z-docs table thead {
   inset-block-start: unset;
 }
-body.z-docs .menu::before {
-  content: "MENU";
-  background-color: var(--color-on-surface);
-  color: var(--color-surface);
-  padding: 0.2rem;
-  font-size: 0.65rem;
+body.z-docs .field {
+  font-weight: normal;
+  border: 1px dotted var(--color-on-surface);
   border-radius: var(--border-radius);
-  margin-right: 0.2rem;
+  padding: 0 var(--border-radius);
+}
+body.z-docs .field::before {
+  content: "✎";
+  color: var(--color-primary);
+}
+body.z-docs .menu {
+  font-weight: normal;
+  background-color: var(--color-background);
+  border: 1px dotted var(--color-on-surface);
+  border-radius: var(--border-radius);
+  padding: 0 var(--border-radius);
+}
+body.z-docs .menu::before {
+  content: "☰";
+  color: var(--color-primary);
+  margin-right: var(--border-radius);
 }
 body.z-docs .status {
   background-color: var(--color-secondary);
@@ -1397,8 +1440,8 @@ body.z-grid textarea {
   background-color: transparent;
   color: var(--color-on-surface);
 }
-body.z-grid button {
-  display: flex;
+body.z-grid button, body.z-grid .button {
+  display: inline-flex;
   flex-direction: row;
   align-items: center;
   gap: 0.25rem;
@@ -1413,21 +1456,22 @@ body.z-grid button {
   padding: 1.1rem 2.4rem;
   cursor: pointer;
 }
-body.z-grid button.disabled {
+body.z-grid button.disabled, body.z-grid .button.disabled {
   opacity: 0.3;
 }
-body.z-grid button.default {
+body.z-grid button.default, body.z-grid .button.default {
   border: none;
   background-color: var(--color-primary);
   color: var(--color-on-primary);
 }
-body.z-grid button.cancel {
+body.z-grid button.cancel, body.z-grid .button.cancel {
   border: none;
   background-color: transparent;
   color: var(--color-primary);
 }
 body.z-grid button image,
-body.z-grid button svg {
+body.z-grid button svg, body.z-grid .button image,
+body.z-grid .button svg {
   width: 1rem;
   height: 1rem;
   padding-right: 0.25rem;
@@ -1762,8 +1806,8 @@ body.z-headerless textarea {
   background-color: transparent;
   color: var(--color-on-surface);
 }
-body.z-headerless button {
-  display: flex;
+body.z-headerless button, body.z-headerless .button {
+  display: inline-flex;
   flex-direction: row;
   align-items: center;
   gap: 0.25rem;
@@ -1778,21 +1822,22 @@ body.z-headerless button {
   padding: 1.1rem 2.4rem;
   cursor: pointer;
 }
-body.z-headerless button.disabled {
+body.z-headerless button.disabled, body.z-headerless .button.disabled {
   opacity: 0.3;
 }
-body.z-headerless button.default {
+body.z-headerless button.default, body.z-headerless .button.default {
   border: none;
   background-color: var(--color-primary);
   color: var(--color-on-primary);
 }
-body.z-headerless button.cancel {
+body.z-headerless button.cancel, body.z-headerless .button.cancel {
   border: none;
   background-color: transparent;
   color: var(--color-primary);
 }
 body.z-headerless button image,
-body.z-headerless button svg {
+body.z-headerless button svg, body.z-headerless .button image,
+body.z-headerless .button svg {
   width: 1rem;
   height: 1rem;
   padding-right: 0.25rem;
@@ -1918,8 +1963,8 @@ body.z-headerless1 textarea {
   background-color: transparent;
   color: var(--color-on-surface);
 }
-body.z-headerless1 button {
-  display: flex;
+body.z-headerless1 button, body.z-headerless1 .button {
+  display: inline-flex;
   flex-direction: row;
   align-items: center;
   gap: 0.25rem;
@@ -1934,21 +1979,22 @@ body.z-headerless1 button {
   padding: 1.1rem 2.4rem;
   cursor: pointer;
 }
-body.z-headerless1 button.disabled {
+body.z-headerless1 button.disabled, body.z-headerless1 .button.disabled {
   opacity: 0.3;
 }
-body.z-headerless1 button.default {
+body.z-headerless1 button.default, body.z-headerless1 .button.default {
   border: none;
   background-color: var(--color-primary);
   color: var(--color-on-primary);
 }
-body.z-headerless1 button.cancel {
+body.z-headerless1 button.cancel, body.z-headerless1 .button.cancel {
   border: none;
   background-color: transparent;
   color: var(--color-primary);
 }
 body.z-headerless1 button image,
-body.z-headerless1 button svg {
+body.z-headerless1 button svg, body.z-headerless1 .button image,
+body.z-headerless1 .button svg {
   width: 1rem;
   height: 1rem;
   padding-right: 0.25rem;
@@ -2109,8 +2155,8 @@ body.z-login textarea {
   background-color: transparent;
   color: var(--color-on-surface);
 }
-body.z-login button {
-  display: flex;
+body.z-login button, body.z-login .button {
+  display: inline-flex;
   flex-direction: row;
   align-items: center;
   gap: 0.25rem;
@@ -2125,21 +2171,22 @@ body.z-login button {
   padding: 1.1rem 2.4rem;
   cursor: pointer;
 }
-body.z-login button.disabled {
+body.z-login button.disabled, body.z-login .button.disabled {
   opacity: 0.3;
 }
-body.z-login button.default {
+body.z-login button.default, body.z-login .button.default {
   border: none;
   background-color: var(--color-primary);
   color: var(--color-on-primary);
 }
-body.z-login button.cancel {
+body.z-login button.cancel, body.z-login .button.cancel {
   border: none;
   background-color: transparent;
   color: var(--color-primary);
 }
 body.z-login button image,
-body.z-login button svg {
+body.z-login button svg, body.z-login .button image,
+body.z-login .button svg {
   width: 1rem;
   height: 1rem;
   padding-right: 0.25rem;
@@ -2365,8 +2412,8 @@ body.z-site textarea {
   background-color: transparent;
   color: var(--color-on-surface);
 }
-body.z-site button {
-  display: flex;
+body.z-site button, body.z-site .button {
+  display: inline-flex;
   flex-direction: row;
   align-items: center;
   gap: 0.25rem;
@@ -2381,21 +2428,22 @@ body.z-site button {
   padding: 1.1rem 2.4rem;
   cursor: pointer;
 }
-body.z-site button.disabled {
+body.z-site button.disabled, body.z-site .button.disabled {
   opacity: 0.3;
 }
-body.z-site button.default {
+body.z-site button.default, body.z-site .button.default {
   border: none;
   background-color: var(--color-primary);
   color: var(--color-on-primary);
 }
-body.z-site button.cancel {
+body.z-site button.cancel, body.z-site .button.cancel {
   border: none;
   background-color: transparent;
   color: var(--color-primary);
 }
 body.z-site button image,
-body.z-site button svg {
+body.z-site button svg, body.z-site .button image,
+body.z-site .button svg {
   width: 1rem;
   height: 1rem;
   padding-right: 0.25rem;
@@ -2668,8 +2716,8 @@ body.z-workspace textarea {
   background-color: transparent;
   color: var(--color-on-surface);
 }
-body.z-workspace button {
-  display: flex;
+body.z-workspace button, body.z-workspace .button {
+  display: inline-flex;
   flex-direction: row;
   align-items: center;
   gap: 0.25rem;
@@ -2684,21 +2732,22 @@ body.z-workspace button {
   padding: 1.1rem 2.4rem;
   cursor: pointer;
 }
-body.z-workspace button.disabled {
+body.z-workspace button.disabled, body.z-workspace .button.disabled {
   opacity: 0.3;
 }
-body.z-workspace button.default {
+body.z-workspace button.default, body.z-workspace .button.default {
   border: none;
   background-color: var(--color-primary);
   color: var(--color-on-primary);
 }
-body.z-workspace button.cancel {
+body.z-workspace button.cancel, body.z-workspace .button.cancel {
   border: none;
   background-color: transparent;
   color: var(--color-primary);
 }
 body.z-workspace button image,
-body.z-workspace button svg {
+body.z-workspace button svg, body.z-workspace .button image,
+body.z-workspace .button svg {
   width: 1rem;
   height: 1rem;
   padding-right: 0.25rem;

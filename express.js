@@ -42,22 +42,37 @@ markdown.use(markdownItAttrs, {
 const app = express();
 
 app.get(/.*/, (req, res) => {
-  let parsed = path.parse(req.path);
+  let _path = req.path;
 
+  let parsed;
   let file;
 
   // Exact match
-  file = options.input + parsed.dir + "/" + parsed.base;
-  if (fs.existsSync(file)) {
-    res.sendFile(path.resolve(file));
-    return;
+  parsed = path.parse(_path);
+  file = (options.input + parsed.dir + "/" + parsed.base).replaceAll("//", "/");
+  if (fs.existsSync(file) && parsed.ext.toLowerCase() != ".md") {
+    // Directory
+    if (fs.statSync(file).isDirectory()) {
+      // Append a trailing / to make sure links are pointing to the same folder
+      if (!_path.endsWith("/")) {
+        res.redirect(301, _path + "/");
+        return;
+      }
+      // Add default filename /index
+      _path = (parsed.dir + "/" + parsed.base + "/index").replaceAll("//", "/");
+    } else {
+      res.sendFile(path.resolve(file));
+      return;
+    }
   }
 
   // No extension (append .html)
+  parsed = path.parse(_path);
   if (parsed.ext == "") {
-    parsed = path.parse(req.path + ".html");
+    _path = _path + ".html";
     // Exact match
-    file = options.input + parsed.dir + "/" + parsed.base;
+    parsed = path.parse(_path);
+    file = (options.input + parsed.dir + "/" + parsed.base).replaceAll("//", "/");
     if (fs.existsSync(file)) {
       res.sendFile(path.resolve(file));
       return;
@@ -65,8 +80,8 @@ app.get(/.*/, (req, res) => {
   }
 
   // Markdown parser
-  if (parsed.ext.toLowerCase() == ".html") {
-    file = options.input + parsed.dir + "/" + parsed.name + ".md";
+  if (parsed.ext.toLowerCase() == ".html" || parsed.ext.toLowerCase() == ".md") {
+    file = (options.input + parsed.dir + "/" + parsed.name + ".md").replaceAll("//", "/");
     if (fs.existsSync(file)) {
       // Template
       let template;
@@ -88,6 +103,7 @@ app.get(/.*/, (req, res) => {
       if (contentDom.window.document.body.children[0]?.tagName == "H1")
         dom.window.document.title = contentDom.window.document.body.children[0].textContent;
 
+      res.header("Content-Type", "text/html; charset=utf-8");
       res.send(prettier.format(dom.serialize(), { parser: "html" }));
       return;
     }
