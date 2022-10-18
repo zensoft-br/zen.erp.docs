@@ -42,6 +42,7 @@ markdown.use(markdownItAttrs, {
 
 const app = express();
 
+// Webhook for repository update
 app.get("/api/refresh", (req, res) => {
   try {
     const result = ncp.execSync("git pull");
