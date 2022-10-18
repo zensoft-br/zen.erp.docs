@@ -40,11 +40,10 @@ markdown.use(markdownItAttrs, {
   allowedAttributes: ["id", "class"],
 });
 
-
 const app = express();
 
 // Webhook for repository update
-app.get("/api/refresh", (req, res) => {
+app.post("/api/refresh", (req, res) => {
   try {
     const result = ncp.execSync("git pull");
     res.status(200).send(result.toString());
