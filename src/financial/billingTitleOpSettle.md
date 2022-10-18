@@ -4,11 +4,11 @@
 
 Ao incluir um título manualmente, o operador deverá informar a conta contábil de classificação do título e uma conta contábel de contrapartida que indique a origem da operação.
 
-Após a inclusão, o título deverá ser aprovado, e neste momento um lançamento contábil será escriturado.
-
 **Financeiro, Contas a pagar, Incluir**{.menu}
 
 **Financeiro, Contas a receber, Incluir**{.menu}
+
+> Após a inclusão, o título deverá ser aprovado, e neste momento um lançamento contábil será escriturado.
 
 ## Alteração manual de título
 
@@ -26,6 +26,7 @@ Um título **APROVADO**{.status} poderá ter o vencimento alterado.
 ## Exclusão manual de título
 
 Títulos incluídos manualmente podem ser excluídos, desde que estejam no status **PREPARANDO**{.status}.
+
 Títulos criados automaticamente por processos do Zen não podem ser excluídos.
 
 **Financeiro, Contas a pagar, Excluir**{.menu}
@@ -35,7 +36,8 @@ Títulos criados automaticamente por processos do Zen não podem ser excluídos.
 ## Antecipação de recursos para fornecedores ou de clientes
 
 Antecipações poderão ser tratadas diretamente no módulo contábil, com lançamentos nas respectivas contas contábeis.
-Posteriormente, nas liquidações de títulos futuras, estas contas contábeis poderão ser utilizadas como origem de recursos para a liquidação.
+
+> Posteriormente, nas liquidações de títulos futuras, estas contas contábeis poderão ser utilizadas como origem de recursos para a liquidação.
 
 **Contabilidade, Lançamentos contábeis, Incluir**{.menu}
 

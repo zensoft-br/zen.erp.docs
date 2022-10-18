@@ -1376,8 +1376,9 @@ body.z-docs .field::before {
   color: var(--color-primary);
 }
 body.z-docs .menu {
-  font-weight: normal;
   background-color: var(--color-background);
+  font-weight: normal;
+  line-height: calc(1rem + var(--border-radius) * 2);
   border: 1px dotted var(--color-on-surface);
   border-radius: var(--border-radius);
   padding: 0 var(--border-radius);
@@ -1388,9 +1389,10 @@ body.z-docs .menu::before {
   margin-right: var(--border-radius);
 }
 body.z-docs .status {
-  font-weight: normal;
   background-color: var(--color-primary);
   color: var(--color-on-primary);
+  font-weight: normal;
+  line-height: calc(1rem + var(--border-radius) * 2);
   border: 1px dotted var(--color-on-surface);
   border-radius: var(--border-radius);
   padding: 0 var(--border-radius);
