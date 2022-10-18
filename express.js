@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 import argparse from "argparse";
 import express from "express";
 import fs from "fs";
