@@ -2,7 +2,7 @@
 
 ## Inclusão manual de título
 
-Ao incluir um título manualmente, o operador deverá informar a conta contábil de classificação do título e uma conta contábel de contrapartida que indique a origem da operação.
+Ao incluir um título manualmente, o operador deverá informar a conta contábil de classificação do título e uma conta contábil de contrapartida que indique a origem da operação.
 
 **Financeiro, Contas a pagar, Incluir**{.menu}
 
