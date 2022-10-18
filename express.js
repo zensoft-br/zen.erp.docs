@@ -6,6 +6,7 @@ import markdownIt from "markdown-it";
 import markdownItAttrs from "markdown-it-attrs";
 import path from "path";
 import prettier from "prettier"
+import ncp from "node:child_process";
 
 const argumentParser = new argparse.ArgumentParser({});
 argumentParser.add_argument("-i", "--input", {
@@ -40,6 +41,15 @@ markdown.use(markdownItAttrs, {
 });
 
 const app = express();
+
+app.get("/api/refresh", (req, res) => {
+  try {
+    const result = ncp.execSync("git pull");
+    res.status(200).send(result.toString());
+  } catch (error) {
+    res.status(500).send(JSON.stringify(error));
+  }
+});
 
 app.get(/.*/, (req, res) => {
   let _path = req.path;
