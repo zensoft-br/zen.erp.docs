@@ -1,12 +1,13 @@
+import child_process from "node:child_process";
+import fs from "node:fs";
+import path from "node:path";
+
 import argparse from "argparse";
 import express from "express";
-import fs from "fs";
 import jsdom from "jsdom";
 import markdownIt from "markdown-it";
 import markdownItAttrs from "markdown-it-attrs";
-import path from "path";
-import prettier from "prettier"
-import ncp from "node:child_process";
+import prettier from "prettier";
 
 const argumentParser = new argparse.ArgumentParser({});
 argumentParser.add_argument("-i", "--input", {
@@ -44,9 +45,14 @@ const app = express();
 
 // Webhook for repository update
 app.post("/api/refresh", (req, res) => {
+  // TODO
+  // atualizar o repositório
+  // reconstruir o índice fts
+  // reiniciar o serviço
   try {
-    const result = ncp.execSync("git pull");
-    res.status(200).send(result.toString());
+    child_process.execSync("git reset --hard HEAD");
+    child_process.execSync("git pull");
+    res.status(200).send("refresh");
   } catch (error) {
     res.status(500).send(JSON.stringify(error));
   }
