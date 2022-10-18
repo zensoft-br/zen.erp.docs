@@ -4,6 +4,7 @@ Seja bem vindo à documentação do Zen Erp.
 
 ## Módulos
 
+* [Cadastros](catalog)
 * [Auditoria](audit)
 * [Contabilidade](accounting)
 * [Financeiro](financial)

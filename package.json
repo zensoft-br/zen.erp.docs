@@ -5,7 +5,7 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "express": "node express.js -i src -t src/template.html -s .content -p 3100",
+    "express": "node index.js -i src -t src/template.html -s .content -p 3100",
     "npm": "npm install",
     "scss:zen": "sass scss/main.scss src/styles.zen.css",
     "scss:zen:watch": "sass scss/main.scss src/styles.zen.css --watch",

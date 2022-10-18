@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <script src="http://elasticlunr.com/elasticlunr.min.js"></script>
+  <script src="https://rawcdn.githack.com/nextapps-de/flexsearch/0.7.31/dist/flexsearch.compact.js"></script>
+  <script src="https://rawcdn.githack.com/nextapps-de/flexsearch/0.7.31/dist/lang/latin/advanced.min.js"></script>
+</head>
+
+<body>
+  <script>
+    // const lunr = elasticlunr(function () {
+    //   this.addField('title');
+    //   this.addField('body');
+    //   this.addField('path');
+    //   this.setRef('id');
+    // });
+
+    // lunr.addDoc({
+    //   id: 1,
+    //   title: "hello world",
+    //   body: "bonin fabiano",
+    //   path: "asdfg"
+    // });
+
+    // console.log(lunr.search("asdfg"));
+
+    // const doc = new FlexSearch.Document({
+    //   document: {
+    //     id: "id",
+    //     index: ["content"]
+    //   }
+    // });
+
+    // doc.add({
+    //   id: 0,
+    //   content: "some text"
+    // });
+  </script>
+  <script>
+    // index
+    // FlexSearch({
+    //   charset: "latin"
+    // });
+    const index = new FlexSearch.Document({
+      charset: "latin",
+      encode: e => e,
+      document: {
+        id: "id",
+        index: ["title", "headers", "content"]
+      }
+    });
+
+    (async () => {
+      const response = await fetch("/fts.json");
+      const docs = await response.json();
+
+      // Add documents to index
+      for (let i = 0; i < docs.length; i++) {
+        const doc = docs[i];
+
+        index.add({
+          id: i,
+          title: doc.title,
+          headers: doc.headers,
+          content: doc.content,
+        });
+      }
+
+      console.log(index.search("liquidacao", {
+        index: ["headers"],
+        enrich: true
+      }));
+    })();
+  </script>
+</body>
+
+</html>
