@@ -1112,6 +1112,7 @@ body.z-docs {
   height: calc(100vh - 5rem);
   display: flex;
   flex-direction: column;
+  line-height: normal;
 }
 body.z-docs html {
   background-color: var(--color-background);
@@ -1293,12 +1294,13 @@ body.z-docs img.icon {
 body.z-docs ul {
   list-style-position: inside;
   list-style-type: circle;
-  margin: 0;
-  padding: 0;
 }
 body.z-docs ol {
   list-style-position: inside;
   list-style-type: decimal;
+}
+body.z-docs li {
+  margin-bottom: 0.5rem;
 }
 body.z-docs table {
   width: fit-content;
@@ -1400,8 +1402,6 @@ body.z-docs .menu::before {
 body.z-docs .status {
   background-color: var(--color-primary);
   color: var(--color-on-primary);
-  font-weight: normal;
-  line-height: calc(1rem + var(--border-radius) * 2);
   border: 1px dotted var(--color-on-surface);
   border-radius: var(--border-radius);
   padding: 0 var(--border-radius);
@@ -1412,6 +1412,13 @@ body.z-docs .status::before {
   font-weight: bold;
   font-size: 75%;
   margin-right: var(--border-radius);
+}
+body.z-docs .tag {
+  background-color: var(--color-secondary);
+  color: var(--color-on-secondary);
+  border: 1px dotted var(--color-on-surface);
+  border-radius: var(--border-radius);
+  padding: 0 var(--border-radius);
 }
 
 body.z-grid {

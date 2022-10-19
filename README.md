@@ -9,8 +9,10 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/Cascade
 
 {.button}, botão
 {.field}, campo de edição
+{.field .required}, campo de edição obrigatório
 {.menu}, menu
 {.status}, status
+{.tag}, tag
 
 ## Technical info for the backend
 

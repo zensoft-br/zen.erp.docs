@@ -7,6 +7,7 @@ import express from "express";
 import jsdom from "jsdom";
 import markdownIt from "markdown-it";
 import markdownItAttrs from "markdown-it-attrs";
+import markdownItBracketedSpans from "markdown-it-bracketed-spans";
 import prettier from "prettier";
 
 const argumentParser = new argparse.ArgumentParser({});
@@ -35,6 +36,7 @@ argumentParser.add_argument("-p", "--port", {
 const options = argumentParser.parse_args();
 
 const markdown = markdownIt({ html: true });
+markdown.use(markdownItBracketedSpans);
 markdown.use(markdownItAttrs, {
   leftDelimiter: "{",
   rightDelimiter: "}",

@@ -27,7 +27,10 @@
     "jsdom": "^20.0.1",
     "markdown-it": "^13.0.1",
     "markdown-it-attrs": "^4.1.4",
-    "prettier": "^2.7.1",
+    "markdown-it-bracketed-spans": "^1.0.1",
+    "prettier": "^2.7.1"
+  },
+  "devDependencies": {
     "sass": "^1.55.0"
   }
 }
