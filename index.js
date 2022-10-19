@@ -47,16 +47,14 @@ const app = express();
 
 // Webhook for repository update
 app.post("/api/refresh", (req, res) => {
-  // TODO
-  // atualizar o repositório
-  // reconstruir o índice fts
-  // reiniciar o serviço
+  res.status(200).send("refresh");
   try {
     child_process.execSync("git reset --hard HEAD");
     child_process.execSync("git pull");
-    res.status(200).send("refresh");
+    child_process.execSync("npm install");
+    child_process.execSync("service zen.docs restart");
   } catch (error) {
-    res.status(500).send(JSON.stringify(error));
+    console.error(error);
   }
 });
 
