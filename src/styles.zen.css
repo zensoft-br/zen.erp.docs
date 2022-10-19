@@ -1366,13 +1366,22 @@ body.z-docs table thead {
   inset-block-start: unset;
 }
 body.z-docs .field {
+  background-color: var(--color-background);
   font-weight: normal;
+  line-height: calc(1rem + var(--border-radius) * 2);
   border: 1px dotted var(--color-on-surface);
   border-radius: var(--border-radius);
   padding: 0 var(--border-radius);
 }
 body.z-docs .field::before {
   content: "✎";
+  color: var(--color-on-surface);
+}
+body.z-docs .field.required::after {
+  content: "obrigatório";
+  font-size: 75%;
+  font-weight: bold;
+  margin-left: var(--border-radius);
   color: var(--color-primary);
 }
 body.z-docs .menu {
