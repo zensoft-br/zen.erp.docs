@@ -52,7 +52,7 @@ app.post("/api/refresh", (req, res) => {
     child_process.execSync("git reset --hard HEAD");
     child_process.execSync("git pull");
     child_process.execSync("npm install");
-    child_process.execSync("service zen.docs restart");
+    child_process.execSync("/usr/sbin/service zen.docs restart");
   } catch (error) {
     console.error(error);
   }
