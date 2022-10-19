@@ -53,7 +53,7 @@ Informe a conta contábil de adiantamento. É a mesma conta que foi utilizada pa
 Informe o valor total a liquidar
 * Clique em [Processar]{.button}
 
-## Antecipção no valor parcial referente ao faturamento
+## Antecipação no valor parcial referente ao faturamento
 
 Nesse caso, o valor antecipado é apenas uma parte do valor que será faturado, e o valor restante será pago futuramente.
 
@@ -111,5 +111,5 @@ Nesse momento o sistema já incluiu um conta a receber para o cliente
 * Na tela de liquidação clique em [Processar]{.button}
 
 
-## Antecipção no valor maior que o valor que será faturado nesse momento
+## Antecipação no valor maior que o valor que será faturado nesse momento
 
