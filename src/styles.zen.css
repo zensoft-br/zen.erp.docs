@@ -1302,6 +1302,10 @@ body.z-docs ol {
 body.z-docs li {
   margin-bottom: 0.5rem;
 }
+body.z-docs li ol,
+body.z-docs li ul {
+  margin-left: 1rem;
+}
 body.z-docs table {
   width: fit-content;
   height: fit-content;
