@@ -131,5 +131,5 @@ app.get(/.*/, (req, res) => {
 });
 
 app.listen(options.port, () => {
-  console.log(`Example app listening on port ${options.port}`)
+  console.log(`zen.docs listening on port ${options.port}`)
 });
