@@ -7,6 +7,7 @@ Opcionalmente, as antecipações poderão ser registradas como contas a pagar e 
 
 A antecipação feita pelo cliente pode ser no valor total exato que será faturado, um valor parcial referente ao faturamento ou mesmo um valor maior que o valor que será faturado nesse momento.
 
+
 ## Antecipação no valor total exato que será faturado
 
 Nesse caso, o valor do faturamento é exatamente o mesmo que o valor que foi antecipado.
@@ -52,6 +53,7 @@ Informe a conta contábil de adiantamento. É a mesma conta que foi utilizada pa
 * [Valor]{.field .required}
 Informe o valor total a liquidar
 * Clique em [Processar]{.button}
+
 
 ## Antecipação no valor parcial referente ao faturamento
 
@@ -111,5 +113,50 @@ Nesse momento o sistema já incluiu um conta a receber para o cliente
 * Na tela de liquidação clique em [Processar]{.button}
 
 
-## Antecipação no valor maior que o valor que será faturado nesse momento {.todo}
+## Antecipação no valor maior que o valor que será faturado nesse momento
 
+Nesse caso, o cliente envia um valor que será abatido em vários faturamentos futuros.
+
+Como o valor que foi antecipado pelo cliente é maior que o valor do faturamento, o cliente ficará com o saldo para ser usado em faturamentos futuros. O controle desse saldo será feito na contabilidade.
+
+### Antecipação de cliente na contabilidade
+
+Acesse [Financeiro, Incluir receita]{.menu}
+
+Preencha os campos:
+* [Empresa]{.field .required}
+* [Data]{.field}
+Se o campo data não for preenchido o sistema adotará a data atual.
+* [Valor]{.field .required}
+* [Descrição]{.field .required}
+* [Discriminação da receita]{.field .required}
+Informe a conta contábil de adiantamento. Essa conta pode ser uma "diversa" para todos os clientes, ou pode ser cadastrado uma conta contábil para cada cliente.
+* [Destino dos recursos]{.field .required}
+Informe a conta contábil do banco onde o recurso foi depositado.
+
+Clique em [Processar]{.button}
+
+### Liquidar o conta a receber utilizando a antecipação
+
+O conta a receber será gerado automaticamente pelo processo de faturamento. Após o faturamento, será necessário fazer a liquidação do conta a receber baixando a conta de antecipação do cliente.
+
+Acesse [Financeiro, Contas a receber]{.menu}
+
+Clique em [Pesquisar]{.button}
+
+> O conta a receber pode ser acessado pelo grid de nota fiscal. Dessa forma será exibido apenas o conta a receber gerado pela nota fiscal selecionada.
+
+Selecione o conta a receber e clique em [Avançar]{.button} e em seguida clique em [Liquidar contas a receber]{.button}
+
+Na tela de liquidação preencha os campos:
+* [Data]{.field}
+Se o campo data não for preenchido o sistema adotará a data atual.
+
+Se for necessário ajustar o valor que será liquidado, utilize os campos [Desconto]{.field} ou [Juros]{.field}
+
+ Clique em [Incluir liquidação]{.button} e preencha os campos:
+* [Conta cotábil]{.field .required}
+Informe a conta contábil de adiantamento. É a mesma conta que foi utilizada para o lançamento da receita. 
+* [Valor]{.field .required}
+Informe o valor total a liquidar
+* Clique em [Processar]{.button}
