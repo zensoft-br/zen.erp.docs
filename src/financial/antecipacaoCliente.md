@@ -1,4 +1,4 @@
-# Antecipação de recursos de clientes
+# [Antecipação de recursos de clientes]{.draft}
 
 Antecipações poderão ser tratadas diretamente no módulo contábil, com lançamentos nas respectivas contas contábeis.
 Posteriormente, nas liquidações de títulos estas contas contábeis poderão ser utilizadas como origem de recursos para a liquidação.
@@ -111,5 +111,5 @@ Nesse momento o sistema já incluiu um conta a receber para o cliente
 * Na tela de liquidação clique em [Processar]{.button}
 
 
-## Antecipação no valor maior que o valor que será faturado nesse momento
+## Antecipação no valor maior que o valor que será faturado nesse momento {.todo}
 
