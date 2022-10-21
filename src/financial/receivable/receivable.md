@@ -37,11 +37,13 @@ Informe a conta contábil da "contra partida".
 * Clique em [Gravar]{.button}
 
 
-## Aprovação da conta a receber
+## Aprovação de conta a receber
 
-A conta a receber gerada está com status [PREPARING]{.status}. É necessário aprovar esse documento.
+A conta a receber gerada manualmente está com status [PREPARING]{.status}. É necessário aprovar esse documento.
 
 Selecione a conta a receber e clique em [Avançar]{.button} e em seguida clique em [Aprovar conta a receber]{.button} e depois clique no botão [Fechar]{.button}
+
+> Contas a receber gerada automaticamente pelo processo de faturamento já ficam com status [APPROVED]{.status}
 
 
 ## Manutenção de contas a receber
