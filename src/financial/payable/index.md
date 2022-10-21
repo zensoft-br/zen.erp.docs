@@ -1,3 +1,6 @@
-# [Módulo de contas a pagar]{.draft}
+# Módulo contas a pagar
+
+[]{.draft}
 
 * [Contas a pagar](payable)
+* [Incluir despesa](expenseOpCreate)

@@ -1,4 +1,6 @@
-# [Contas a receber]{.draft}
+# Contas a receber
+
+[]{.draft}
 
 ## Manutenção de contas a receber
 

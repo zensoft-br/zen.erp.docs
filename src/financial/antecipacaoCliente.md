@@ -1,4 +1,6 @@
-# [Antecipação de recursos de clientes]{.draft}
+# Antecipação de recursos de clientes
+
+[]{.draft}
 
 Antecipações poderão ser tratadas diretamente no módulo contábil, com lançamentos nas respectivas contas contábeis.
 Posteriormente, nas liquidações de títulos estas contas contábeis poderão ser utilizadas como origem de recursos para a liquidação.
@@ -29,17 +31,17 @@ Informe a conta contábil do banco onde o recurso foi depositado.
 
 Clique em [Processar]{.button}
 
-### Liquidar o conta a receber utilizando a antecipação
+### Liquidar a conta a receber utilizando a antecipação
 
-O conta a receber será gerado automaticamente pelo processo de faturamento. Após o faturamento, será necessário fazer a liquidação do conta a receber baixando a conta de antecipação do cliente.
+A conta a receber será gerada automaticamente pelo processo de faturamento. Após o faturamento, será necessário fazer a liquidação da conta a receber baixando a conta de antecipação do cliente.
 
 Acesse [Financeiro, Contas a receber]{.menu}
 
 Clique em [Pesquisar]{.button}
 
-> O conta a receber pode ser acessado pelo grid de nota fiscal. Dessa forma será exibido apenas o conta a receber gerado pela nota fiscal selecionada.
+> A conta a receber pode ser acessado pelo grid de nota fiscal. Dessa forma será exibido apenas a conta a receber gerado pela nota fiscal selecionada.
 
-Selecione o conta a receber e clique em [Avançar]{.button} e em seguida clique em [Liquidar contas a receber]{.button}
+Selecione a conta a receber e clique em [Avançar]{.button} e em seguida clique em [Liquidar contas a receber]{.button}
 
 Na tela de liquidação preencha os campos:
 * [Data]{.field}
@@ -76,17 +78,17 @@ Informe a conta contábil do banco onde o recurso foi depositado.
 
 Clique em [Processar]{.button}
 
-### Liquidar o conta a receber utilizando a antecipação
+### Liquidar a conta a receber utilizando a antecipação
 
-O conta a receber será gerado automaticamente pelo processo de faturamento. Após o faturamento, será necessário fazer a liquidação do conta a receber baixando a conta de antecipação do cliente e criando um novo conta a receber para ser pago no futuro.
+A conta a receber será gerada automaticamente pelo processo de faturamento. Após o faturamento, será necessário fazer a liquidação da conta a receber baixando a conta de antecipação do cliente e criando uma nova conta a receber para ser paga no futuro.
 
 Acesse [Financeiro, Contas a receber]{.menu}
 
 Clique em [Pesquisar]{.button}
 
-> O conta a receber pode ser acessado pelo grid de nota fiscal. Dessa forma será exibido apenas o conta a receber gerado pela nota fiscal selecionada.
+> A conta a receber pode ser acessada pelo grid de nota fiscal. Dessa forma será exibido apenas a conta a receber gerada pela nota fiscal selecionada.
 
-Selecione o conta a receber e clique em [Avançar]{.button} e em seguida clique em [Liquidar contas a receber]{.button}
+Selecione a conta a receber e clique em [Avançar]{.button} e em seguida clique em [Liquidar contas a receber]{.button}
 
 Na tela de liquidação preencha os campos:
 * [Data]{.field}
@@ -109,7 +111,7 @@ Informe a conta contábil da "partida"
 * [Conta contábil 2]{.field}
 Informe a conta contábil da "contra partida"
 * Clique em [Gravar]{.button}
-Nesse momento o sistema já incluiu um conta a receber para o cliente
+Nesse momento o sistema já incluiu uma conta a receber para o cliente
 * Na tela de liquidação clique em [Processar]{.button}
 
 
@@ -136,17 +138,17 @@ Informe a conta contábil do banco onde o recurso foi depositado.
 
 Clique em [Processar]{.button}
 
-### Liquidar o conta a receber utilizando a antecipação
+### Liquidar a conta a receber utilizando a antecipação
 
-O conta a receber será gerado automaticamente pelo processo de faturamento. Após o faturamento, será necessário fazer a liquidação do conta a receber baixando a conta de antecipação do cliente.
+A conta a receber será gerada automaticamente pelo processo de faturamento. Após o faturamento, será necessário fazer a liquidação da conta a receber baixando a conta de antecipação do cliente.
 
 Acesse [Financeiro, Contas a receber]{.menu}
 
 Clique em [Pesquisar]{.button}
 
-> O conta a receber pode ser acessado pelo grid de nota fiscal. Dessa forma será exibido apenas o conta a receber gerado pela nota fiscal selecionada.
+> A conta a receber pode ser acessada pelo grid de nota fiscal. Dessa forma será exibido apenas a conta a receber gerado pela nota fiscal selecionada.
 
-Selecione o conta a receber e clique em [Avançar]{.button} e em seguida clique em [Liquidar contas a receber]{.button}
+Selecione a conta a receber e clique em [Avançar]{.button} e em seguida clique em [Liquidar contas a receber]{.button}
 
 Na tela de liquidação preencha os campos:
 * [Data]{.field}

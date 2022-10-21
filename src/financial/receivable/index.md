@@ -1,3 +1,6 @@
-# [Módulo de contas a receber]{.draft}
+# Módulo contas a receber
+
+[]{.draft}
 
 * [Contas a receber](receivable)
+* [Incluir receita](revenueOpCreate)
