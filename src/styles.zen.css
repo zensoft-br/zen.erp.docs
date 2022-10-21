@@ -1293,7 +1293,7 @@ body.z-docs img.icon {
 }
 body.z-docs ul {
   list-style-position: inside;
-  list-style-type: circle;
+  list-style-type: disc;
 }
 body.z-docs ol {
   list-style-position: inside;
@@ -1371,6 +1371,16 @@ body.z-docs table .icon {
 body.z-docs table thead {
   inset-block-start: unset;
 }
+body.z-docs .draft {
+  background-color: var(--color-on-surface);
+  color: var(--color-surface);
+  border: 1px dotted var(--color-on-surface);
+  border-radius: var(--border-radius);
+  padding: 0 var(--border-radius);
+}
+body.z-docs .draft::before {
+  content: "Atençao! Este documento é um rascunho";
+}
 body.z-docs .field {
   background-color: var(--color-background);
   font-weight: normal;
@@ -1423,6 +1433,16 @@ body.z-docs .tag {
   border: 1px dotted var(--color-on-surface);
   border-radius: var(--border-radius);
   padding: 0 var(--border-radius);
+}
+body.z-docs .todo {
+  background-color: var(--color-on-surface);
+  color: var(--color-surface);
+  border: 1px dotted var(--color-on-surface);
+  border-radius: var(--border-radius);
+  padding: 0 var(--border-radius);
+}
+body.z-docs .todo::before {
+  content: "A fazer";
 }
 
 body.z-grid {
