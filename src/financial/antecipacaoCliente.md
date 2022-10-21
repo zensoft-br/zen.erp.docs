@@ -53,7 +53,7 @@ Se for necessário ajustar o valor que será liquidado, utilize os campos [Desco
 * [Conta cotábil]{.field .required}
 Informe a conta contábil de adiantamento. É a mesma conta que foi utilizada para o lançamento da receita. 
 * [Valor]{.field .required}
-Informe o valor total a liquidar
+Informe o valor total a liquidar.
 * Clique em [Processar]{.button}
 
 
@@ -94,24 +94,24 @@ Na tela de liquidação preencha os campos:
 * [Data]{.field}
 Se o campo data não for preenchido o sistema adotará a data atual.
 
-Se for necessário ajustar o valor que será liquidado, utilize os campos [Desconto]{.field} ou [Juros]{.field}
+Se for necessário ajustar o valor que será liquidado, utilize os campos [Desconto]{.field} ou [Juros]{.field}.
 
  Clique em [Incluir liquidação]{.button} e preencha os campos:
 * [Conta cotábil]{.field .required}
 Informe a conta contábil de adiantamento. É a mesma conta que foi utilizada para o lançamento da receita. 
 * [Valor]{.field .required}
-Informe o valor que foi antecipado pelo cliente
+Informe o valor que foi antecipado pelo cliente.
 * Clique em [Incluir renegociação]{.button}
 O sistema vai abrir a tela de inclusão de conta a receber. Preencha os campos:
 * [Vencimento]{.field}
 * [Valor]{.field .required}
-Informe o valor em aberto para acerto futuro
+Informe o valor em aberto para acerto futuro.
 * [Conta contábil 1]{.field}
-Informe a conta contábil da "partida"
+Informe a conta contábil da "partida".
 * [Conta contábil 2]{.field}
-Informe a conta contábil da "contra partida"
+Informe a conta contábil da "contra partida".
 * Clique em [Gravar]{.button}
-Nesse momento o sistema já incluiu uma conta a receber para o cliente
+Nesse momento o sistema já incluiu uma conta a receber para o cliente.
 * Na tela de liquidação clique em [Processar]{.button}
 
 
@@ -154,11 +154,11 @@ Na tela de liquidação preencha os campos:
 * [Data]{.field}
 Se o campo data não for preenchido o sistema adotará a data atual.
 
-Se for necessário ajustar o valor que será liquidado, utilize os campos [Desconto]{.field} ou [Juros]{.field}
+Se for necessário ajustar o valor que será liquidado, utilize os campos [Desconto]{.field} ou [Juros]{.field}.
 
  Clique em [Incluir liquidação]{.button} e preencha os campos:
 * [Conta cotábil]{.field .required}
 Informe a conta contábil de adiantamento. É a mesma conta que foi utilizada para o lançamento da receita. 
 * [Valor]{.field .required}
-Informe o valor total a liquidar
+Informe o valor total a liquidar.
 * Clique em [Processar]{.button}
