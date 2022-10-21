@@ -9,6 +9,11 @@ Opcionalmente, as antecipações poderão ser registradas como contas a pagar e 
 
 A antecipação feita pelo cliente pode ser no valor total exato que será faturado, um valor parcial referente ao faturamento ou mesmo um valor maior que o valor que será faturado nesse momento.
 
+Esta operação poderá ser feita de três formas:
+
+1. Diretamente na contabilidade
+1. [Lançamento de receita](revenueOpCreate)
+1. Lançamento de conta a pagar
 
 ## Antecipação no valor total exato que será faturado
 

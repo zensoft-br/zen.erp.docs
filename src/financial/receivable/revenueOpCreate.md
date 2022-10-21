@@ -1,3 +1,0 @@
-# Incluir receita
-
-[]{.draft}

@@ -1443,6 +1443,15 @@ body.z-docs .todo {
 }
 body.z-docs .todo::before {
   content: "A fazer";
+  padding-right: var(--border-radius);
+}
+body.z-docs .xxx::before {
+  content: "Atenção!";
+  background-color: var(--color-on-surface);
+  color: var(--color-surface);
+  border: 1px dotted var(--color-on-surface);
+  border-radius: var(--border-radius);
+  padding: 0 var(--border-radius);
 }
 
 body.z-grid {

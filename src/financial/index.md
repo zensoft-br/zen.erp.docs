@@ -8,6 +8,4 @@
 * [Contas a receber](receivable)
 * [Moedas](currency)
 * [Liquidação de títulos](billingTitleOpSettle)
-* [Antecipação de clientes](antecipacaoCliente)
-
-
+* [Antecipação de clientes](receivableAnticipation)
