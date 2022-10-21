@@ -1,3 +1,5 @@
-# [Planos de contas contábeis]{.draft}
+# Planos de contas contábeis
+
+[]{.draft}
 
 * [Contas contábeis](account)

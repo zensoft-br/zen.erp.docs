@@ -1,1 +1,3 @@
-# [Alimentar o estoque através de planilha]{.draft}
+# Alimentar o estoque através de planilha
+
+[]{.draft}

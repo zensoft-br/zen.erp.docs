@@ -1,1 +1,3 @@
-# [Transações de estoque]{.draft}
+# Transações de estoque
+
+[]{.draft}

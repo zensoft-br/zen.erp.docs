@@ -1,1 +1,3 @@
-# [Alimentar o estoque através de coletor de dados]{.draft}
+# Alimentar o estoque através de coletor de dados
+
+[]{.draft}

@@ -1,4 +1,6 @@
-# [Módulo de cadastros]{.draft}
+# Módulo cadastros
+
+[]{.draft}
 
 * [Categorias](category)
 * [Empresas](company)

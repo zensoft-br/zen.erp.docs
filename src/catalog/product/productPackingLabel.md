@@ -1,1 +1,3 @@
-# [Impressão de etiquetas de identificação de produtos]{.draft}
+# Impressão de etiquetas de identificação de produtos
+
+[]{.draft}

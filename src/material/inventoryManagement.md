@@ -1,1 +1,3 @@
-# [Gestão de estoque]{.draft}
+# Gestão de estoques
+
+[]{.draft}

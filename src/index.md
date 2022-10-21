@@ -15,3 +15,4 @@ Seja bem vindo à documentação do Zen Erp.
 * [Tributação](taxation)
 * [Produção](transformation)
 * [Sistema](system)
+* [Segurança](security)

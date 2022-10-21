@@ -1,1 +1,3 @@
-# [Tributações nos itens das notas fiscais]{.draft}
+# Tributações nos itens das notas fiscais
+
+[]{.draft}

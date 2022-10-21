@@ -1,3 +1,5 @@
-# [Planos de centros de resultados]{.draft}
+# Planos de centros de resultados
+
+[]{.draft}
 
 * [Centros de resultados](resultCenter)

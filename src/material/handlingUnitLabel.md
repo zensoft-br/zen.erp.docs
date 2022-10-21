@@ -1,1 +1,3 @@
-# [Etiqueta de identificação de palete]{.draft}
+# Etiqueta de identificação de palete
+
+[]{.draft}
