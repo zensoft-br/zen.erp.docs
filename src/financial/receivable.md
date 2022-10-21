@@ -6,7 +6,7 @@ A conta a receber é gerada automaticamente pelo processo de faturamento. Ocasio
 
 ## Inlcusão de conta a receber manual
 
-Acesse [Financeiro, Conta a receber]{.menu}
+Acesse [Financeiro > Conta a receber]{.menu}
 
 Clique em [Incluir]{.button}
 
