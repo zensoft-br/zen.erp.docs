@@ -1,1 +1,3 @@
-# [Modelos/séries]{.draft}
+# Modelos/séries
+
+[]{.draft}

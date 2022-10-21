@@ -1,1 +1,3 @@
-# [Eventos de NFe's emitidos]{.draft}
+# Eventos de NFe's emitidos
+
+[]{.draft}

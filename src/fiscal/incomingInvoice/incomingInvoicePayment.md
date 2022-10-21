@@ -1,1 +1,3 @@
-# [Formas de pagamento]{.draft}
+# Formas de pagamento
+
+[]{.draft}

@@ -1,1 +1,3 @@
-# [Disponibilidade de estoque]{.draft}
+# Disponibilidade de estoque
+
+[]{.draft}

@@ -1,1 +1,3 @@
-# [Buscar documentos fiscais eletrônicos]{.draft}
+# Buscar documentos fiscais eletrônicos
+
+[]{.draft}

@@ -1,1 +1,3 @@
-# [Estoque físico]{.draft}
+# Estoque físico
+
+[]{.draft}

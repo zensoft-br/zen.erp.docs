@@ -1,1 +1,3 @@
-# [Paletes]{.draft}
+# Paletes
+
+[]{.draft}

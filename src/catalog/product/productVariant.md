@@ -1,1 +1,3 @@
-# [Variantes]{.draft}
+# Variantes
+
+[]{.draft}

@@ -1,4 +1,6 @@
-# [Localidades]{.draft}
+# Módulo localidades
+
+[]{.draft}
 
 * [Cidades](city)
 * [Estados](state)

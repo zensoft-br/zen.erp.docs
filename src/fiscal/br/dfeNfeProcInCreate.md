@@ -1,1 +1,3 @@
-# [Importar XML de NFe's]{.draft}
+# Importar XML de NFe's
+
+[]{.draft}

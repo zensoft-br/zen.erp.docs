@@ -1,1 +1,3 @@
-# [Alimentar o estoque manualmente]{.draft}
+# Alimentar o estoque manualmente
+
+[]{.draft}

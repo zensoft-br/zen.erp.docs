@@ -1,1 +1,3 @@
-# [Exportar NFe's emitidas]{.draft}
+# Exportar NFe's emitidas
+
+[]{.draft}

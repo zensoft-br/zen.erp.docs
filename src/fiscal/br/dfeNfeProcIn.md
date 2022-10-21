@@ -1,1 +1,3 @@
-# [NFe's recebidas]{.draft}
+# NFe's recebidas
+
+[]{.draft}

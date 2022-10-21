@@ -1,1 +1,3 @@
-# [Resumo de eventos]{.draft}
+# Resumo de eventos
+
+[]{.draft}

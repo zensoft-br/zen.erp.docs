@@ -1,4 +1,6 @@
-# [Romaneios de entrada]{.draft}
+# Romaneios de entrada
+
+[]{.draft}
 
 ## Grids
 

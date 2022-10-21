@@ -1,1 +1,3 @@
-# [Aprovar nota fiscal de entrada]{.draft}
+# Aprovar nota fiscal de entrada
+
+[]{.draft}

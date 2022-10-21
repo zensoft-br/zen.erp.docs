@@ -1,3 +1,5 @@
-# [Centros de resultados]{.draft}
+# Centros de resultados
+
+[]{.draft}
 
 

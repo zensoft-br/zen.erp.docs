@@ -1,4 +1,6 @@
-# [Módulo de produtos]{.draft}
+# Módulo produtos
+
+[]{.draft}
 
 * [Conversões de unidades](productUnitConversion)
 * [Listas de conversões de códigos](codeConversionList)

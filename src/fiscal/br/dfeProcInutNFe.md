@@ -1,1 +1,3 @@
-# [Inutilização de numeração de NFe's]{.draft}
+# Inutilização de numeração de NFe's
+
+[]{.draft}

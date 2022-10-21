@@ -1,1 +1,3 @@
-# [Notas fiscais de entrada]{.draft}
+# Notas fiscais de entrada
+
+[]{.draft}

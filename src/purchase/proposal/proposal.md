@@ -1,3 +1,3 @@
-# Impostos
+# Propostas
 
 []{.draft}
