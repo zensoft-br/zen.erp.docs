@@ -1,3 +1,0 @@
-# Contas a pagar
-
-[]{.draft}

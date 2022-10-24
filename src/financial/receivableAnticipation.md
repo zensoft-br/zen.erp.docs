@@ -1,44 +1,29 @@
-# Antecipação de recursos de clientes
+# Antecipação de recebíveis
 
 []{.draft}
 
-Antecipações poderão ser tratadas diretamente no módulo contábil, com lançamentos nas respectivas contas contábeis. Posteriormente, nas liquidações de títulos estas contas contábeis poderão ser utilizadas como origem de recursos para a liquidação.
+A antecipação de recebíveis ocorre quando a empresa recebe um adiantamento de um cliente por conta do fornecimento futuro de bens e serviços, antes da entrega do produto ou serviço solicitado e da geração da nota fiscal.
 
-Opcionalmente, as antecipações poderão ser registradas como contas a pagar e estes títulos podem ser utilizados como **abatimento** em processos de liquidações futuros.
+Esta operação pode ser tratada de 3 formas:
 
-A antecipação feita pelo cliente pode ser no valor total exato que será faturado, um valor parcial referente ao faturamento ou mesmo um valor maior que o valor que será faturado nesse momento.
+## No módulo financeiro como uma receita
 
-Esta operação poderá ser feita de três formas:
+[Faça a inclusão de uma receita](revenueOpCreate) onde a **descriminação da receita** é a conta contábil do cliente e o **destino dos recursos** é a conta contábil de onde o recurso foi depositado (ex: banco).
 
-1. Diretamente na contabilidade
-1. [Lançamento de receita](revenueOpCreate)
-1. Lançamento de conta a pagar
+## No módulo contabilidade incluindo um lançamento contábil
 
-## Antecipação no valor total exato que será faturado
+[Faça a inclusão de um lançamento contábil](/accounting/journalEntryOpCreate) creditando a conta contábil do cliente e debitando a conta contábil onde o recurso foi depositado (ex: banco).
 
-Nesse caso, o valor do faturamento é exatamente o mesmo que o valor que foi antecipado.
+## Incluindo contas a pagar
 
-## Antecipação no valor parcial referente ao faturamento
+[Faça a inclusão de uma conta a pagar](payable-edit) para o cliente.
 
-Nesse caso, o valor antecipado é apenas uma parte do valor que será faturado, e o valor restante será pago futuramente.
+> Posteriormente, esta conta a pagar poderá ser utilizada como abatimento das contas a receber deste cliente.
 
-### Liquidar a conta a receber utilizando a antecipação
+# Liquidação de contas a receber baixando da antecipação de recebíveis
 
-A conta a receber será gerada automaticamente pelo processo de faturamento. Após o faturamento, será necessário fazer a liquidação da conta a receber baixando a conta de antecipação do cliente e criando uma nova conta a receber para ser paga no futuro.
+Acesse [Financeiro > Liquidação de contas a receber](receivableOpSettle){.menu}
 
-## Antecipação no valor maior que o valor que será faturado nesse momento
+Se a antecipação foi registrada na conta contábil do cliente, clique em [Incluir liquidação]{.button} e informe a conta contábil na liquidação.
 
-Nesse caso, o cliente envia um valor que será abatido em vários faturamentos futuros.
-
-Como o valor que foi antecipado pelo cliente é maior que o valor do faturamento, o cliente ficará com o saldo para ser usado em faturamentos futuros. O controle desse saldo será feito na contabilidade.
-
-
-
-
-
-
-
-Informe a conta contábil de adiantamento. É a mesma conta que foi utilizada para o lançamento da receita. 
-* [Valor]{.field .required}
-Informe o valor total a liquidar.
-* Clique em [Processar]{.button}
+Se a antecipação foi registrada como uma conta a pagar, clique em [Incluir abatimento]{.button} e informe a conta a pagar para abatimento.

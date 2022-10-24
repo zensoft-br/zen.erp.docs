@@ -3,11 +3,11 @@
 []{.draft}
 
 ## Contas a pagar
-* [Contas a pagar](payable)
+* [Contas a pagar](payable.md)
 
 ## Contas a receber
-* [Contas a receber](receivable)
-* [Liquidação de títulos](billingTitleOpSettle)
+* [Contas a receber](receivable.md)
+* [Liquidação de títulos](receivableOpSettle)
 * [Antecipação de clientes](receivableAnticipation)
 
 ## Cobrança

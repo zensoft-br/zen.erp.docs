@@ -6,9 +6,7 @@ Um lançamento contábil é um registro feito apenas na contabilidade, ou seja, 
 
 Acesse [Contabilidade > Lançamentos contábeis]{.menu}
 
-Clique em [Incluir]{.button}
-
-Preencha os campos solicitados, com **atenção especial ao seguinte campo:**
+Clique em ![](https://static.zenerp.app.br/icons/action-create.svg){.icon} e preencha os campos solicitados, com **atenção especial ao seguinte campo:**
 
 * [Descrição]{.field .required} A descrição é muito importante para facilitar a identificação desse lançamento na contabilidade
 
