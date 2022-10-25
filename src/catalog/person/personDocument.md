@@ -2,10 +2,12 @@
 
 []{.draft}
 
+Acesse [Cadastros > Pessoas > Documentos]{.menu}
 
- dladja dkadjaldja lkajdakldjadlkad akdjaldjadlja
+É possível adicionar vários documentos para uma pessoa.
 
+Preencha os campos solicitados.
 
- ## Anexando documentos no Zen
+Clique em [Gravar]{.button}
 
- * [Documentos](../../system/file)
+## Recomendações

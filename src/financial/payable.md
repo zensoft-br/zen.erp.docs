@@ -5,7 +5,7 @@
 Contas a pagar são basicamente as obrigações financeiras que a empresa assume com seus fornecedores. Uma conta a pagar pode ser gerada automaticamente pelo processo de entrada de nota fiscal ou incluída manualmente sem vínculo com uma nota fiscal de entrada.
 
 
-## Inlcusão de conta a pagar manual
+## Inclusão de conta a pagar manual
 
 Acesse [Financeiro > Conta a pagar]{.menu} e clique em ![](https://static.zenerp.app.br/icons/action-create.svg){.icon} e preencha os [campos](payable-edit) solicitados.
 

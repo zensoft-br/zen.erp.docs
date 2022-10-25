@@ -2,64 +2,74 @@
 
 []{.draft}
 
-Uma pessoa é uma entidade que possui um relacionamento com a empresa.
-
-Ela pode ser um cliente, fornecedor, transportador, vendedor ou colaborador.
-
-## Manutenção de pessoas
-
 Acesse [Cadastros > Pessoas > Pessoas]{.menu}
 
-Ao abrir o grid pessoas, selecione a ação desejada.
+Uma pessoa representa um cidadão (pessoa física) ou uma entidade (pessoa jurídica) que possui algum tipo de relacionamento com a organização.
 
-Para incluir ou alterar uma pessoa, preencha as informações solicitadas, com atenção especial aos seguintes campos:
+Uma pessoa pode assumir um ou vários papéis em relação à organização, como [cliente]{.tag}, [fornecedor]{.tag}, [colaborador]{.tag}, etc...
 
-### Pessoa
-* [Tipo]{.field .required} 
-Selecione **Pessoa jurídica** ou **Pessoa física**
-* [Tipo de documento]{.field} 
-Informe o tipo de documento principal.
-Outros documentos poderão ser adicionados posteriomente em [documentos](personDocument).
-* [Número do documento]{.field} 
-Se o documento for um CNPJ, é possível obter os dados cadastrais automaticamente no site da Receita Federal.
-Informe o número do documento e clique em ![](https://static.zenerp.app.br/icons/action-search.svg){.icon}
-* [Nome]{.field .required}
-Informe a razão social.
-* [E-mail]{.field} 
-Informe o e-mail principal.
-Outros e-mails poderão ser adicionados posteriormente em [contatos](personContact).
-* [Telefone]{.field} 
-Informe o telefone principal.
-Outros telefones poderão ser adicionados posteriormente em [contatos](personContact).
-* [Perfil fiscal de pessoa]{.field} 
-Selecione o perfil fiscal principal da pessoa.
-O perfil fiscal será utilizado para automatizar o cálculo de tributação. Mais informações podem ser obtidas em [perfis fiscais de pessoas](../../fiscal/fiscalProfilePerson).
-* [Lista de conversões de código]{.field}
-Selecione uma lista de conversão de códigos existente ou clique em ![](https://static.zenerp.app.br/icons/action-create.svg){.icon} para criar uma nova.
-A lista de conversão de códigos é utiliza para associar um produto da empresa ao produto da pessoa.
-* [Tags]{.field}
-Informe tags para "marcar" a pessoa. 
-As tags são facilitadores para agrupar e filtrar registros no sistema.
-Mas informações sobre elas podem ser obtidas em [tags](../../interface/tags).
-* [Tags especiais]{.field}
-Marque as tags especiais para identificar o tipo de relacionamento que a pessoa tem com a empresa.
-As tags especiais também podem ser utilizadas para ativar/desativar ou bloquear/desbloquear uma pessoa.
+## Pesquisar
 
-### Endereço
-* [Cep]{.field} 
-Informe o Cep do endereço principal da pessoa.
-Os demais dados serão obtidos automaticamente através da base dos Correios.
-Verifique se as informações estão corretas antes de partir para a próxima aba.
-Outros endereços poderão ser adicionados posteriormente em [endereços](personAddress).
+Para pesquisar, clique em ![](https://static.zenerp.app.br/icons/action-search.svg){.icon} e preencha os [critérios](person-search) de busca desejados.
 
-### Categorias
-* [Categorias]{.field}
-Categorias são utilizadas para classificar uma pessoa.
-É possível informar até 5 (cinco) categorias para uma pessoa.
-Mais informações podem ser obtidas em [categorias](../../catalog/category).
+## Atualizar
+
+Ao clicar em ![](https://static.zenerp.app.br/icons/action-refresh.svg){.icon} qualquer critério de filtro utilizado anteriormente é removido e o grid é atualizado.
+
+## Incluir
+
+Para incluir uma pessoa, clique em ![](https://static.zenerp.app.br/icons/action-create.svg){.icon} e preencha os [campos](person-edit) solicitados.
+
+## Exportar
+
+Para exportar os dados do grid, clque em ![](https://static.zenerp.app.br/icons/action-more-toolbar.svg){.icon}, depois clique em ![](https://static.zenerp.app.br/icons/action-export.svg){.icon} Exportar e selecione o formato do arquivo desejado.
+Para mais informações sobre exportação de dados, clique em [exportar dados do grid](../../interface/export).
+
+## Visualizar
+
+Para visualizar os dados de uma pessoa cadastrada, clique em ![](https://static.zenerp.app.br/icons/action-read.svg){.icon}.
+
+## Alterar
+
+Para alterar uma pessoa, localize a pessoa desejada, clique em ![](https://static.zenerp.app.br/icons/action-update.svg){.icon} e preencha os [campos](person-edit) solicitados.
+
+## Excluir
+
+Para excluir uma pessoa, localize a pessoa desejada e clique em ![](https://static.zenerp.app.br/icons/action-delete.svg){.icon}.
+
+## Dashboard
+
+Para visualizar informações comerciais e financeiras da pessoa, clique em ![](https://static.zenerp.app.br/icons/kpi.svg){.icon} [Dashboard](person-dashboard).
+
+## Mais informações
+
+Para acessar mais informações de uma pessoa, clique em ![](https://static.zenerp.app.br/icons/action-more-tr.svg){.icon} e selecione a opção desejada:
+
+### Endereços
+
+Para visualizar os endereços cadastrados para uma pessoa, clique em ![](https://static.zenerp.app.br/icons/catalog/person/personAddress.svg){.icon}[Endereços](personAddress).
 
 ### Observações
-* [Observações]{.field}
-Informe as observações principais da pessoa.
-Observações específicas de outros módulos do sistema, tais como: financeiras, comerciais, cobrança, entre outras, poderão ser adicionadas posteriormente em [observações](personComment).
+
+Para visualizar as observaçoes cadastrados para uma pessoa, clique em ![](https://static.zenerp.app.br/icons/catalog/person/personComment.svg){.icon}[Observações](personComment).
+
+### Contatos
+
+Para visualizar os contatos cadastrados para uma pessoa, clique em ![](https://static.zenerp.app.br/icons/catalog/person/personContact.svg){.icon}[Contatos](personContact).
+
+### Documentos
+
+Para visualizar os documentos cadastrados para uma pessoa, clique em ![](https://static.zenerp.app.br/icons/catalog/person/personDocument.svg){.icon}[Documentos](personDocument).
+
+### Arquivos
+
+Para visualizar os arquivos anexados para uma pessoa, clique em ![](https://static.zenerp.app.br/icons/system/file/file.svg){.icon}Arquivos.
+Mais informações sobre anexar arquivos no sistema podem ser obtidas em [anexar arquivos](../../system/file).
+
+### Logs
+
+Para visualizar os logs associados a uma pessoa, clique em ![](https://static.zenerp.app.br/icons/audit/log.svg){.icon}logs
+Mais informações sobre o log do sistema podem ser obtidas em [Logs](../../audit/log).
+
+## Recomendações
 
