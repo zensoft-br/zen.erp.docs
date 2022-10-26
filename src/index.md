@@ -2,7 +2,7 @@
 
 Seja bem vindo à documentação do Zen Erp.
 
-[Conheça](introduction) a interface do Zen Erp.
+Conheça a [interface](interface) do Zen Erp.
 
 ## Módulos
 
