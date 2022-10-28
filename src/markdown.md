@@ -232,14 +232,18 @@ Esta classe representa uma tag do sistema.
 Esta classe representa um elemento que deverá passar por revisão.
 
 ```
-[foo bar]{.todo}
+foo bar []{.todo}
+
+foo bar [baz]{.todo}
 ```
 
 ### Exemplo
 
-[foo bar]{.todo}
+foo bar []{.todo}
 
-## Botão (button)
+foo bar [baz]{.todo}
+
+## Classe .z-button
 
 ```
 [foo]{.z-button}
@@ -256,3 +260,21 @@ Esta classe representa um elemento que deverá passar por revisão.
 [bar]{.z-button .default}
 
 [baz]{.z-button .cancel}
+
+## Classe .icon
+
+```
+[+]{.icon}
+
+[👍]{.icon} [👎]{.icon}
+
+![](http://static.zenerp.app.br/favicon.ico){.icon}
+```
+
+### Exemplo
+
+[+]{.icon}
+
+[👍]{.icon} [👎]{.icon}
+
+![](http://static.zenerp.app.br/favicon.ico){.icon}
