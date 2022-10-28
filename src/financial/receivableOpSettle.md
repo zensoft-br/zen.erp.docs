@@ -10,9 +10,16 @@ Preencha os campos solicitados, com **atenção especial aos seguintes campos:**
 * [Valor a liquidar]{.field} O sistema preenche automaticamente com o valor em aberto. Para liquidação parcial, informe o valor que deseja liquidar. A diferença ficará em aberto como saldo do documento
 * Os campos [desconto]{.field}, [juros]{.field} e [multa]{.field} devem ser preenchidos somente se necessário e farão parte do valor total do movimento
 
-> Para conceder apenas um desconto, preencha o campo valor a liquidar e valor do desconto com o valor desejado. Nesse caso o valor do movimento será zero.
+> **Observação 1**
+>Para conceder apenas um desconto, preencha o campo valor a liquidar e valor do desconto com o valor desejado. Nesse caso o valor do movimento será zero.
 >
 > Exemplo: para concerder um desconto de $50,00 preencha o campo [Valor a liquidar]{.field} com 50,00 e o campo [Desconto]{.field} também com 50,00. O campo [Valor total]{.field} será 0,00 mas será liquidado $50,00 do título.
+
+> **Observação 2**
+> Se o cliente fizer um pagamento com valor maior que a dívida, deverá ser feito o processo de [antecipação de recebíveis](receivableAnticipation).
+>
+> Exemplo:
+> O título é de $900,00 e o cliente paga com um cheque de $1.000,00. Será lançado $1.000,00 como atecipação informando a conta contábil do cliente e depois liquidar a conta a receber baixando a conta do cliente.
 
 
 Clique em [Incluir liquidação]{.button} para liquidar com um movimento.
