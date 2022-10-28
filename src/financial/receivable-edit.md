@@ -9,8 +9,14 @@ Clique em ![](https://static.zenerp.app.br/icons/action-create.svg){.icon}
 Preencha os campos solicitados com **atenção especial aos seguintes campos:**
 * [Empresa]{.field .required} O sistema preenche com a empresa ativa mas é possível selecionar outra empresa
 * [Descrição]{.field} A descrição é muito importante para facilitar a identificação desse lançamento
-* [Conta contábil]{.field .required} Informe a conta contábil da "partida"
-* [Conta contábil]{.field .required} Informe a conta contábil da "contra partida"
+* [Conta contábil D]{.field .required} Informe a conta contábil de débito
+* [Conta contábil C]{.field .required} Informe a conta contábil de crédito
+
+> Exemplo:
+> 
+> Conta contábil D - Clientes
+>
+> Conta contábil C - Receita
 
 
 # Ateração de conta a receber
