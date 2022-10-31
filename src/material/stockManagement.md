@@ -4,4 +4,4 @@
 
 ## Importação de itens de gestão de estoque
 
-* Baixe e preencha a [planilha modelo](inventoryManagement-import.xlsx)
+* Baixe e preencha a [planilha modelo](stockManagement-import.xlsx)
