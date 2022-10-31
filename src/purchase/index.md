@@ -4,5 +4,5 @@
 
 * [Listas de preços de compra](priceList)
 * [Orçamentos](quote)
+* [Pedidos de compra](purchase.md)
 * [Propostas](proposal)
-* [Pedidos de compra](purchase)
