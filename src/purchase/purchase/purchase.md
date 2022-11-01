@@ -1,3 +1,0 @@
-# Pedidos de compra
-
-[]{.draft}
