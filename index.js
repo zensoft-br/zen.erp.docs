@@ -119,8 +119,9 @@ app.get(/.*/, (req, res) => {
       res.header("Content-Type", "text/html; charset=utf-8");
       res.send(prettier.format(dom.serialize(), {
         parser: "html",
-        printWidth: 120
+        printWidth: 1200
       }));
+      // res.send(dom.serialize());
       return;
     }
   }
