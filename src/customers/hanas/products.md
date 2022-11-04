@@ -24,6 +24,11 @@ Ao cadastrar uma cor, é importante:
 *   Exemplo: PANTONE 7729 U irá gerar o código 7729U
 * preencher a [Descrição]{.field} com o nome da cor
 
+## Produto mestre
+
+* O código do produto mestre será atribuído automaticamente pelo sistema, ou seja, o mesmo valor do campo **id**
+
 ## Grades
 
 * O cadastro de grades deve ser feito em [produtos](../../catalog/product/productPacking)
+* As grades terão o código composto por: código do artigo + '.' + código da cor Pantone
