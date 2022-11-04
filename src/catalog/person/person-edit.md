@@ -1,4 +1,4 @@
-# Tela de edição de pessoa
+# Pessoas
 
 []{.draft}
 
