@@ -2,5 +2,24 @@
 
 []{.draft}
 
->**Observação**
->É possível parametrizar uma observação padrão automática para todos os pedidos e essa observação pode ser diferente para cada empresa. A parametrização deve ser feita no cadastro da empresa.
+Um pedido de compra poder ser incluído manualmente ou pode ser gerado a partir de uma proposta de [orçamento](/purchase/quote)
+
+## Inclusão de um pedido de compra
+
+Acesse [Compras > Pedidos de compra]{.menu} e clique em ![](https://static.zenerp.app.br/icons/action-create.svg){.icon} e preencha os [campos](purchase-edit) solicitados.
+
+
+## Alteração de um pedido de compra
+
+Acesse [Compras > Pedidos de compra]{.menu} e clique em ![](https://static.zenerp.app.br/icons/action-update.svg){.icon} e preencha os [campos](purchase-edit) solicitados.
+
+# Exclusão de um pedido de compra
+
+Acesse [Compras > Pedidos de compra]{.menu} e clique em ![](https://static.zenerp.app.br/icons/action-delete.svg){.icon}
+
+
+>**Observação:**
+>
+>Somente pedidos que estão com status [PREPARING]{.status} podem ser excluídos.
+
+[]{.todo}

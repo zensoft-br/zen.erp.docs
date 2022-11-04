@@ -1,4 +1,4 @@
-# Inclusão de lista de preços de compra
+# Editando uma lista de preços de compra
 
 []{.draft}
 
