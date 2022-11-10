@@ -4,19 +4,21 @@
 
 Define os itens que fazem parte da lista de preço.
 
+Acesse [Compras > Listas de preços de compra]{.menu}, localize a lista desejada e clique em ![](https://static.zenerp.app.br/icons/action-child.svg){.icon}
+
 ## Inclusão de itens na lista de preços de compra
 
-Acesse [Compras > Listas de preços de compra]{.menu}, clique em ![](https://static.zenerp.app.br/icons/action-child.svg){.icon} e em seguida clique em ![](https://static.zenerp.app.br/icons/action-create.svg){.icon} e preencha os campos solicitados.
+ Clique em ![](https://static.zenerp.app.br/icons/action-create.svg){.icon} preencha os campos solicitados e clique em [Gravar]{.z-button}
 
 
 ## Alteração de itens na lista de preços de compra
 
-Acesse [Compras > Listas de preços de compra]{.menu}, clique em ![](https://static.zenerp.app.br/icons/action-child.svg){.icon} e em seguida clique em ![](https://static.zenerp.app.br/icons/action-update.svg){.icon} e preencha os campos solicitados.
+Clique em ![](https://static.zenerp.app.br/icons/action-update.svg){.icon} preencha os campos solicitados e clique em [Gravar]{.z-button}
 
 
 ## Exclusão de itens na lista de preços de compra
 
-Acesse [Compras > Listas de preços de compra]{.menu}, clique em ![](https://static.zenerp.app.br/icons/action-child.svg){.icon} e em seguida clique em ![](https://static.zenerp.app.br/icons/action-delete.svg){.icon}.
+Clique em ![](https://static.zenerp.app.br/icons/action-delete.svg){.icon}.
 
 >**Observação 1**
 >

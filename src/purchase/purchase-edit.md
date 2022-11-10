@@ -4,7 +4,7 @@
 
 Acesse [Compras > Pedidos de compra]{.menu}
 
-Clique em ![](https://static.zenerp.app.br/icons/action-create.svg){.icon}
+Clique em ![](https://static.zenerp.app.br/icons/action-create.svg){.icon} para incluir um pedido novo ou ![](https://static.zenerp.app.br/icons/action-update.svg){.icon} para alterar um pedido já cadastrada.
 
 Preencha os campos solicitados com **atenção especial aos seguintes campos:**
 

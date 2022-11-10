@@ -13,7 +13,7 @@ Conheça a [interface](interface) do Zen Erp.
 * [Fiscal](fiscal)
 * [Materiais](material)
 * [Compras](purchase)
-* [Vendas](sales)
+* [Vendas](sale)
 * [Tributação](taxation)
 * [Produção](production)
 * [Sistema](system)
