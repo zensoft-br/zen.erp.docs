@@ -4,7 +4,7 @@
 
 ## Cálculo da tributação
 
-* [grossBaseValueExpresson]{.field} Este campo contém uma fórmula que será executada para calcular a base de cálculo bruta da operação.
+* [grossBaseValueExpression]{.field} Este campo contém uma fórmula que será executada para calcular a base de cálculo bruta da operação.
 
     Esta fórmula poderá conter as seguintes variáveis:
 
