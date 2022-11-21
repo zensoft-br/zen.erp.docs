@@ -1,0 +1,21 @@
+# Configuração de impressora Argox
+
+## Configuração do papel
+
+Na tela de preferências da impressora, clique em "Novo...".
+
+![](preferences.png)
+
+Informe um nome para a etiqueta e as medidas em mm e clique em "OK".
+
+As medidas têm que bater exatamente com as medidas da etiqueta, inclusive as bordas.
+
+![](paper.png)
+
+## Temperatura da impressão
+
+Caso a impressão esteja muito clara, um aumento na temperatura de impressão pode resolver.
+
+Clique na aba "Opções", ative a opção "Temperatura do cabeçote > Enviar com trabalho" e ajuste a temperatura.
+
+![](temperature.png)
