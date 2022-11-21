@@ -11,7 +11,7 @@ Acesse... e preencha os campos solicitados:
 * [Cliente:]{.field .required} informe o cliente 
 * [Produto:]{.field .required} informe o produto desejado
 
-> **Observação 1**
+> ## Observação 1
 >
 >Após informar o produto, a tela vai mostrar a disponibilidade do produto separado por tipo:
 >
@@ -21,11 +21,12 @@ Acesse... e preencha os campos solicitados:
 * [Quantidade:]{.field .required} informe a quantidade desejada. O pedido de venda será gerado na empresa correspondente ao estoque ou do pedido de compra
 * [Valor unitário:]{.field .required} o sistema carrega automaticamante o preço de venda da lista de preço padrão mas permite o operador informar um valor unitário diferente
 
-> **Observação 2:**
+> ## Observação 2
 >
 >A comissão vai mudar de acordo com o desconto concedido em cada item do pedido conforme a regra abaixo:
 >
 >**Indústria**
+>
 >A comissão padrão do vendedor é 5%
 >Desconto | Comissão
 >-- | -- 
@@ -37,18 +38,11 @@ Acesse... e preencha os campos solicitados:
 >10,01% 	|0%
 >
 >**Revenda**
+>
 >A comissão padrão do vendedor é 2%. Qualquer desconto concedido altera a comissão para 1%.
 
-Após informar a **quantidade** e **valor unitário** clique no botão [Incluir]{.z-button}. Nesse momento será criado 1 ou mais pedido de venda, de acordo com as disponibilidades utilizadas. Para lançar mais itens, basta informar o [produto]{.fiel .required} e repetir o processo.
+Após informar a **quantidade** e **valor unitário** clique no botão [Incluir]{.z-button .default}. Nesse momento será criado 1 ou mais pedido de venda, de acordo com as disponibilidades utilizadas. Para lançar mais itens, basta informar o [produto]{.fiel .required} e repetir o processo.
 
 Para visualizar os pedidos de venda criados, clique no botão [Pedidos de venda]{.z-button}.
 
 Após lançar todos os itens clique no botão [Finalizar preparação de pedido de venda]{.z-button} e informe os campos necessários.
-
-
-
-
-
-
-
-
