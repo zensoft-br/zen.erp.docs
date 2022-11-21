@@ -25,7 +25,7 @@ Acesse... e preencha os campos solicitados:
 >
 >A comissão vai mudar de acordo com o desconto concedido em cada item do pedido conforme a regra abaixo:
 >
->**Indústria**
+>### Indústria
 >
 >A comissão padrão do vendedor é 5%
 >Desconto | Comissão
@@ -37,7 +37,7 @@ Acesse... e preencha os campos solicitados:
 >10%		|3%
 >10,01% 	|0%
 >
->**Revenda**
+>### Revenda
 >
 >A comissão padrão do vendedor é 2%. Qualquer desconto concedido altera a comissão para 1%.
 
