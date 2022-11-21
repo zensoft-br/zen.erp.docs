@@ -6,10 +6,10 @@ Além de ser usada para fazer o lançamento de um pedido de venda, essa tela ser
 
 Acesse... e preencha os campos solicitados:
 
-* [**Vendedor:**]{.field .required} informe o vendedor responsável pela venda
-* [**Perfil de venda:**]{.field .required} informe o perfil correspondente a operação
-* [**Cliente:**]{.field .required} informe o cliente 
-* [**Produto:**]{.field .required} informe o produto desejado
+* [Vendedor:]{.field .required} informe o vendedor responsável pela venda
+* [Perfil de venda:]{.field .required} informe o perfil correspondente a operação
+* [Cliente:]{.field .required} informe o cliente 
+* [Produto:]{.field .required} informe o produto desejado
 
 > **Observação 1**
 >
@@ -18,8 +18,8 @@ Acesse... e preencha os campos solicitados:
 >* [STOCK:]{.tag} indica a disponibilidade de pronta entrega de cada empresa
 >* [SCHEDULE:]{.tag} indica a disponibiliade de cada pedido de compra já aprovado mostrando a data prevista para chegada do material
 
-* [**Quantidade:**]{.field .required} informe a quantidade desejada. O pedido de venda será gerado na empresa correspondente ao estoque ou do pedido de compra
-* [**Valor unitário:**]{.field .required} o sistema carrega automaticamante o preço de venda da lista de preço padrão mas permite o operador informar um valor unitário diferente
+* [Quantidade:]{.field .required} informe a quantidade desejada. O pedido de venda será gerado na empresa correspondente ao estoque ou do pedido de compra
+* [Valor unitário:]{.field .required} o sistema carrega automaticamante o preço de venda da lista de preço padrão mas permite o operador informar um valor unitário diferente
 
 > **Observação 2:**
 >
