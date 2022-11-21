@@ -93,14 +93,20 @@
 
 ![Alt ou título da imagem](http://static.zenerp.app.br/favicon.ico)
 
-## Citação
+## Citação (blockquote)
+
+Uma citação é uma anotação com informações adicionais ou com texto de outra fonte.
+
+Caso a citação precise de um título, utilize a marcação de "título 1".
 
 ```
+> # Title
 > foo bar
 ```
 
 ### Exemplo
 
+> # Title
 > foo bar
 
 ## Código
