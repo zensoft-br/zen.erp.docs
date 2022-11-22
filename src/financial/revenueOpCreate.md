@@ -14,7 +14,7 @@ Preencha os campos solicitados, com **atenção especial aos seguintes campos:**
 
 Clique em [Processar]{.button}
 
-> **Observação**
+>## Observação
 >
 > Uma receita pode estar associada a uma ou mais conta contábil. O único requisito é que a soma dos lançamentos contábeis confiram com o valor da receita.
 >

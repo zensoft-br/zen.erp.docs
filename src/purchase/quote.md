@@ -18,7 +18,7 @@ Acesse [Compras > Orçamentos]{.menu} e clique em ![](https://static.zenerp.app.
 
 Acesse [Compras > Orçamentos]{.menu} e clique em ![](https://static.zenerp.app.br/icons/action-delete.svg){.icon}
 
->**Observação**
+>### Observação
 >
 >Para imprimir ou salvar o orçamento em pdf clique em ![](https://static.zenerp.app.br/icons/action-print.svg){.icon}
 
@@ -28,7 +28,7 @@ Após a inclusão, o orçamento está com status [PREPARING]{.status}. É necess
 
 Clique em ![](https://static.zenerp.app.br/icons/action-forward.svg){.icon} e em seguida clique em [Preparar orçamento]{.button .tag} e em seguida clique em [Aprovar orçamento]{.button .tag}
 
->**Observação**
+>### Observação
 >
 >Para reverter a aprovação do orçamento clique em ![](https://static.zenerp.app.br/icons/action-forward.svg){.icon} e em seguida clique em [Reverter aprovação de orçamento]{.button .tag} e em seguida clique em [Reverter preparação de orçamento]{.button .tag}
 

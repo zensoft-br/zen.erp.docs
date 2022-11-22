@@ -13,7 +13,7 @@ Preencha os campos solicitados com **atenção especial aos seguintes campos:**
 
 Clique em [Gravar]{.z-button} e em seguida clique em ![](https://static.zenerp.app.br/icons/purchase/quoteItem.svg){.icon} para [incluir](quoteItem) os itens.
 
->**Observação**
+>## Observação
 >
 >Só é permitido fazer a edição de um orçamento se estiver no status [PREPARING]{.status}
 

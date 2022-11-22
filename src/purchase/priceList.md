@@ -19,6 +19,6 @@ Acesse [Compras > Listas de preços de compra]{.menu} e clique em ![](https://st
 
 Acesse [Compras > Listas de preços de compra]{.menu} e clique em ![](https://static.zenerp.app.br/icons/action-delete.svg){.icon}
 
->**Observação:**
+>### Observação
 >
 >A exclusão de uma lista de preços é irreversível e só é possível se ela não foi utilizada em nenhum pedido de compra.
