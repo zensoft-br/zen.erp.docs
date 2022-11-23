@@ -8,11 +8,14 @@ Define os itens que fazem parte da lista de preço.
 
  Clique em ![](https://static.zenerp.app.br/icons/action-create.svg){.icon} e preencha os campos solicitados.
 
+ Clique em [Gravar]{.z-button} para confirmar a operação.
+
 
 ## Alterar
 
 Localize o item de lista de preço de compra desejado, clique em ![](https://static.zenerp.app.br/icons/action-update.svg){.icon} e preencha os campos solicitados.
 
+Clique em [Gravar]{.z-button} para confirmar a operação.
 
 ## Excluir
 
