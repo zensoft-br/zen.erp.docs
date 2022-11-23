@@ -6,7 +6,7 @@ A lista de preço de compra pode ser usada para definir os preços utilizados pe
 
 Ao informar uma lista de preço de compra no pedido de compra, o sistema vai puxar no item do pedido o preço cadastrado na lista.
 
-Acesse [Compras > Listas de preços de compra]{.menu}
+Acesso em [Compras > Listas de preços de compra]{.menu}
 
 ## Incluir
 
