@@ -12,6 +12,6 @@ Preencha os campos solicitados com **atenção especial aos seguintes campos:**
 
 Clique em [Gravar]{.z-button}
 
->**Observação**
+>## Observação
 >
 >Só é permitido fazer a edição de um item do orçamento se o status do orçamento for [PREPARING]{.status}

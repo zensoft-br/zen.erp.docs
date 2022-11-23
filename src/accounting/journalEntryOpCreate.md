@@ -12,13 +12,13 @@ Clique em ![](https://static.zenerp.app.br/icons/action-create.svg){.icon} e pre
 
 Clique em [Gravar]{.button} para salvar o rascunho desse lançamento ou em [Gravar e publicar]{.button} para registrar o lançamento no livro contábil.
 
-> **Observação 1**
+>## Observação 1
 >
 > Um lançamento salvo como rascunho fica com o status [DRAFT]{.status} e não aparece no livro contábil. Para registrar um rascunho no livro contábil é necessário publicar o lançamento.
 >
 > Para registrar um lançamento clique ![](https://static.zenerp.app.br/icons/action-forward.svg){.icon} e em seguida clique em [Publicar lançamento contábil]{.tag}. O registro ficará com o status [PUBLISHED]{.status}
 
-> **Observação 2**
+>## Observação 2
 >
 > Um lançamento contábil pode estar associado a uma ou mais conta contábil. O único requisito é que a soma dos lançamentos contábeis confiram com o valor da operação.
 >

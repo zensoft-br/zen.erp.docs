@@ -18,7 +18,7 @@ Acesse [Compras > Pedidos de compra]{.menu} e clique em ![](https://static.zener
 Acesse [Compras > Pedidos de compra]{.menu} e clique em ![](https://static.zenerp.app.br/icons/action-delete.svg){.icon}
 
 
->**Observação:**
+>## Observação
 >
 >Somente pedidos que estão com status [PREPARING]{.status} podem ser excluídos.
 

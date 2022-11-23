@@ -20,10 +20,10 @@ Clique em ![](https://static.zenerp.app.br/icons/action-update.svg){.icon} preen
 
 Clique em ![](https://static.zenerp.app.br/icons/action-delete.svg){.icon}.
 
->**Observação 1**
+>### Observação 1
 >
 >Para exclusão de vários itens de uma vez, selecione todos os itens desejados e clique em ![](https://static.zenerp.app.br/icons/action-delete.svg){.icon}.
 
->**Observação 2**
+>### Observação 2
 >
 >A exclusão é irreversível. Após a confirmação da exclusão não é possível desfazer.

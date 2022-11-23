@@ -27,7 +27,7 @@ Selecione o título desejado e clique em ![](https://static.zenerp.app.br/icons/
 
 Altere os campos necessários e clique em [Gravar]{.button}
 
->**Observação**
+>## Observação
 > Só é permitido alterar um documento com status [PREPARING]{.status}
 
 
@@ -37,5 +37,5 @@ Acesse [Financeiro > Conta a pagar]{.menu}
 
 Selecione o título desejado e clique em ![](https://static.zenerp.app.br/icons/action-delete.svg){.icon}
 
->**Observação**
+>## Observação
 > Só é permitido excluir um documento com status [PREPARING]{.status}
