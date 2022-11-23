@@ -2,17 +2,17 @@
 
 Um [item de modelo] representa ...
 
-## Inclusão
+## Incluir
 
 Clique em ![](https://static.zenerp.app.br/icons/action-create.svg){.icon} e preencha os [campos](modelItem-edit) solicitados.
 
-## Alteração
+## Alterar
 
 Localize o [item de modelo] desejado, clique em ![](https://static.zenerp.app.br/icons/action-update.svg){.icon} e preencha os [campos](modelItem-edit) solicitados.
 
 Um [item de modelo] poderá ser alterado somente se ...
 
-## Exclusão
+## Excluir
 
 Localize o [item de modelo] desejado, clique em ![](https://static.zenerp.app.br/icons/action-delete.svg){.icon} e confirme.
 

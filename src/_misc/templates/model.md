@@ -4,17 +4,17 @@ Um [modelo] representa ...
 
 Acesso em [[módulo] > [modelo]]{.menu}
 
-## Inclusão
+## Incluir
 
 Clique em ![](https://static.zenerp.app.br/icons/action-create.svg){.icon} e preencha os [campos](model-edit) solicitados.
 
-## Alteração
+## Alterar
 
 Localize o [modelo] desejado, clique em ![](https://static.zenerp.app.br/icons/action-update.svg){.icon} e preencha os [campos](model-edit) solicitados.
 
 Um [modelo] poderá ser alterado somente se ...
 
-## Exclusão
+## Excluir
 
 Localize o [modelo] desejado, clique em ![](https://static.zenerp.app.br/icons/action-delete.svg){.icon} e confirme.
 
