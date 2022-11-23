@@ -1,7 +1,5 @@
 # Itens de listas de preços de compra
 
-[]{.draft}
-
 Define os itens que fazem parte da lista de preço.
 
 ## Incluir

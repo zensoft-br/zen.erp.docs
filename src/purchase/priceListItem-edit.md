@@ -1,12 +1,17 @@
 # Tela de edição de item de lista de preço de compra
 
-Preencha os campos solicitados.
+Preencha os campos solicitados com atenção especial aos seguintes campos:
+
+* [Variação a menos (%)]{.field} Define a variação a menos permitida no valor unitário do pedido de compra.
+* [Variação a mais (%)]{.field} Define a variação a mais permitida no valor unitário do pedido de compra.
+
+>Informe 0 (zero) para não permitir variação.
+
+* [Tags especiais - Inativo]{.field} Um item marcado como Inativo não será exibido para o operador.
 
 Clique em [Gravar]{.z-button .default} para confirmar a operação.
 
-## Gravar e repetir
-
-Clique em [Gravar e repetir]{.z-button .default} para confirmar a operação e abrir a tela de edição automaticamente.
+Clique em [Gravar e repetir]{.z-button .default} para confirmar a operação e incluir um novo item.
 
 ## Veja também
 
