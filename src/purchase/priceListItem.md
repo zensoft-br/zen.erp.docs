@@ -4,26 +4,21 @@
 
 Define os itens que fazem parte da lista de preço.
 
-Acesse [Compras > Listas de preços de compra]{.menu}, localize a lista desejada e clique em ![](https://static.zenerp.app.br/icons/action-child.svg){.icon}
+## Incluir
 
-## Inclusão de itens na lista de preços de compra
-
- Clique em ![](https://static.zenerp.app.br/icons/action-create.svg){.icon} preencha os campos solicitados e clique em [Gravar]{.z-button}
+ Clique em ![](https://static.zenerp.app.br/icons/action-create.svg){.icon} e preencha os campos solicitados.
 
 
-## Alteração de itens na lista de preços de compra
+## Alterar
 
-Clique em ![](https://static.zenerp.app.br/icons/action-update.svg){.icon} preencha os campos solicitados e clique em [Gravar]{.z-button}
+Localize o item de lista de preço de compra desejado, clique em ![](https://static.zenerp.app.br/icons/action-update.svg){.icon} e preencha os campos solicitados.
 
 
-## Exclusão de itens na lista de preços de compra
+## Excluir
 
-Clique em ![](https://static.zenerp.app.br/icons/action-delete.svg){.icon}.
+Localize o item de lista de preço de compra desejado, clique em ![](https://static.zenerp.app.br/icons/action-delete.svg){.icon} e confirme.
 
->### Observação 1
->
->Para exclusão de vários itens de uma vez, selecione todos os itens desejados e clique em ![](https://static.zenerp.app.br/icons/action-delete.svg){.icon}.
+A exclusão será definitiva e somente será efetivada se o item da lista de preço de compra não tiver dependências.
 
->### Observação 2
->
->A exclusão é irreversível. Após a confirmação da exclusão não é possível desfazer.
+
+>Para excluir vários itens de uma vez, selecione todos os itens desejados e clique em ![](https://static.zenerp.app.br/icons/action-delete.svg){.icon}
