@@ -1,7 +1,5 @@
 # Listas de preços de compra
 
-[]{.draft}
-
 A lista de preço de compra pode ser usada para definir os preços utilizados pelos fornecedores e facilitar a digitação de um pedido de compra.
 
 Ao informar uma lista de preço de compra no pedido de compra, o sistema vai puxar no item do pedido o preço cadastrado na lista.

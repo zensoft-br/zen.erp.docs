@@ -6,21 +6,25 @@ Um orçamento mostra informações sobre o produto que precisa ser adquirido e q
 
 Após receber as propostas de um orçamento, é possível gerar um pedido de compra automaticamente de acordo com a proposta aprovada para o orçamento.
 
-## Inclusão de um orçamento
+Acesso em [Compras > Orçamentos]{.menu}
 
-Acesse [Compras > Orçamentos]{.menu} e clique em ![](https://static.zenerp.app.br/icons/action-create.svg){.icon} e preencha os [campos](quote-edit) solicitados.
+## Incluir
 
-## Alteração de um orçamento
+Clique em ![](https://static.zenerp.app.br/icons/action-create.svg){.icon} e preencha os [campos](quote-edit) solicitados.
 
-Acesse [Compras > Orçamentos]{.menu} e clique em ![](https://static.zenerp.app.br/icons/action-update.svg){.icon} e preencha os [campos](quote-edit) solicitados.
+## Alterar
 
-## Exclusão de um orçamento
+Localize o orçamento desejado, clique em ![](https://static.zenerp.app.br/icons/action-update.svg){.icon} e preencha os [campos](quote-edit) solicitados.
 
-Acesse [Compras > Orçamentos]{.menu} e clique em ![](https://static.zenerp.app.br/icons/action-delete.svg){.icon}
+## Excluir
 
->### Observação
->
->Para imprimir ou salvar o orçamento em pdf clique em ![](https://static.zenerp.app.br/icons/action-print.svg){.icon}
+Localize o orçamento desejado, clique em ![](https://static.zenerp.app.br/icons/action-delete.svg){.icon} e confirme.
+
+Um orçamento poderá ser excluído somente se estiver no status [PREPARING]{.status}
+
+## Imprimir
+
+Localize o orçamento desejado, clique em ![](https://static.zenerp.app.br/icons/action-print.svg){.icon}
 
 ## Preparação e aprovação de um orçamento
 

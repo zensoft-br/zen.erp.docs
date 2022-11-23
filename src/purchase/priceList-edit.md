@@ -1,7 +1,5 @@
 # Tela de edição de lista de preços de compra
 
-[]{.draft}
-
 Preencha os campos solicitados com **atenção especial aos seguintes campos:**
 
 * [/commercial/priceList.notBefore]{.field} - se informado define a data de validade inicial da lista de preço
@@ -10,7 +8,7 @@ Preencha os campos solicitados com **atenção especial aos seguintes campos:**
 * [Casas decimais]{.field} - define a quantidade de casas decimais que será utillizada para o preço unitário. Não preenchendo esse campo o sistema usará a quantidade de casas decimais padrão (até 8 casas)
 * [Tags especiais]{.field .tag} - define os parâmetros de como a lista será utilizada e/ou atualizada
 
-Clique em [Gravar]{.z-button} para confirmar a operação.
+Clique em [Gravar]{.z-button .default} para confirmar a operação.
 
 ## Veja também
 
