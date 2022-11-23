@@ -28,12 +28,12 @@ Localize o [modelo] desejado e clique em ![](https://static.zenerp.app.br/icons/
 
 ## Manutenção dos itens do [modelo]
 
-Localize o [modelo] desejado, clique em ![](https://static.zenerp.app.br/icons/action-child.svg){.icon} e siga as instruções [aqui](modelItem).
+Localize o [modelo] desejado, clique em ![](https://static.zenerp.app.br/icons/action-child.svg){.icon} e siga essas [instruções](modelItem).
 
-## [Operação especial 1]
+## Operação 1 (executa direto, não abre uma tela)
 
-Localize o [modelo] desejado, ...
+Localize o [modelo] desejado e clique em ![](https://static.zenerp.app.br/icons/action-more-tr.svg){.icon} > [Operação 1]{.menu}
 
-## [Operação especial 2]
+## Operação 2 (abre uma tela para executar a operação)
 
-Localize o [modelo] desejado, ...
+Localize o [modelo] desejado, clique em ![](https://static.zenerp.app.br/icons/action-more-tr.svg){.icon} > [Operação 2]{.menu} e siga essas [instruções](modelOperation1).
