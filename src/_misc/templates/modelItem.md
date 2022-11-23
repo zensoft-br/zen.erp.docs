@@ -20,10 +20,6 @@ Um [item de modelo] poderá ser excluído somente se ...
 
 A exclusão será definitiva e somente será efetivada se o [item de modelo] não tiver dependências
 
-## Logs
-
-Localize o [item de modelo] desejado e clique em ![](https://static.zenerp.app.br/icons/action-more-tr.svg){.icon} > [Logs]{.menu}
-
 ## [Operação especial 1]
 
 Localize o [item de modelo] desejado, ...
