@@ -1,5 +1,11 @@
 # Configuração de impressora Argox
 
+Configurações para impressora térmica de etiquetas Argox.
+
+Antes de fazer as configurações é necessário que o driver da impressora esteja instalado.
+
+<https://www.argox.com/products>
+
 ## Configuração do papel
 
 Na tela de preferências da impressora, clique em "Novo...".
