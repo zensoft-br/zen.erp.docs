@@ -1,4 +1,4 @@
-# [Item de modelo]
+# Tela de edição de [modelo]
 
 Preencha os campos solicitados com atenção especial aos seguintes campos:
 
@@ -8,4 +8,8 @@ Preencha os campos solicitados com atenção especial aos seguintes campos:
 
 Clique em [Gravar]{.z-button .default} para confirmar a operação.
 
+## Veja também
 
+[Modelo](model)
+
+[Item de modelo](modelItem)

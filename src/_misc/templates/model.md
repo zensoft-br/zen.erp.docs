@@ -22,9 +22,13 @@ Um [modelo] poderá ser excluído somente se ...
 
 A exclusão será definitiva e será efetivada apenas se o [modelo] não tiver dependências.
 
+## Logs
+
+Localize o [modelo] desejado e clique em ![](https://static.zenerp.app.br/icons/action-more-tr.svg){.icon} > [Logs]{.menu}
+
 ## Manutenção dos itens do [modelo]
 
-Localize o [modelo] desejado, clique em ![](https://static.zenerp.app.br/icons/action-child.svg){.icon} e siga as instruções [aqui](modelItem)
+Localize o [modelo] desejado, clique em ![](https://static.zenerp.app.br/icons/action-child.svg){.icon} e siga as instruções [aqui](modelItem).
 
 ## [Operação especial 1]
 
