@@ -2,21 +2,42 @@
 
 []{.draft}
 
-Acesse [Compras > Orçamentos]{.menu} localize o orçamento desejado clique em ![](https://static.zenerp.app.br/icons/action-more-tr.svg){.icon} e clique na opção ![](https://static.zenerp.app.br/icons/purchase/proposal.svg){.icon}[Propostas]{.button .tag}
+Uma proposta representa a resposta de um fornecedor para atender um orçamento.
 
-## Inclusão de uma proposta
+Acesso em [Compras > Propostas]{.menu}
 
-Clique em ![](https://static.zenerp.app.br/icons/action-create.svg){.icon} e preencha os campos solicitados e clique em [Gravar]{.z-button}
+Um facilitador é incluir a proposta a partir de um orçamento.
 
-## Alteração de uma proposta
+Acesse [Compras > Orçamentos]{.menu} localize o orçamento desejado, clique em ![](https://static.zenerp.app.br/icons/action-more-tr.svg){.icon} > ![](https://static.zenerp.app.br/icons/purchase/proposal.svg){.icon}[Propostas]{.menu}
 
-Clique em ![](https://static.zenerp.app.br/icons/action-update.svg){.icon} preencha os campos solicitados e clique em [Gravar]{.z-button}
+## Incluir
 
-## Exclusão de uma proposta
+Clique em ![](https://static.zenerp.app.br/icons/action-create.svg){.icon} e preencha os [campos](proposal-edit) solicitados.
 
-Clique em ![](https://static.zenerp.app.br/icons/action-delete.svg){.icon}
+## Alterar
 
-## Inlcusão dos itens da proposta
+Localize a proposta desejada, clique em ![](https://static.zenerp.app.br/icons/action-update.svg){.icon} e preencha os [campos](proposal-edit) solicitados.
 
-Selecione a proposta desejada clique em ![](https://static.zenerp.app.br/icons/purchase/proposalItem.svg){.icon} para [incluir](proposalItem) os itens.
+Uma proposta poderá ser alterado somente se estiver no status [PREPARING]{.status}
 
+## Excluir
+
+Localize a proposta desejada, clique em ![](https://static.zenerp.app.br/icons/action-delete.svg){.icon} e confirme.
+
+Uma proposta poderá ser excluído somente se estiver no status [PREPARING]{.status}
+
+## Manutenção dos itens da proposta
+
+Localize a proposta desejada, clique em ![](https://static.zenerp.app.br/icons/purchase/proposalItem.svg){.icon} e siga essas [instruções](proposalItem).
+
+## Finalizar preparação
+
+Localize a proposta desejada, clique em ![](https://static.zenerp.app.br/icons/action-next.svg){.icon} > [Finalizar preparação de proposta]{.menu}.
+
+## Reverter preparação
+
+Localize a proposta desejada, clique em ![](https://static.zenerp.app.br/icons/action-next.svg){.icon} > [Reverter finalização de preparação de proposta]{.menu}.
+
+## Cancelar
+
+Localize a proposta desejada, clique em ![](https://static.zenerp.app.br/icons/action-next.svg){.icon} > [Cancelar proposta]{.menu}.

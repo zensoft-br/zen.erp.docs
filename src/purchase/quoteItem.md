@@ -4,15 +4,33 @@
 
 Define os itens de um orçamento.
 
-## Inclusão de itens de orçamento
+## Incluir
 
-Acesse [Compras > Orçamentos]{.menu}, clique em ![](https://static.zenerp.app.br/icons/purchase/quoteItem.svg){.icon} e em seguida clique em ![](https://static.zenerp.app.br/icons/action-create.svg){.icon} e preencha os [campos](quoteItem-edit) solicitados.
+ Clique em ![](https://static.zenerp.app.br/icons/action-create.svg){.icon} e preencha os [campos](quoteItem-edit) solicitados.
 
 
-## Alteração de itens de orçamento
+## Alterar
 
-Acesse [Compras > Orçamentos]{.menu}, clique em ![](https://static.zenerp.app.br/icons/purchase/quoteItem.svg){.icon} e em seguida clique em ![](https://static.zenerp.app.br/icons/action-update.svg){.icon} e preencha os [campos](quoteItem-edit) solicitados.
+Clique em ![](https://static.zenerp.app.br/icons/action-update.svg){.icon} e preencha os [campos](quoteItem-edit) solicitados.
 
-## Exclusão de itens de orçamento
+Um item de orçamento poderá ser alterado somente se o orçamento estiver no status [PREPARING]{.status}
 
-Acesse [Compras > Orçamentos]{.menu}, clique em ![](https://static.zenerp.app.br/icons/purchase/quoteItem.svg){.icon} e em seguida clique em ![](https://static.zenerp.app.br/icons/action-delete.svg){.icon}.
+## Excluir
+
+Localize o item de orçamento desejado, clique em ![](https://static.zenerp.app.br/icons/action-delete.svg){.icon} e confirme.
+
+Um item de orçamento poderá ser excluído somente se o orçamento estiver no status [PREPARING]{.status}
+
+A exclusão será definitiva e somente será efetivada se o item de orçamento não tiver dependências.
+
+## Itens de proposta
+
+Localize o item de orçamento desejado, clique em ![](https://static.zenerp.app.br/icons/purchase/proposalItem.svg){.icon} e siga essas [instruções](proposalItem).
+
+## Veja também
+
+[Orçamentos](quote)
+
+[Propostas](proposal)
+
+[Itens de proposta](proposalItem)
