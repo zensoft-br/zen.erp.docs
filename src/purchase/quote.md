@@ -6,32 +6,74 @@ Um orçamento mostra informações sobre o produto que precisa ser adquirido e q
 
 Após receber as propostas de um orçamento, é possível gerar um pedido de compra automaticamente de acordo com a proposta aprovada para o orçamento.
 
-## Inclusão de um orçamento
+Acesso em [Compras > Orçamentos]{.menu}
 
-Acesse [Compras > Orçamentos]{.menu} e clique em ![](https://static.zenerp.app.br/icons/action-create.svg){.icon} e preencha os [campos](quote-edit) solicitados.
+## Incluir
 
-## Alteração de um orçamento
+Clique em ![](https://static.zenerp.app.br/icons/action-create.svg){.icon} e preencha os [campos](quote-edit) solicitados.
 
-Acesse [Compras > Orçamentos]{.menu} e clique em ![](https://static.zenerp.app.br/icons/action-update.svg){.icon} e preencha os [campos](quote-edit) solicitados.
+## Alterar
 
-## Exclusão de um orçamento
+Localize o orçamento desejado, clique em ![](https://static.zenerp.app.br/icons/action-update.svg){.icon} e preencha os [campos](quote-edit) solicitados.
 
-Acesse [Compras > Orçamentos]{.menu} e clique em ![](https://static.zenerp.app.br/icons/action-delete.svg){.icon}
+Um orçamento poderá ser alterado somente se estiver no status [PREPARING]{.status}
 
->### Observação
->
->Para imprimir ou salvar o orçamento em pdf clique em ![](https://static.zenerp.app.br/icons/action-print.svg){.icon}
+## Excluir
 
-## Preparação e aprovação de um orçamento
+Localize o orçamento desejado, clique em ![](https://static.zenerp.app.br/icons/action-delete.svg){.icon} e confirme.
 
-Após a inclusão, o orçamento está com status [PREPARING]{.status}. É necessário aprovar esse orçamento.
+Um orçamento poderá ser excluído somente se estiver no status [PREPARING]{.status}
 
-Clique em ![](https://static.zenerp.app.br/icons/action-forward.svg){.icon} e em seguida clique em [Preparar orçamento]{.button .tag} e em seguida clique em [Aprovar orçamento]{.button .tag}
+## Manutenção dos itens do orçamento
 
->### Observação
->
->Para reverter a aprovação do orçamento clique em ![](https://static.zenerp.app.br/icons/action-forward.svg){.icon} e em seguida clique em [Reverter aprovação de orçamento]{.button .tag} e em seguida clique em [Reverter preparação de orçamento]{.button .tag}
+Localize o orçamento desejado, clique em ![](https://static.zenerp.app.br/icons/purchase/quoteItem.svg){.icon} e siga essas [instruções](quoteItem).
 
-## Incluir as propostas recebidas
+## Preparar
 
-Após aprovado, já é possível incluir as [propostas](proposal) recebidas dos fornecedores.
+Após a inclusão, o orçamento está com status [PREPARING]{.status}
+
+É necessário finalizar a preparação do orçamento.
+
+Localize o orçamento desejado, clique em ![](https://static.zenerp.app.br/icons/action-forward.svg){.icon} >  [Preparar orçamento]{.menu}
+
+## Aprovar
+
+Após a preparar, o orçamento está com status [PREPARED]{.status}
+
+É necessário aprovar o orçamento.
+
+Localize o orçamento desejado, clique em ![](https://static.zenerp.app.br/icons/action-forward.svg){.icon} >  [Aprovar orçamento]{.menu}
+
+## Reverter aprovação
+
+Localize o orçamento desejado, clique em ![](https://static.zenerp.app.br/icons/action-forward.svg){.icon} > [Reverter aprovação de orçamento]{.menu}
+
+## Reverter preparação
+
+Localize o orçamento desejado, clique em ![](https://static.zenerp.app.br/icons/action-forward.svg){.icon} > [Reverter preparação de orçamento]{.menu}
+
+## Cancelar
+
+Localize o orçamento desejado, clique em ![](https://static.zenerp.app.br/icons/action-forward.svg){.icon} > [Cancelar orçamento]{.menu}
+
+## Imprimir
+
+Localize o orçamento desejado, clique em ![](https://static.zenerp.app.br/icons/action-print.svg){.icon}
+
+## Propostas
+
+Localize o orçamento desejado, clique em ![](https://static.zenerp.app.br/icons/action-more-tr.svg){.icon} > [Propostas]{.menu} e siga essas [instruções](proposal).
+
+## Itens de propostas
+
+Localize o orçamento desejado, clique em ![](https://static.zenerp.app.br/icons/action-more-tr.svg){.icon} > [Itens de propostas]{.menu} e siga essas [instruções](proposalItem).
+
+## Finalizar orçamento
+
+Localize o orçamento desejado, clique em ![](https://static.zenerp.app.br/icons/action-forward.svg){.icon} > [Finalizar orçamento]{.menu}
+
+## Veja também
+
+[Itens de orçamento](quoteItem)
+
+[Propostas](proposal)

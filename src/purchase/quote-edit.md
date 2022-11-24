@@ -1,19 +1,27 @@
-# Editando um orçamento
+# Tela de edição de orçamento
 
 []{.draft}
 
-Acesse [Compras > Orçamentos]{.menu}
-
-Clique em ![](https://static.zenerp.app.br/icons/action-create.svg){.icon} para incluir um orçamento novo ou ![](https://static.zenerp.app.br/icons/action-update.svg){.icon} para alterar um orçamento já cadastrado.
-
-Preencha os campos solicitados com **atenção especial aos seguintes campos:**
+Preencha os campos solicitados com atenção especial aos seguintes campos:
 
 * [Empresa]{.field .required}
 * [Perfil fiscal de operação]{.field .required} - define a tributação dos itens
 
-Clique em [Gravar]{.z-button} e em seguida clique em ![](https://static.zenerp.app.br/icons/purchase/quoteItem.svg){.icon} para [incluir](quoteItem) os itens.
+Clique em [Gravar]{.z-button .default} para confirmar a operação.
 
->## Observação
->
+
+
+Clique em [Gravar]{.z-button .default} e em seguida clique em ![](https://static.zenerp.app.br/icons/purchase/quoteItem.svg){.icon} para [incluir](quoteItem) os itens.
+
 >Só é permitido fazer a edição de um orçamento se estiver no status [PREPARING]{.status}
+
+## Veja também
+
+[Orçamentos](quote)
+
+[Itens de orçamentos](quoteItem)
+
+[Propostas](proposal)
+
+[Itens de proposta](proposalItem)
 
