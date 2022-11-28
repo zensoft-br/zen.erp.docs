@@ -62,18 +62,22 @@ Localize o orçamento desejado, clique em ![](https://static.zenerp.app.br/icons
 
 ## Propostas
 
-Localize o orçamento desejado, clique em ![](https://static.zenerp.app.br/icons/action-more-tr.svg){.icon} > [Propostas]{.menu} e siga essas [instruções](proposal).
+Localize o orçamento desejado, clique em ![](https://static.zenerp.app.br/icons/action-more-tr.svg){.icon} > ![](https://static.zenerp.app.br/icons/purchase/proposal.svg){.icon}[Propostas]{.menu} e siga essas [instruções](proposal).
 
 ## Itens de propostas
 
-Localize o orçamento desejado, clique em ![](https://static.zenerp.app.br/icons/action-more-tr.svg){.icon} > [Itens de propostas]{.menu} e siga essas [instruções](proposalItem).
+Localize o orçamento desejado, clique em ![](https://static.zenerp.app.br/icons/action-more-tr.svg){.icon} > ![](https://static.zenerp.app.br/icons/purchase/proposalItem.svg){.icon}[Itens de propostas]{.menu} e siga essas [instruções](proposalItem).
 
 ## Finalizar orçamento
 
 Localize o orçamento desejado, clique em ![](https://static.zenerp.app.br/icons/action-forward.svg){.icon} > [Finalizar orçamento]{.menu}
+
+Ao finalizar o orçamento será gerado o [pedido de compra](purchase) com os itens de proposta aprovados.
 
 ## Veja também
 
 [Itens de orçamento](quoteItem)
 
 [Propostas](proposal)
+
+[Pedido de compra](purchase)

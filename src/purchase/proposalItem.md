@@ -40,6 +40,10 @@ Um item de proposta será reprovado somente se a proposta estiver no status [PRE
 
 Localize o item de proposta desejada, clique em ![](https://static.zenerp.app.br/icons/action-next.svg){.icon} > [Reverter aprovação de item de proposta]{.menu}.
 
+## Reverter reprovação
+
+Localize o item de proposta desejada, clique em ![](https://static.zenerp.app.br/icons/action-next.svg){.icon} > [Reverter reprovação de item de proposta]{.menu}.
+
 ## Veja também
 
 [Propostas](proposal)

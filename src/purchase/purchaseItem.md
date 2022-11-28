@@ -4,18 +4,30 @@
 
 Define os itens que fazem parte do pedido de compra.
 
-## Inclusão de itens de pedido de compra
+## Incluir
 
-Acesse [Compras > Pedido de compra]{.menu}, clique em ![](https://static.zenerp.app.br/icons/action-child.svg){.icon} e em seguida clique em ![](https://static.zenerp.app.br/icons/action-create.svg){.icon} e preencha os campos solicitados.
+Clique em ![](https://static.zenerp.app.br/icons/action-create.svg){.icon} e preencha os [campos](purchaseItem-edit) solicitados.
 
+## Alterar
 
-## Alteração de itens de pedido de compra
+Localize o item de pedido de compra desejado, clique em ![](https://static.zenerp.app.br/icons/action-update.svg){.icon} e preencha os [campos](purchaseItem-edit) solicitados.
 
-Acesse [Compras > Pedido de compra]{.menu}, clique em ![](https://static.zenerp.app.br/icons/action-child.svg){.icon} e em seguida clique em ![](https://static.zenerp.app.br/icons/action-update.svg){.icon} e preencha os campos solicitados.
+Um item de pedido de compra poderá ser alterado somente se o pedido de compra estiver no status [PREPARING]{.status}
 
+## Excluir
 
-## Exclusão de itens de pedido de compra
+Localize o item de pedido de compra desejado, clique em ![](https://static.zenerp.app.br/icons/action-delete.svg){.icon} e confirme.
 
-Acesse [Compras > Pedido de compra]{.menu}, clique em ![](https://static.zenerp.app.br/icons/action-child.svg){.icon} e em seguida clique em ![](https://static.zenerp.app.br/icons/action-delete.svg){.icon}.
+Um item de pedido de compra poderá ser excluído somente se o pedido de compra estiver no status [PREPARING]{.status}
 
-[]{.todo}
+## Tributação
+
+Localize o item de pedido de compra desejado, clique em ![](https://static.zenerp.app.br/icons/taxation/taxation.svg){.icon} para visualizar os impostos que incidem para o produto.
+
+>A tributação é definida no cadastro de [regras tributárias](/taxation/taxationRule)
+
+## Veja também
+
+[Pedido de compra](purchase)
+
+[Regras tributárias](/taxation/taxationRule)
