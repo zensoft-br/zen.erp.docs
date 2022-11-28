@@ -12,4 +12,4 @@
 * [Alterar status de romaneios de entrada](incomingList-forward)
 * [Alimentar o estoque manualmente](incomingListOpManual)
 * [Alimentar o estoque através de coletor de dados](incomingListOpColetor)
-* [Alimentar o estoque através de planilha](/material/incomingListOpImport)
+* [Alimentar o estoque através de planilha](/material/incomingList/incomingListOpImport)

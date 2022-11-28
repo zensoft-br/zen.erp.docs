@@ -41,3 +41,7 @@ Localize a proposta desejada, clique em ![](https://static.zenerp.app.br/icons/a
 ## Cancelar
 
 Localize a proposta desejada, clique em ![](https://static.zenerp.app.br/icons/action-next.svg){.icon} > [Cancelar proposta]{.menu}.
+
+## Veja também
+
+[Orçamento](quote)
