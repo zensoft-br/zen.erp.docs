@@ -1,4 +1,4 @@
-# Tela de edição de [item de modelo]
+# Tela de edição de item de pedido de compra
 
 []{.draft}
 

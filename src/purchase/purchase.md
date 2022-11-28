@@ -29,3 +29,47 @@ Localize o pedido de compra desejado, clique em ![](https://static.zenerp.app.br
 ## Formas de pagamento
 
 Localize o pedido de compra desejado, clique em ![](https://static.zenerp.app.br/icons/purchase/purchasePayment.svg){.icon} e siga essas [instruções](purchasePayment).
+
+## Preparar
+
+Após a inclusão, o pedido de compra está com status [PREPARING]{.status}
+
+É necessário finalizar a preparação do pedido de compra.
+
+Localize o pedido de compra desejado, clique em ![](https://static.zenerp.app.br/icons/action-forward.svg){.icon} > [Finalizar preparação de pedido de compra]{.menu}
+
+## Aprovar
+
+Após a preparar, o pedido de compra está com status [PREPARED]{.status}
+
+É necessário aprovar o pedido de compra.
+
+Localize o pedido de compra desejado, clique em ![](https://static.zenerp.app.br/icons/action-forward.svg){.icon} > [Aprovar pedido de compra]{.menu}
+
+## Reverter aprovação
+
+Localize o pedido de compra desejado, clique em ![](https://static.zenerp.app.br/icons/action-forward.svg){.icon} > [Reverter aprovação de pedido de compra]{.menu}
+
+## Reverter preparação
+
+Localize o pedido de compra desejado, clique em ![](https://static.zenerp.app.br/icons/action-forward.svg){.icon} > [Reverter preparação de pedido de compra]{.menu}
+
+## Imprimir
+
+Localize o pedido de compra desejado e clique em ![](https://static.zenerp.app.br/icons/action-more-tr.svg){.icon} > ![](https://static.zenerp.app.br/icons/action-print.svg){.icon}[Imprimir]{.menu}
+
+## Duplicar
+
+Localize o pedido de compra desejado, clique em ![](https://static.zenerp.app.br/icons/action-forward.svg){.icon} > [Duplicar pedido de compra]{.menu}
+
+## Cancelar
+
+Localize o pedido de compra desejado, clique em ![](https://static.zenerp.app.br/icons/action-forward.svg){.icon} > [Cancelar pedido de compra]{.menu}
+
+## Veja também
+
+[Orçamento](quote)
+
+[Item de pedido de compra](purchaseItem)
+
+[Formas de pagamento](purchasePayment)

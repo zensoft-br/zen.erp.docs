@@ -10,4 +10,6 @@ Clique em [Gravar]{.z-button .default} para confirmar a operação.
 
 ## Veja também
 
+[Formas de pagamento](purchasePayment)
+
 [Pedido de compra](purchase)
