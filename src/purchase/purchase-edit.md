@@ -16,14 +16,14 @@ Clique em [Gravar]{.z-button .default} para confirmar a operação.
 
 ## Facilitadores
 
-Clique em [Itens de pedidos de compra]{.z-button .default} para ir direto para a tela de [itens de pedido](purchaseItem)
+Clique em [Itens de pedidos de compra]{.z-button .default} para ir direto para a tela de [itens de pedido](purchaseItem).
 
-Clique em [Formas de pagamento]{.z-button .default} para ir direto para a tela de [formas de pagamento](purchasePayment)
+Clique em [Formas de pagamento]{.z-button .default} para ir direto para a tela de [formas de pagamento](purchasePayment).
 
 ## Veja também
 
-[Pedido de compra](purchase)
+[Pedidos de compra](purchase)
 
-[Item de pedido de compra](purchaseItem)
+[Itens de pedido de compra](purchaseItem)
 
 [Formas de pagamento](purchasePayment)

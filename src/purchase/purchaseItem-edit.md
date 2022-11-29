@@ -11,6 +11,6 @@ Clique em [Gravar]{.z-button .default} para confirmar a operação.
 
 ## Veja também
 
-[Pedido de compra](purchase)
+[Pedidos de compra](purchase)
 
-[Item de pedido de compra](purchaseItem)
+[Itens de pedido de compra](purchaseItem)

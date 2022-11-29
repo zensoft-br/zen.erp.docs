@@ -4,7 +4,7 @@
 
 A forma de pagamento indica como será feito o pagamento da compra e os prazos para pagamento.
 
-A forma de pagamento poder ser incluída manualmente ou pode ser gerado automaticamente a partir do prazo de pagamento informado na [edição do pedido de compra](purchase-edit)
+A forma de pagamento poder ser incluída manualmente ou pode ser gerado automaticamente a partir do prazo de pagamento informado na [edição do pedido de compra](purchase-edit).
 
 Acesso em [Compras > Pedidos de compra]{.menu}, localize o pedido de compra desejado, clique em ![](https://static.zenerp.app.br/icons/purchase/purchasePayment.svg){.icon}
 
@@ -22,4 +22,4 @@ Localize a forma de pagamento desejada, clique em ![](https://static.zenerp.app.
 
 ## Veja também
 
-[Pedido de compra](purchase)
+[Pedidos de compra](purchase)

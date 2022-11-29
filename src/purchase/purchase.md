@@ -4,7 +4,7 @@
 
 Um pedido de compra é um documento que formaliza o compromisso de um fornecedor para atender uma solicitação de material detalhando quais são os produtos, quantidades, preços e condições de prazo e pagamento acordados. 
 
-O pedido de compra poder ser incluído manualmente ou pode ser gerado a partir de uma proposta de [orçamento](quote)
+O pedido de compra poder ser incluído manualmente ou pode ser gerado a partir de uma proposta de [orçamento](quote).
 
 Acesso em [Compras > Pedidos de compra]{.menu}
 
@@ -56,7 +56,7 @@ Localize o pedido de compra desejado, clique em ![](https://static.zenerp.app.br
 
 ## Imprimir
 
-Localize o pedido de compra desejado e clique em ![](https://static.zenerp.app.br/icons/action-more-tr.svg){.icon} > ![](https://static.zenerp.app.br/icons/action-print.svg){.icon}[Imprimir]{.menu}
+Localize o pedido de compra desejado e clique em ![](https://static.zenerp.app.br/icons/action-more-tr.svg){.icon} > [Imprimir]{.menu}
 
 ## Duplicar
 
@@ -68,8 +68,8 @@ Localize o pedido de compra desejado, clique em ![](https://static.zenerp.app.br
 
 ## Veja também
 
-[Orçamento](quote)
+[Orçamentos](quote)
 
-[Item de pedido de compra](purchaseItem)
+[Itens de pedido de compra](purchaseItem)
 
 [Formas de pagamento](purchasePayment)

@@ -22,12 +22,12 @@ Um item de pedido de compra poderá ser excluído somente se o pedido de compra 
 
 ## Tributação
 
-Localize o item de pedido de compra desejado, clique em ![](https://static.zenerp.app.br/icons/taxation/taxation.svg){.icon} para visualizar os impostos que incidem para o produto.
+Localize o item de pedido de compra desejado, clique em ![](https://static.zenerp.app.br/icons/taxation/taxation.svg){.icon} para visualizar os impostos que incidem sobre o item de pedido de compra.
 
 >A tributação é definida no cadastro de [regras tributárias](/taxation/taxationRule)
 
 ## Veja também
 
-[Pedido de compra](purchase)
+[Pedidos de compra](purchase)
 
 [Regras tributárias](/taxation/taxationRule)

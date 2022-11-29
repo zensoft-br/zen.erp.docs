@@ -8,7 +8,7 @@ Acesso em [Compras > Propostas]{.menu}
 
 Um facilitador é incluir a proposta a partir de um orçamento.
 
-Acesse [Compras > Orçamentos]{.menu} localize o orçamento desejado, clique em ![](https://static.zenerp.app.br/icons/action-more-tr.svg){.icon} > ![](https://static.zenerp.app.br/icons/purchase/proposal.svg){.icon}[Propostas]{.menu}
+Acesse [Compras > Orçamentos]{.menu} localize o orçamento desejado, clique em ![](https://static.zenerp.app.br/icons/action-more-tr.svg){.icon} > [Propostas]{.menu}
 
 ## Incluir
 
@@ -32,16 +32,16 @@ Localize a proposta desejada, clique em ![](https://static.zenerp.app.br/icons/p
 
 ## Finalizar preparação
 
-Localize a proposta desejada, clique em ![](https://static.zenerp.app.br/icons/action-next.svg){.icon} > [Finalizar preparação de proposta]{.menu}.
+Localize a proposta desejada, clique em ![](https://static.zenerp.app.br/icons/action-next.svg){.icon} > [Finalizar preparação de proposta]{.menu}
 
 ## Reverter preparação
 
-Localize a proposta desejada, clique em ![](https://static.zenerp.app.br/icons/action-next.svg){.icon} > [Reverter finalização de preparação de proposta]{.menu}.
+Localize a proposta desejada, clique em ![](https://static.zenerp.app.br/icons/action-next.svg){.icon} > [Reverter finalização de preparação de proposta]{.menu}
 
 ## Cancelar
 
-Localize a proposta desejada, clique em ![](https://static.zenerp.app.br/icons/action-next.svg){.icon} > [Cancelar proposta]{.menu}.
+Localize a proposta desejada, clique em ![](https://static.zenerp.app.br/icons/action-next.svg){.icon} > [Cancelar proposta]{.menu}
 
 ## Veja também
 
-[Orçamento](quote)
+[Orçamentos](quote)

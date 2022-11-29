@@ -22,27 +22,27 @@ Um item de proposta poderá ser excluído somente se a proposta estiver no statu
 
 ## Tributação
 
-Para visualizar a tributação de um item da proposta localize o item da proposta desejado, clique em ![](https://static.zenerp.app.br/icons/action-more-tr.svg){.icon} > ![](https://static.zenerp.app.br/icons/taxation/taxation.svg){.icon}[Tributação]{.menu}
+Para visualizar a tributação de um item da proposta localize o item da proposta desejado, clique em ![](https://static.zenerp.app.br/icons/action-more-tr.svg){.icon} > [Tributação]{.menu}
 
 ## Aprovar 
 
-Localize o item de proposta desejada, clique em ![](https://static.zenerp.app.br/icons/action-next.svg){.icon} > [Aprovar item de proposta]{.menu}.
+Localize o item de proposta desejada, clique em ![](https://static.zenerp.app.br/icons/action-next.svg){.icon} > [Aprovar item de proposta]{.menu}
 
 Um item de proposta será aprovado somente se a proposta estiver no status [PREPARED]{.status}
 
 ## Reprovar 
 
-Localize o item de proposta desejada, clique em ![](https://static.zenerp.app.br/icons/action-next.svg){.icon} > [Reprovar item de proposta]{.menu}.
+Localize o item de proposta desejada, clique em ![](https://static.zenerp.app.br/icons/action-next.svg){.icon} > [Reprovar item de proposta]{.menu}
 
 Um item de proposta será reprovado somente se a proposta estiver no status [PREPARED]{.status}
 
 ## Reverter aprovação
 
-Localize o item de proposta desejada, clique em ![](https://static.zenerp.app.br/icons/action-next.svg){.icon} > [Reverter aprovação de item de proposta]{.menu}.
+Localize o item de proposta desejada, clique em ![](https://static.zenerp.app.br/icons/action-next.svg){.icon} > [Reverter aprovação de item de proposta]{.menu}
 
 ## Reverter reprovação
 
-Localize o item de proposta desejada, clique em ![](https://static.zenerp.app.br/icons/action-next.svg){.icon} > [Reverter reprovação de item de proposta]{.menu}.
+Localize o item de proposta desejada, clique em ![](https://static.zenerp.app.br/icons/action-next.svg){.icon} > [Reverter reprovação de item de proposta]{.menu}
 
 ## Veja também
 
