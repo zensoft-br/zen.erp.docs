@@ -22,7 +22,7 @@ Uma proposta poderá ser alterado somente se estiver no status [PREPARING]{.stat
 
 ## Excluir
 
-Localize a proposta desejada, clique em ![](https://static.zenerp.app.br/icons/action-delete.svg){.icon} e confirme.
+Localize a proposta desejada, clique em ![](https://static.zenerp.app.br/icons/action-more-tr.svg){.icon} > [Excluir]{.menu} e confirme.
 
 Uma proposta poderá ser excluído somente se estiver no status [PREPARING]{.status}
 

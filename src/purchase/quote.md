@@ -20,7 +20,7 @@ Um orçamento poderá ser alterado somente se estiver no status [PREPARING]{.sta
 
 ## Excluir
 
-Localize o orçamento desejado, clique em ![](https://static.zenerp.app.br/icons/action-delete.svg){.icon} e confirme.
+Localize o orçamento desejado, clique em ![](https://static.zenerp.app.br/icons/action-more-tr.svg){.icon} > [Excluir]{.menu} e confirme.
 
 Um orçamento poderá ser excluído somente se estiver no status [PREPARING]{.status}
 
@@ -38,7 +38,7 @@ Localize o orçamento desejado, clique em ![](https://static.zenerp.app.br/icons
 
 ## Aprovar
 
-Após a preparar, o orçamento está com status [PREPARED]{.status}
+Após preparar, o orçamento está com status [PREPARED]{.status}
 
 É necessário aprovar o orçamento.
 

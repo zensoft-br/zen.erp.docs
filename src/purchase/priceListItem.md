@@ -12,7 +12,7 @@ Localize o item de lista de preço de compra desejado, clique em ![](https://sta
 
 ## Excluir
 
-Localize o item de lista de preço de compra desejado, clique em ![](https://static.zenerp.app.br/icons/action-delete.svg){.icon} e confirme.
+Localize o item de lista de preço de compra desejado, clique em ![](https://static.zenerp.app.br/icons/action-more-tr.svg){.icon} > [Excluir]{.menu} e confirme.
 
 A exclusão será definitiva e somente será efetivada se o item da lista de preço de compra não tiver dependências.
 

@@ -17,7 +17,7 @@ Um item de orçamento poderá ser alterado somente se o orçamento estiver no st
 
 ## Excluir
 
-Localize o item de orçamento desejado, clique em ![](https://static.zenerp.app.br/icons/action-delete.svg){.icon} e confirme.
+Localize o item de orçamento desejado, clique em ![](https://static.zenerp.app.br/icons/action-more-tr.svg){.icon} > [Excluir]{.menu} e confirme.
 
 Um item de orçamento poderá ser excluído somente se o orçamento estiver no status [PREPARING]{.status}
 

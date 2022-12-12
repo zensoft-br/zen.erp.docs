@@ -17,7 +17,7 @@ Localize a lista de preço desejada, clique em ![](https://static.zenerp.app.br/
 
 ## Excluir
 
-Localize a lista de preço desejada, clique em ![](https://static.zenerp.app.br/icons/action-delete.svg){.icon} e confirme.
+Localize a lista de preço desejada, clique em ![](https://static.zenerp.app.br/icons/action-more-tr.svg){.icon} > [Excluir]{.menu} e confirme.
 
 >A exclusão de uma lista de preços é irreversível e só é possível se ela não foi utilizada em nenhum pedido de compra.
 

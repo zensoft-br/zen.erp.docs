@@ -14,7 +14,7 @@ Um [item de modelo] poderá ser alterado somente se ...
 
 ## Excluir
 
-Localize o [item de modelo] desejado, clique em ![](https://static.zenerp.app.br/icons/action-delete.svg){.icon} e confirme.
+Localize o [item de modelo] desejado, clique em ![](https://static.zenerp.app.br/icons/action-more-tr.svg){.icon} > [Excluir]{.menu} e confirme.
 
 Um [item de modelo] poderá ser excluído somente se ...
 

@@ -18,7 +18,7 @@ Localize o pedido de compra desejado, clique em ![](https://static.zenerp.app.br
 
 ## Excluir
 
-Localize o pedido de compra desejado, clique em ![](https://static.zenerp.app.br/icons/action-delete.svg){.icon} e confirme.
+Localize o pedido de compra desejado, clique em ![](https://static.zenerp.app.br/icons/action-more-tr.svg){.icon} > [Excluir]{.menu} e confirme.
 
 Um pedido de compra poderá ser excluído somente se estiver no status [PREPARING]{.status}
 

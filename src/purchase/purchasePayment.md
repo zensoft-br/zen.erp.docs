@@ -18,7 +18,7 @@ Localize a forma de pagamento desejada, clique em ![](https://static.zenerp.app.
 
 ## Excluir
 
-Localize a forma de pagamento desejada, clique em ![](https://static.zenerp.app.br/icons/action-delete.svg){.icon} e confirme.
+Localize a forma de pagamento desejada, clique em ![](https://static.zenerp.app.br/icons/action-more-tr.svg){.icon} > [Excluir]{.menu} e confirme.
 
 ## Veja também
 

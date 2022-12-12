@@ -16,7 +16,7 @@ Um item de proposta poderá ser alterado somente se a proposta estiver no status
 
 ## Excluir
 
-Localize o item de proposta desejado, clique em ![](https://static.zenerp.app.br/icons/action-delete.svg){.icon} e confirme.
+Localize o item de proposta desejado, clique em ![](https://static.zenerp.app.br/icons/action-more-tr.svg){.icon} > [Excluir]{.menu} e confirme.
 
 Um item de proposta poderá ser excluído somente se a proposta estiver no status [PREPARING]{.status}
 

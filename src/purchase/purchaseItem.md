@@ -16,7 +16,7 @@ Um item de pedido de compra poderá ser alterado somente se o pedido de compra e
 
 ## Excluir
 
-Localize o item de pedido de compra desejado, clique em ![](https://static.zenerp.app.br/icons/action-delete.svg){.icon} e confirme.
+Localize o item de pedido de compra desejado, clique em ![](https://static.zenerp.app.br/icons/action-more-tr.svg){.icon} > [Excluir]{.menu} e confirme.
 
 Um item de pedido de compra poderá ser excluído somente se o pedido de compra estiver no status [PREPARING]{.status}
 
