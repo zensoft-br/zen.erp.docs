@@ -1,5 +1,7 @@
 # Tela de edição de tipos de operações
 
+[]{.draft}
+
 Preencha os campos solicitados com atenção especial aos seguintes campos:
 
 * [Código]{.field .required} - informe o nome que identifica a operação

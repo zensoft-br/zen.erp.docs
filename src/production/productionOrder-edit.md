@@ -1,5 +1,7 @@
 # Tela de edição de ordem de produção
 
+[]{.draft}
+
 Preencha os campos solicitados com atenção especial aos seguintes campos:
 
 * [Empresa]{.field .required} - informe a empresa onde a ordem de produção será executada

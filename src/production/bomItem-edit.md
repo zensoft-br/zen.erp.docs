@@ -1,5 +1,7 @@
 # Tela de edição de item de estrutura
 
+[]{.draft}
+
 Preencha os campos solicitados com atenção especial aos seguintes campos:
 
 * [Produto]{.field .required} - informe o item de matéria prima

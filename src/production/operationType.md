@@ -1,5 +1,7 @@
 # Tipos de operações
 
+[]{.draft}
+
 Um tipo de operação representa as operações realizadas em uma ordem de produção.
 
 Acesso em [Produção > Tipos de operações]{.menu}

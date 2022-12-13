@@ -1,5 +1,7 @@
 # Tela de edição de estrutura de produto
 
+[]{.draft}
+
 Preencha os campos solicitados com atenção especial aos seguintes campos:
 
 * [Código]{.field} - define o código da estrutura, normalmente o mesmo código do produto acabado que se refere a estrutura

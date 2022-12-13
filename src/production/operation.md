@@ -1,5 +1,7 @@
 # Operações
 
+[]{.draft}
+
 Uma operação representa os processos envolvidos na execução de uma ordem de produção e que compõem o custo da mercadoria produzida.
 
 ## Incluir

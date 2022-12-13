@@ -1,5 +1,7 @@
 # Configurações contábeis
 
+[]{.draft}
+
 A configuração contábil do tipo de produção é utilizada para classificar contabilmente o lançamento das operações de uma ordem de produção.
 
 Acesso em [Produção > Configurações contábeis]{.menu}

@@ -1,5 +1,7 @@
 # Tela de edição de operações
 
+[]{.draft}
+
 Preencha os campos solicitados com atenção especial aos seguintes campos:
 
 * [Tipo de operação]{.field .required} - informe a operação correspondente

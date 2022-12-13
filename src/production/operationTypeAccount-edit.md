@@ -1,5 +1,7 @@
 # Tela de edição de configurações contábeis
 
+[]{.draft}
+
 Preencha os campos solicitados com atenção especial aos seguintes campos:
 
 * [Tipo de operação]{.field .required} - selecione o tipo de operação

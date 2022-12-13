@@ -1,5 +1,7 @@
 # Estruturas de produtos
 
+[]{.draft}
+
 Uma estrutra de produto representa os itens de matéria prima e suas respectivas quantidades, necessários para a produção de um produto acabado.
 
 Acesso em [Produção > Estruturas de produtos]{.menu}

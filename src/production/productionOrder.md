@@ -1,5 +1,7 @@
 # Ordens de produção
 
+[]{.draft}
+
 Uma ordem de produção representa a programação para produção de um produto acabado indicando a quantidade necessária e a data prevista para disponibilizar o material no estoque.
 
 Acesso em [Produção > Ordens de produção]{.menu}

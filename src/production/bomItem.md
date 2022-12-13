@@ -1,5 +1,7 @@
 # Itens de estrutura de produto
 
+[]{.draft}
+
 Um item de estrutura representa um item de matéria prima utilizado na produção de um produto acabado.
 
 ## Incluir
