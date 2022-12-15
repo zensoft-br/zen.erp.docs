@@ -4,31 +4,31 @@
 
 Contas a pagar são basicamente as obrigações financeiras que a empresa assume com seus fornecedores. Uma conta a pagar pode ser gerada automaticamente pelo processo de entrada de nota fiscal ou incluída manualmente sem vínculo com uma nota fiscal de entrada.
 
+Acesso em [Financeiro > Conta a pagar]{.menu}
 
-## Inclusão de conta a pagar manual
+## Incluir
 
-Acesse [Financeiro > Conta a pagar]{.menu} e clique em ![](https://static.zenerp.app.br/icons/action-create.svg){.icon} e preencha os [campos](payable-edit) solicitados.
+Clique em ![](https://static.zenerp.app.br/icons/action-create.svg){.icon} e preencha os [campos](payable-edit) solicitados.
 
+## Alterar
 
-## Aprovação de conta a pagar
+Localize a conta a pagar desejada, clique em ![](https://static.zenerp.app.br/icons/action-update.svg){.icon} e preencha os [campos](payable-edit) solicitados.
 
-A conta a pagar gerada manualmente está com status [PREPARING]{.status}. É necessário aprovar esse documento.
+Somente documentos incluídos manualmente podem ser alterados.
 
-Selecione a conta a pagar e clique em ![](https://static.zenerp.app.br/icons/action-forward.svg){.icon} e em seguida clique em [Aprovar conta a pagar]{.button .tag} e depois clique no botão [Fechar]{.button}
+## Excluir
+
+Localize a conta a pagar desejada, clique em ![](https://static.zenerp.app.br/icons/action-more-tr.svg){.icon} > [Excluir]{.menu} e confirme.
+
+Somente documentos incluídos manualmente podem ser excluídos.
+
+## Aprovar
+
+Localize a conta a pagar desejada, clique em ![](https://static.zenerp.app.br/icons/action-forward.svg){.icon} > [Aprovar conta a pagar]{.menu} > [Fechar]{.z-button .default}
 
 > Contas a pagar gerada automaticamente pelo processo de faturamento já ficam com status [APPROVED]{.status}
 
 
-## Reverter aprovação de conta a pagar
+## Reverter
 
-Selecione a conta a pagar e clique em ![](https://static.zenerp.app.br/icons/action-forward.svg){.icon} e em seguida clique em [Reverter aprovação de conta a pagar]{.button .tag} e depois clique no botão [Fechar]{.button}
-
-
-## Alteração de conta a pagar
-
-Somente documentos incluídos manualmente podem ser [alterados](payable-edit).
-
-
-## Exclusão de conta a pagar
-
-Somente documentos incluídos manualmente podem ser [excluídos](payable-edit).
+Selecione a conta a pagar e clique em ![](https://static.zenerp.app.br/icons/action-forward.svg){.icon} e em seguida clique em [Reverter aprovação de conta a pagar]{.menu} > [Fechar]{.z-button .default}
