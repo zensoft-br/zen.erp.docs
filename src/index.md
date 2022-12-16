@@ -19,3 +19,5 @@ Conheça a [interface](interface) do Zen Erp.
 * [Sistema](system)
 * [Segurança](security)
 * [Customers](customers)
+
+![](zen-telegram-qrcode.svg){.thumbnail}

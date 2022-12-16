@@ -2,9 +2,9 @@
 
 ## Venda
 
-A primeira etapa consiste em incluir e aprovar um pedido de venda.
+A primeira etapa consiste em incluir e aprovar um [pedido de venda](/sale/sale).
 
-[Pedido de venda](/sale/sale)
+---
 
 ## Separação
 
@@ -14,7 +14,7 @@ A separação poderá ser feita por pedido de venda individual, agrupada ou frac
 
 ### Separação por pedido de venda individual
 
-Selecione o pedido de venda, clique em [>>]{.icon} e [Criar ordem de separação]{.menu}
+Selecione o pedido de venda, clique em [>>]{.icon} e [Incluir ordem de separação]{.menu}
 
 O sistema incluirá uma requisição de saída e uma ordem de separação.
 
@@ -24,7 +24,7 @@ Selecione o pedido de venda, clique em [>>]{.icon} e [Liberar para separação]{
 
 O sistema incluirá uma requisição de saída e o operador deverá criar uma ordem de separação com os itens e quantidades desejados, conforme essas [instruções]().
 
-### Alocação de estoques para a ordem de separação
+### Alocação de estoques na ordem de separação
 
 Selecione a ordem de separação, clique em [>>]{.icon} e [Iniciar reserva]{.menu}
 
@@ -36,10 +36,16 @@ Para alocação manual, clique em [>>]{.icon} e [Alocar estoques na reserva]{.me
 
 Caso seja necessário, o operador poderá emitir uma ordem de movimentação, para mover os estoques alocados para um endereço de separação.
 
+---
+
 ## Embalagem
 
 Após a alocação dos estoques na ordem de separação, será necessário discriminar os volumes.
 
+---
+
 ## Faturamento
+
+---
 
 ## Envio
