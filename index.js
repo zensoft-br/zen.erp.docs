@@ -43,10 +43,12 @@ const app = express();
 app.post("/api/refresh", (req, res) => {
   res.status(200).send("refresh");
   try {
+    console.log("POST /api/refresh");
     child_process.execSync("git reset --hard HEAD");
     child_process.execSync("git pull");
     child_process.execSync("npm install");
     child_process.execSync("systemctl restart zen.docs");
+    console.log("Repository refreshed");
   } catch (error) {
     console.error(error);
   }
