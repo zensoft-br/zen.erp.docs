@@ -38,6 +38,8 @@ Group=root
 Environment=PATH=/usr/bin:/usr/local/bin
 Environment=NODE_ENV=production
 WorkingDirectory=/opt/zen.docs
+StandardOutput=file:/var/log/zen.erp.docs.log
+StandardError=file:/var/log/zen.erp.docs.error
 
 [Install]
 WantedBy=multi-user.target
