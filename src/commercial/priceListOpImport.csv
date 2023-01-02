@@ -1,0 +1,1 @@
+product.id,product.code,productPacking.id,productPacking.code,currency.id,currency.code,unitValue,variationRateLow,variationRateHigh,tags

@@ -3,3 +3,4 @@
 []{.draft}
 
 * [Empresas](company)
+* [Sociedades](society)

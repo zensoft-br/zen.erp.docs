@@ -14,9 +14,9 @@ Preencha os campos solicitados com **atenção especial aos seguintes campos:**
 
 > Exemplo:
 > 
-> Conta contábil D - Clientes
+> Conta contábil D - Ativo, Clientes
 >
-> Conta contábil C - Receita
+> Conta contábil C - Resultados, Receita
 
 
 # Ateração de conta a receber

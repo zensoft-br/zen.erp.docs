@@ -8,9 +8,9 @@ Preencha os campos solicitados com atenção especial aos seguintes campos:
 
 > Exemplo:
 > 
-> Conta contábil C - Fornecedores
+> Conta contábil C - Passivo, Fornecedores
 >
-> Conta contábil D - Despesa
+> Conta contábil D - Resultados, Despesa
 
 Clique em [Gravar]{.z-button .default} para confirmar a operação.
 
