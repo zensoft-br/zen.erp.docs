@@ -6,7 +6,7 @@
 * Se a nota fiscal estiver [PREPARADA]{.status}, selecione a opção [Reverter preparação de nota fiscal de saída]{.forward}
 * Selecione a opção [Conceder desconto em nota fiscal de saída]{.forward}
 	* Informe a porcentagem de desconto
-	* Clique em "Processar"
+	* Clique em [Processar]{.button}
 	* Anote o valor do campo "Desconto concedido no valor dos produtos"
 * Selecione a opção [Finalizar preparação de nota fiscal de saída]{.forward}
 * Selecione a opção [Aprovar nota fiscal de saída]{.forward}
@@ -19,6 +19,6 @@
 	* Informe o valor anotado anteriormente
 	* Informe a conta contábil de débito. Ex: Ativo, Clientes
 	* Informe a conta contábil de crédito. Ex: Receitas, Vendas
-	* Clique em "Processar"
+	* Clique em [Processar]{.button}
 * Localize as contas a receber geradas
 	* Mesma numeração, tag [#manual]{.tag}
