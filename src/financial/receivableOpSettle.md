@@ -10,12 +10,10 @@ Preencha os campos solicitados, com **atenção especial aos seguintes campos:**
 * [Valor a liquidar]{.field} O sistema preenche automaticamente com o valor em aberto. Para liquidação parcial, informe o valor que deseja liquidar. A diferença ficará em aberto como saldo do documento
 * Os campos [desconto]{.field}, [juros]{.field} e [multa]{.field} devem ser preenchidos somente se necessário e farão parte do valor total do movimento
 
->## Observação 1
->Para conceder apenas um desconto, preencha o campo valor a liquidar e valor do desconto com o valor desejado. Nesse caso o valor do movimento será zero.
+>Para conceder apenas um desconto, preencha o campo valor a liquidar e valor do desconto com o valor desejado. Nesse caso o valor do movimento será zero, e clique em [Processar]{.z-button .default}
 >
 > Exemplo: para concerder um desconto de $50,00 preencha o campo [Valor a liquidar]{.field} com 50,00 e o campo [Desconto]{.field} também com 50,00. O campo [Valor total]{.field} será 0,00 mas será liquidado $50,00 do título.
 
->## Observação 2
 > Se o cliente fizer um pagamento com valor maior que a dívida, deverá ser feito o processo de [antecipação de recebíveis](receivableAnticipation).
 >
 > Exemplo:
@@ -32,8 +30,6 @@ Clique em [Incluir abatimento]{.button} para liquidar com um documento de conta 
 
 * [Conta cotábil]{.field .required} Informe a conta contábil que indica o destino do recurso, por exemplo, a conta contábil do banco em que o recurso foi depositado
 
->## Observação
->
 > Uma liquidação pode estar associada a mais de uma conta contábil. O único requisito é que a soma dos lançamentos contábeis confiram com o valor da receita.
 >
 >Para dividir o lançamento em mais de uma conta contábil clique em [Incluir liquidação]{.button} novamente e preencha os campos.

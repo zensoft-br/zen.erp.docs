@@ -25,3 +25,7 @@ Na aba "Options", informe o modelo da etiqueta.
 Na aba "Advanced Setup", habilite a opção "Web Sensing" para ativar o sensor de quebra de página
 
 ![](zebra-advanced-setup.png)
+
+## Impressora pulando etiquetas
+
+É necessário calibrar a impressora no botão de "feed" e na tela de preferências
