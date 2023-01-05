@@ -2,8 +2,6 @@
 
 []{.draft}
 
-## Grids
-
 * [Armazéns](warehouse)
 * [Endereços](address)
 * [Paletes](handlingUnit)
@@ -27,4 +25,6 @@
 ## Processos
 
 * [Impressão de etiquetas de identificação de paletes](handlingUnitLabel)
+* [Alimentar o estoque manualmente](incomingListOpManual)
+* [Alimentar o estoque através de planilha](incomingListOpImport)
 * [Alterar estoque](stockOpUpdate)
