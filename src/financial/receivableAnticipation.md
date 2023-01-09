@@ -8,7 +8,7 @@ Esta operação pode ser tratada de 3 formas:
 
 ## No módulo financeiro como uma receita
 
-[Faça a inclusão de uma receita](revenueOpCreate) onde a **descriminação da receita** é a conta contábil do cliente e o **destino dos recursos** é a conta contábil de onde o recurso foi depositado (ex: banco).
+[Faça a inclusão de uma receita](revenueOpCreate) onde a **discriminação da receita** é a conta contábil do cliente e o **destino dos recursos** é a conta contábil de onde o recurso foi depositado (ex: banco).
 
 ## No módulo contabilidade incluindo um lançamento contábil
 
