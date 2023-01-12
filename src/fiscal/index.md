@@ -10,3 +10,6 @@
 * [Perfis fiscais de pessoas](fiscalProfilePerson)
 * [Perfis fiscais de produtos](fiscalProfileProduct)
 * [Regiões fiscais](fiscalRegion)
+
+# Operações
+* [Devolução](outgoingInvoiceReturn)
