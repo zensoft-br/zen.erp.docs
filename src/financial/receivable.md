@@ -4,28 +4,43 @@
 
 Contas a receber são os valores que a empresa tem a receber de seus clientes. Normalmente uma conta a receber é gerada automaticamente pelo processo de faturamento. Ocasionalmente poderá ser incluída uma conta a receber manualmente.
 
-## Inlcusão de conta a receber manual
+Acesso em [Financeiro > Conta a receber]{.menu}
 
-Acesse [Financeiro > Conta a receber]{.menu} e clique em ![](https://static.zenerp.app.br/icons/action-create.svg){.icon} e preencha os [campos](receivable-edit) solicitados.
+## Incluir
+
+Clique em ![](https://static.zenerp.app.br/icons/action-create.svg){.icon} e preencha os [campos](receivable-edit) solicitados.
+
+## Alterar
+
+Localize a conta a receber desejada, clique em ![](https://static.zenerp.app.br/icons/action-update.svg){.icon} e preencha os [campos](receivable-edit) solicitados.
+
+Uma conta a receber poderá ser alterada somente se tiver sido incluída manualmente.
+
+## Excluir
+
+Localize a conta a receber desejada, clique em ![](https://static.zenerp.app.br/icons/action-more-tr.svg){.icon} > [Excluir]{.menu} e confirme.
+
+Uma conta a receber poderá ser excluída somente se tiver sido incluída manualmente.
 
 
+## Aprovar
 
-## Aprovação de conta a receber
+A conta a receber gerada manualmente está com status [PREPARANDO]{.status}. É necessário aprovar esse documento.
 
-A conta a receber gerada manualmente está com status [PREPARING]{.status}. É necessário aprovar esse documento.
+Localize a conta a receber desejada, clique em ![](https://static.zenerp.app.br/icons/action-forward.svg){.icon} > Aprovar conta a receber{.menu} 
 
-Selecione a conta a receber e clique em ![](https://static.zenerp.app.br/icons/action-forward.svg){.icon} e em seguida clique em [Aprovar conta a receber]{.button .tag} e depois clique no botão [Fechar]{.button}
+> Contas a receber gerada automaticamente pelo processo de faturamento já ficam com status [APROVADO]{.status}
 
-> Contas a receber gerada automaticamente pelo processo de faturamento já ficam com status [APPROVED]{.status}
+## Reverter
 
-## Reverter aprovação de conta a receber
+Localize a conta a receber desejada, clique em ![](https://static.zenerp.app.br/icons/action-forward.svg){.icon} > Reverter aprovação de conta a receber{.menu} 
 
-Selecione a conta a receber e clique em ![](https://static.zenerp.app.br/icons/action-forward.svg){.icon} e em seguida clique em [Reverter aprovação de conta a receber]{.button .tag} e depois clique no botão [Fechar]{.button}
+> Não é possível reverter aprovação de uma conta a receber gerada automaticamente pelo processo de faturamento.
 
-## Alteração de conta a receber
+## Liquidar
 
-Somente documentos incluídos manualmente podem ser [alterados](payable-edit).
+Localize a conta a receber desejada,, clique em ![](https://static.zenerp.app.br/icons/action-forward.svg){.icon} > Liquidar contas a receber{.menu} e siga essas [instruções](receivableOpSettle).
 
-## Exclusão de conta a receber
+## Veja também
 
-Somente documentos incluídos manualmente podem ser [excluídos](payable-edit).
+[Liquidação de contas a receber](receivableOpSettle)
