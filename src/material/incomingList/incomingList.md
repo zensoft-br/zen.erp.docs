@@ -33,3 +33,5 @@ Localize o romaneio de entrada desejado e clique em ![](https://static.zenerp.ap
 ## Veja também
 
 [Item de romaneio de entrada](incomingListItem)
+
+[Importar itens de romaneio através de planilha](/material/incomingListOpImport)

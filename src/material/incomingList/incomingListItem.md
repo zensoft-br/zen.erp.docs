@@ -20,4 +20,5 @@ Localize o item de romaneio de entrada desejado, clique em ![](https://static.ze
 
 [Romaneio de entrada](incomingList)
 
+[Importar itens de romaneio através de planilha](/material/incomingListOpImport)
 
