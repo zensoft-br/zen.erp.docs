@@ -49,3 +49,9 @@ Localize o envio desejado, clique em ![](https://static.zenerp.app.br/icons/acti
 ## Ignorar carregamento
 
 Localize o envio desejado, clique em ![](https://static.zenerp.app.br/icons/action-forward.svg){.icon} > [Ignorar carregamento de envio]{.menu}
+
+## Veja também
+
+[Nota fiscal de saída](/fiscal/outgoingInvoice/outgoingInvoice)
+
+[Cadastro de pessoas](/catalog/person/person)
