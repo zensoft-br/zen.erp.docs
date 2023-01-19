@@ -30,3 +30,8 @@ Selecione a lista de preços desejada, clique no botão ![](https://static.zener
 Na tela de importar lista de preços, selecione a [Lista de preços]{.field} desejada, clique em [Escolher arquivo]{.menu}, selecione a planilha e clique em **Abrir** e em seguida clique em [Processar]{.z-button .default}
 
 Após processar clique em [Fechar]{.z-button .default}
+
+## Veja também
+
+* [Listas de preços de compra](/purchase/priceList)
+* [Listas de preços de venda](/sale/priceList)

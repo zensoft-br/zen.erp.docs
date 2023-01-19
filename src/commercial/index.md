@@ -3,6 +3,7 @@
 []{.draft}
 
 * [Requisições de alterações de preços](priceListChangeRequest)
+* [Listas de preços](priceList)
 
 ## Processos
 
