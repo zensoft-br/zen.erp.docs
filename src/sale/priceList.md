@@ -25,3 +25,9 @@ Localize a lista de preço desejada, clique em ![](https://static.zenerp.app.br/
 
 Localize a lista de preço desejada, clique em ![](https://static.zenerp.app.br/icons/action-child.svg){.icon} e siga essas [instruções](priceListItem).
 
+## Veja também
+
+[Itens de listas de preços de venda](priceListItem)
+
+[Importação de itens de lista de preço através de planilha](/commercial/priceListOpImport)
+

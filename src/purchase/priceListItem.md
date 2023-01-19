@@ -2,6 +2,8 @@
 
 Define os itens que fazem parte da lista de preço.
 
+>A lista de preço pode ser pelo produto mestre ou pelos produtos. Utilizando o produto mestre, todos os produtos associados ao mestre vão utilizar o mesmo preço.
+
 ## Incluir
 
  Clique em ![](https://static.zenerp.app.br/icons/action-create.svg){.icon} e preencha os [campos](priceListItem-edit) solicitados.
@@ -18,6 +20,12 @@ A exclusão será definitiva e somente será efetivada se o item da lista de pre
 
 >Para excluir vários itens de uma vez, selecione todos os itens desejados e clique em ![](https://static.zenerp.app.br/icons/action-delete.svg){.icon}
 
+## Importar itens a partir de uma planilha
+
+Para importar os itens da lista de preços a partir de uma planilha, siga essas [instruções](/commercial/priceListOpImport)
+
 ## Veja também
 
 [Listas de preço de compra](priceList)
+
+[Importação de itens de lista de preço através de planilha](/commercial/priceListOpImport)

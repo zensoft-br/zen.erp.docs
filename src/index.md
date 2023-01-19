@@ -13,6 +13,7 @@ Conheça a [interface](interface) do Zen Erp.
 * [Financeiro](financial)
 * [Fiscal](fiscal)
 * [Materiais](material)
+* [Comercial](commercial)
 * [Compras](purchase)
 * [Vendas](sale)
 * [Tributação](taxation)

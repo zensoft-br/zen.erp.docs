@@ -6,8 +6,6 @@
 
 Baixe a [planilha modelo](incomingListOpImport.xlsx) e preencha com as informações de cada item.
 
->### Observação 1
->
 >Para importar produtos com controle serial (ex: peças de tecidos, componentes com número de série, automóveis), cada linha da planilha deverá representar um item com seu respectivo número serial e quantidade.
 
 ### Colunas
@@ -33,8 +31,6 @@ Baixe a [planilha modelo](incomingListOpImport.xlsx) e preencha com as informaç
 * [tags]{.field} [Tags](/tags.md)
 * [properties.<prop>]{.field} Propriedades do item do romaneio
 
->### Observação 2
->
 >Pelo menos uma das colunas [productPacking.code]{.field} ou [productPacking.barcode]{.field} devem ser preenchidas obrigatoriamente. 
 >
 >As demais colunas são opcionais e quando não forem preenchidas o sistema atribuirá um valor padrão.
@@ -45,7 +41,7 @@ Baixe a [planilha modelo](incomingListOpImport.xlsx) e preencha com as informaç
 
 Acesse [Materiais > Romaneio de entrada]{.menu} clique no botão ![](https://static.zenerp.app.br/icons/action-more-toolbar.svg){.icon} e clique na opção [Importar romaneio de entrada]{.menu}
 
-Na tela de importar romaneio de entrada clique em [Escolher arquivo]{.menu}, selecione a planilha e clique em **Abrir** e em seguida clique em [Processar]{.z-button}
+Na tela de importar romaneio de entrada clique em [Escolher arquivo]{.menu}, selecione a planilha e clique em **Abrir** e em seguida clique em [Processar]{.z-button .default}
 
 O romaneio será gerado na empresa ativa{.note .sticky .warning}
 
@@ -53,4 +49,4 @@ O romaneio será gerado na empresa ativa{.note .sticky .warning}
 
 Acesse [Materiais > Romaneio de entrada]{.menu}, selecione o romaneio, clique em ![](https://static.zenerp.app.br/icons/action-next.svg){.icon} e clique na opção [Importar romaneio de entrada]{.menu}
 
-Na tela de importar romaneio de entrada clique em [Escolher arquivo]{.menu}, selecione a planilha e clique em **Abrir** e em seguida clique em [Processar]{.z-button}
+Na tela de importar romaneio de entrada clique em [Escolher arquivo]{.menu}, selecione a planilha e clique em **Abrir** e em seguida clique em [Processar]{.z-button .default}
