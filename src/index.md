@@ -9,6 +9,7 @@ Conheça a [interface](interface) do Zen Erp.
 * [Cadastros](catalog)
 * [Auditoria](audit)
 * [Contabilidade](accounting)
+* [Expedição](shipping)
 * [Financeiro](financial)
 * [Fiscal](fiscal)
 * [Materiais](material)
