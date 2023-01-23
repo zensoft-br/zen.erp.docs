@@ -35,12 +35,13 @@ A comissão vai mudar de acordo com o desconto concedido em cada item do pedido 
 A comissão padrão do vendedor é 5%
 Desconto | Comissão
 -- | -- 
-até 2,99%	|5%
-3%	a 4,99%	|4,5%
-5%	a 6,99%	|4%
-7%	a 9,99%	|3,5%
-10%		|3%
-10,01% 	|0%
+até 2,99%	    |5%
+3%	a 4,99%	    |4,5%
+5%	a 6,99%	    |4%
+7%	a 9,99%	    |3,5%
+10% a 14,99%    |2%
+10,01% a 20,00%	|1%
+20,01%      	|0%
 
 ### Revenda
 
