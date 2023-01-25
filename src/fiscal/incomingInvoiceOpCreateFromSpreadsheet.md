@@ -8,7 +8,7 @@ Baixe o [documento modelo](incomingInvoiceOpCreateFromSpreadsheet.xlsx) e preenc
 
 ### Planilhas
 
-O documento é composto de 3 palnilhas: **Operação**, **Adições** e **Itens**. Preencha os campos de cada planilha conforme as informações constantes da DI.
+O documento é composto de 3 planilhas: **Operação**, **Adições** e **Itens**. Preencha os campos de cada planilha conforme as informações constantes da DI.
 
 >O documento base para a nota de importação sempre será a DI.
 
