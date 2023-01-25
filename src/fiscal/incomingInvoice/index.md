@@ -13,4 +13,4 @@
 
 * [Aprovar nota fiscal de entrada](incomingInvoiceOpApprove)
 * [Criar nota fiscal de entrada à partir de romaneio de entrada](incomingInvoiceOpCreateFromIncomingList)
-* [Criar nota fiscal de entrada à partir de planilha](incomingInvoiceOpCreateFromSpreadsheet)
+* [Criar nota fiscal de entrada à partir de planilha](/fiscal/incomingInvoiceOpCreateFromSpreadsheet)
