@@ -5,3 +5,11 @@
 ## Preparação 
 
 Baixe a [planilha modelo](incomingInvoiceOpCreateFromSpreadsheet.xlsx) e preencha com as informações.
+
+### Planilhas
+
+
+
+### Colunas
+
+## Importando a planilha
