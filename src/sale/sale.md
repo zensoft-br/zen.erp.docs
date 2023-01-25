@@ -86,5 +86,5 @@ Localize o pedido de venda desejado, clique em ![](https://static.zenerp.app.br/
 
 [Formas de pagamento](salePayment)
 
-[Notas fiscais de saída](/fiscal/outgoingInvoice)
+[Notas fiscais de saída](/fiscal/outgoingInvoice/outgoingInvoice)
 
