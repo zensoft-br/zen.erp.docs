@@ -69,3 +69,29 @@ Preencha os campos de cada coluna para cada item conforme abaixo:
 * [unitValueUSD]{.field} - informe o valor unitário em dolar
 
 ## Importando a planilha
+
+Acesse [Fiscal > Notas fiscais de entrada]{.menu} 
+
+Clique no botão ![](https://static.zenerp.app.br/icons/action-more-toolbar.svg){.icon} e clique na opção [Criar nota fiscal de entrada a partir de planilha]{.menu}
+
+Preencha os campos conforme abaixo:
+
+* [Fornecedor]{.field .required} - informe o fornecedor da nota fiscal
+* [Perfil fiscal de operação]{.field .required} - informe o perfil fiscal de operação (normalmente Compra)
+* [Requisição de entrada]{.field} - informe o pedido de compra
+
+Clique em [Escolher arquivo]{.field}, selecione a planilha e clique em **Abrir** e em seguida clique em [Processar]{.z-button}
+
+## Entrada no estoque
+
+Para fazer a entrada do material no estoque siga essas [instruções](/material/incomingListOpImport)
+
+## Aprovar
+
+Para aprovar a nota fiscal de entrada, e finalizar o processo, siga essas [instruções](/fiscal/incomingInvoice/incomingInvoice)
+
+## Veja também
+
+[Notas fiscais de entrada](/fiscal/incomingInvoice)
+
+[Pedidos de compra](/purchase/purchase)
