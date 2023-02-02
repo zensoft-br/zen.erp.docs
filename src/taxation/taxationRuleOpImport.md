@@ -17,6 +17,7 @@ Baixe a [planilha modelo](taxationRuleOpImport.csv) e preencha com as regras tri
     * [tax.IMPOSTO.PROPRIEDADE]{.field}
         * **IMPOSTO** é o código do imposto (ex: **ICMS**, **IPI**, etc...)
         * **PROPRIEDADE** é o código da propriedade
+* [properties.outgoingInvoiceComments]{.field} Observações fiscais relacionadas à regra tributária.
 
 ## Propriedades
 
@@ -39,3 +40,6 @@ Baixe a [planilha modelo](taxationRuleOpImport.csv) e preencha com as regras tri
 tax.ICMS.baseValue | tax.ICMS.taxRate | tax.ICMS.cst
 -- | -- | ---
 operationValue-freightValue | 18 | 010
+
+* Observação de aproveitamento de ICMS de empresas do Simples Nacional
+    * [Documento emitido por ME ou EPP optante pelo Simples Nacional. Não gera direito a crédito fiscal de ICMS, IPI e ISS]{.input}
