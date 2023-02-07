@@ -13,6 +13,8 @@ Clique em ![](https://static.zenerp.app.br/icons/action-search.svg){.icon} e pre
 
 Localize o registro de log desejado e clique em ![](https://static.zenerp.app.br/icons/action-read.svg){.icon}
 
+>Procure o registro de log mais próximo ao dia e horário do pedido de venda
+
 ## Veja também
 
 [Integração Ideris](ideris)
