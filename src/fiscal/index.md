@@ -14,3 +14,4 @@
 
 # Operações
 * [Devolução](outgoingInvoiceReturn)
+* [Cancelamento de nota fsical](/fiscal/br/dfeNfeProcOutOpCancel)
