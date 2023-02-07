@@ -4,6 +4,10 @@
 
 O Ideris é um hub de integração com as plataformas de e-commerce que possibilita integrar os marketplaces com o Zen ERP. Dessa forma, os pedidos gerados em diversos marketplaces são importados para o Zen ERP para serem faturados. Assim é possível concentrar os controles de venda e faturamento em um único sistema.
 
+A integração dos pedidos de venda do Ideris com o Zen ERP roda a cada 5 minutos.
+
+A integração das notas autorizadas do Zen ERP com o Ideris ocorre imediatamente, logo após a autorização pela Sefaz.
+
 ## Etapas do processo
 
 ### Pedido de venda 
@@ -38,4 +42,8 @@ O Ideris é um hub de integração com as plataformas de e-commerce que possibil
 * Separa os itens que serão coletados na empresa
 * Prepara o [envio das notas fiscais](/shipping/shipment)
 * [Finaliza o carregamento](/shipping/shipment)
+
+## Veja também
+
+[Log integração Ideris](logintegracaoIderis)
 
