@@ -1,5 +1,7 @@
 # Cancelamento de nota fiscal
 
+[]{.draft}
+
 ## Cancelar a nota fiscal no SEFAZ
 
 Acesso em [Fiscal > Notas fiscais de saída]{.menu} ou [Fiscal > Notas fiscais de entrada]{.menu}

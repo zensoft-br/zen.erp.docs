@@ -20,6 +20,4 @@ Clique em [Gravar]{.z-button .default} para salvar o rascunho desse lançamento 
 
 ## Veja também
 
-[Modelo](model)
-
-[Item de modelo](modelItem)
+[Contas contábeis](/accounting/account)

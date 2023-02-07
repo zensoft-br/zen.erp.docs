@@ -1,5 +1,7 @@
 # Devolução de cliente
 
+[]{.draft}
+
 O processo de devolução se divide em 3 etapas: romaneio de entrada, nota fiscal de entrada e utilização do crédito gerado para abater uma conta a receber.
 
 # Romaneio de entrada

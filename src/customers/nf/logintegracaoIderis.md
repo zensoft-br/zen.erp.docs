@@ -1,5 +1,7 @@
 # Consultar log de integração com Ideris
 
+[]{.draft}
+
 Acesso em [Sistema > Auditoria > Logs]{.menu}
 
 Clique em ![](https://static.zenerp.app.br/icons/action-search.svg){.icon} e preencha os campos de pesquisa conforme abaixo:

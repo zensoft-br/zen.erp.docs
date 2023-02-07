@@ -1,5 +1,7 @@
 # Processo de faturamento NF Embalagens
 
+[]{.draft}
+
 ## Pedido de venda
 
 * [Pedido de venda balcão](/sale/sale)
