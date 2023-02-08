@@ -2,8 +2,10 @@
 
 ## Último dia do mês
 
-* Enviar para rh1@oncontrolecontabil.com.br os valores de reembolso
+* Enviar para **rh1@oncontrolecontabil.com.br** os valores de reembolso
 
+>Exemplo:
+>
 >Segue o valor de reembolso (OP) referente ao mês de _______________.
 >
 >* R$ 300,00 - todos recebem 300,00 de vale alimentação (todos  vão receber esse valor)
@@ -30,3 +32,41 @@ Acessar o site da [Prefeitura de Americana](https://nfse.americana.sp.gov.br/nfs
 * Senha: personal
 >Como opção é possível acessar utilizando o certificado digital
 * Acesse NFS-e > Emissão de NFS-e
+* Em **Apelido** selecione o cliente e clique em **Avançar**
+* Clique em **Copiar os dados da última NFS-e emitida para este tomador**
+* Confira o **Valor Total da Nota (R$)**
+* Clique em **Emitir**
+
+### Enviar os boletos para os clientes
+
+Confirmar se os boletos foram enviados para os clientes
+
+### Conciliar contas correntes
+
+* Conferir se todos os retornos foram processados
+* Lançar as transferências entre contas
+* Liquidar as contas a pagar
+* Lançar as despesas que ocorreram
+
+### Pagamentos
+
+* As contas a pagar já estão lançadas (provisão) no Zen
+* Os boletos de cobrança chegam no e-mail financeiro@personalsoft.com.br
+    * O único boleto que não chega por e-mail é o da Vivo. É necessário acessar o site e pegar a segunda via:
+    * Acesse o site [Vivo em dia](https://vivoemdia.vivo.com.br/)
+    * Selecione a aba **Pessoa Jurídica**
+    * Informe o CNPJ: 04.037.975/0001-45
+    * Informe um número de telefone para receber um SMS com um código de liberação
+    * Acesse a opção de **2ª Via**
+    * Clique em **Gerar PDF Fatura**
+
+### Holerites
+
+* Imprimir os holerites (duas vias) e o comprovante da "OP".
+* Passar para colaboradores assinar e arquivar uma via assinada
+
+### Arquivos para contabilidade
+
+* Anexar os boletos, comprovantes e extratos na [pasta compartilhada](https://drive.google.com/drive/folders/1Memhe0xtBrlfWhgPnXPms8W1y6_Dm1wt?usp=sharing) com a contabilidade
+
+> https://drive.google.com/drive/folders/1Memhe0xtBrlfWhgPnXPms8W1y6_Dm1wt?usp=sharing
