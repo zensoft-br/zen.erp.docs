@@ -52,3 +52,21 @@ Clique no botão ![](https://static.zenerp.app.br/icons/action-child.svg){.icon}
 Localize a nota fiscal de entrada desejada e clique no botão ![](https://static.zenerp.app.br/icons/action-forward.svg){.icon} e clique na opção [Finalizar preparação da nota fiscal de entrada]{.forward} e depois clique em [Aprovar nota fiscal de entrada]{.forward}
 * Não é necessário marcar nenhuma opção solicitada
 * Clique em [Processar]{.z-button .default}
+
+### Transmitir a nota fiscal
+
+Localize a nota fiscal de saída desejada, clique em ![](https://static.zenerp.app.br/icons/action-forward.svg){.icon} > [Criar NFe emitida]{.forward}
+
+>A nota fiscal e o pedido de venda ficarão com a tag [#nfe]{.tag}
+
+### Liquidar o contas a pagar
+
+Localize a conta a pagar e clique em ![](https://static.zenerp.app.br/icons/action-forward.svg){.icon} e em seguida clique em [Liquidar contas a pagar]{.forward}
+
+Preencha os campos solicitados, com **atenção especial aos seguintes campos:**
+* [Data]{.field} - Informe a data da devolução
+
+Clique em [Incluir liquidação]{.z-button}
+* [Conta cotábil]{.field .required} - 3.1.2.1.001, Contas de Resultado - Receitas, Receitas operacionais, (-) Deduções da Receita Bruta, (-) Cancelamentos e Devoluções, (-) Devoluções de vendas de produtos
+* [Valor]{.field .required} - informe o valor
+* Clique em [Processar]{.z-button .default} para finalizar
