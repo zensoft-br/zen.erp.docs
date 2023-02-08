@@ -75,25 +75,21 @@ Confirmar se os boletos foram enviados para os clientes
 
 Rendimentos das aplicações financeiras - 4.1.2.001, Receitas de aplicações financeiras.
 
-Despesa com veículos:
-Devem ser lançadas com a data que de fato ocorreram.
-No dia da despesa, "Incluir despesa".
-C - 2.1.2.002, Despesas a reembolsar
-D - 4.1.3.002, Despesa com Veículos
+Despesa com veículos: Devem ser lançadas com a data que de fato ocorreram.
+* No dia da despesa, "Incluir despesa".
+* C - 2.1.2.002, Despesas a reembolsar
+* D - 4.1.3.002, Despesa com Veículos
 No contas a pagar
-Conta contábil: Despesas a reembolsar
+* Conta contábil: Despesas a reembolsar
 
-Despesa com viagens:
-Devem ser lançadas com a data que de fato ocorreram.
-No dia da despesa, "Incluir despesa".
-C - 2.1.2.002, Despesas a reembolsar
-D - 4.1.3.001, Despesa eventuais
+Despesa com viagens: Devem ser lançadas com a data que de fato ocorreram.
+* No dia da despesa, "Incluir despesa".
+* C - 2.1.2.002, Despesas a reembolsar
+* D - 4.1.3.001, Despesa eventuais
 No contas a pagar
-Conta contábil: Despesas a reembolsar
+* Conta contábil: Despesas a reembolsar
 
-Lançamento retirada Fabiano:
-Lançar o valor do holerite como pró-labore e a diferença lançar como distribuição de lucros.
-Exemplo:
-C - 10.000 C6
-D - 3.562,99 pró labore (4.1.1.003)
-D - 6.437,01 distribuição de lucros (2.3.2.001)
+Lançamento retirada Fabiano: Lançar o valor do holerite como pró-labore e a diferença lançar como distribuição de lucros.
+* C - 10.000 C6
+* D - 3.562,99 pró labore (4.1.1.003)
+* D - 6.437,01 distribuição de lucros (2.3.2.001)
