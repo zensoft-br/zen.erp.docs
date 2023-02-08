@@ -39,16 +39,16 @@ Clique no botão ![](https://static.zenerp.app.br/icons/action-child.svg){.icon}
 * Clique no botão ![](https://static.zenerp.app.br/icons/action-update.svg){.icon} e altere o valor unitário conforme o valor integral da operação de venda
     * Clique em [Gravar]{.z-button .default}
     * Repita o processo para todos os itens
-* Localize a nota fiscal de entrada desejada e clique no botão ![](https://static.zenerp.app.br/icons/action-forward.svg){.icon} e clique na opção [Finalizar preparação da nota fiscal de entrada]{.forward} e depois clique em [Aprovar nota fiscal de entrada]{.forward}
-    * Não é necessário marcar nenhuma opção solicitada
-    * Clique em [Gravar]{.z-button .default}
 
-### Lançamento contábil
+### Formas de pagamento
 
-[Contabilidade > Lançamentos contábeis]{.menu} 
+* Localize a nota fiscal de entrada gerada e clique no botão ![](https://static.zenerp.app.br/icons/action-more.svg){.icon} > [Formas de pagamento]{.menu}
+* Clique em ![](https://static.zenerp.app.br/icons/action-create.svg){.icon} e preencha os campos:
+    * [Conta contabil]{.field .required} - 1.1.2.1.001, Ativo, Circulante, Realizações, Clientes, Clientes Diversos
+    * [Valor]{.field .required} - informe o valor da nota
 
-Clique em ![](https://static.zenerp.app.br/icons/action-create.svg){.icon} e preencha os [campos](/accounting/journalEntryOpCreate) solicitados, com atenção ao seguinte:
+### Aprovar a nota fiscal
 
-* [Conta débito]{.field} - 3.1.2.1.001, Contas de Resultado - Receitas, Receitas operacionais, (-) Deduções da Receita Bruta, (-) Cancelamentos e Devoluções, (-) Devoluções de vendas de produtos
-* [Conta crédito]{.field} - 1.1.2.1.001, Ativo, Circulante, Realizações, Clientes, Clientes Diversos
-
+Localize a nota fiscal de entrada desejada e clique no botão ![](https://static.zenerp.app.br/icons/action-forward.svg){.icon} e clique na opção [Finalizar preparação da nota fiscal de entrada]{.forward} e depois clique em [Aprovar nota fiscal de entrada]{.forward}
+* Não é necessário marcar nenhuma opção solicitada
+* Clique em [Processar]{.z-button .default}
