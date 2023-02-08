@@ -33,6 +33,7 @@ Clique no botão ![](https://static.zenerp.app.br/icons/action-child.svg){.icon}
     * Informe uma lista de preços
     * Clique em [Processar]{.z-button .default}
 * Localize a nota fiscal de entrada gerada e clique no botão ![](https://static.zenerp.app.br/icons/action-update.svg){.icon}
+    * No campo [Modelo/série]{.field} informe o modelo/série correspondente
     * No campo [fiscal_br_refNFe]{.field} informe a chave de acesso da nota de venda
 * Localize a nota fiscal de entrada gerada e clique no botão ![](https://static.zenerp.app.br/icons/action-child.svg){.icon} para acessar os itens da nota de entrada
 * Clique no botão ![](https://static.zenerp.app.br/icons/action-update.svg){.icon} e altere o valor unitário conforme o valor integral da operação de venda
