@@ -37,6 +37,17 @@ Acessar o site da [Prefeitura de Americana](https://nfse.americana.sp.gov.br/nfs
 * Confira o **Valor Total da Nota (R$)**
 * Clique em **Emitir**
 
+### Enviar faturamento para contabilidade
+
+Após emitir todas as notas fiscais na prefeitura:
+* Acesse NFS-e > Consutas > Notas fiscais
+* Informe o período (mês) desejado
+* Clique em **Consultar**
+* Em **Exportar Notas** selecione a opção **Excel (CSV) Ver 3.0** e clique no "disquete" para salvar
+* Selecione a opção **XML Nacional Ver 2.03** e clique no "disquete" para salvar
+* Envie os 2 arquivos para **fiscal@oncontrolecontabil.com.br**
+
+
 ### Enviar os boletos para os clientes
 
 Confirmar se os boletos foram enviados para os clientes
@@ -93,3 +104,34 @@ Lançamento retirada Fabiano: Lançar o valor do holerite como pró-labore e a d
 * C - 10.000 C6
 * D - 3.562,99 pró labore (4.1.1.003)
 * D - 6.437,01 distribuição de lucros (2.3.2.001)
+
+### Contatos
+
+* Contabilidade
+    * E-mail
+        * Maciel - maciel@oncontrolecontabil.com.br 
+        * Vicente - vicente@oncontrolecontabil.com.br 
+        * RH - rh1@oncontrolecontabil.com.br 
+        * Fiscal - fiscal@oncontrolecontabil.com.br 
+        * Financeiro - financeiro@oncontrolecontabil.com.br
+    * Telefone
+        * Maciel - 11 99618-0259
+        * Vicente - 19 98835-5906
+        * Amanda - 11 99634-1576
+
+* Medicina do trabalho (Exxmed)
+    * E-mail
+        * Cristiane - cristiane@exxmed.com.br
+    * Telefone
+        * Cristiane - 19 99207-4143
+
+* Posto
+    * E-mail
+        * Marlon - postoamericanense@gmail.com
+
+### Acessos
+
+* [Vivo Móvel Empresas](https://www.vivo.com.br/para-empresas)
+    * e-mail - fabiano@personalsoft.com.nr
+    * CPF: 192.093.868-09
+    * Senha: pS88707786#
