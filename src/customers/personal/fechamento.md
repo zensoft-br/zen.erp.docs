@@ -118,13 +118,11 @@ Lançamento retirada Fabiano: Lançar o valor do holerite como pró-labore e a d
         * Maciel - 11 99618-0259
         * Vicente - 19 98835-5906
         * Amanda - 11 99634-1576
-
 * Medicina do trabalho (Exxmed)
     * E-mail
         * Cristiane - cristiane@exxmed.com.br
     * Telefone
         * Cristiane - 19 99207-4143
-
 * Posto
     * E-mail
         * Marlon - postoamericanense@gmail.com
