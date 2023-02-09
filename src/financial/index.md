@@ -11,7 +11,10 @@
 * [Antecipação de clientes](receivableAnticipation)
 
 ## Cobrança
-* [Carteiras de cobrança](charge)
+* [Carteiras de cobrança](billing/wallet)
+* [Instruções de cobrança](billing/instruction)
+* [Remessas](billing/batchRequest)
+* [Retornos](billing/batchResponse)
 
 # Operações
 * [Conciliação bancária](accountOpReconciliation)
