@@ -133,3 +133,7 @@ Lançamento retirada Fabiano: Lançar o valor do holerite como pró-labore e a d
     * e-mail - fabiano@personalsoft.com.nr
     * CPF: 192.093.868-09
     * Senha: pS88707786#
+
+* [São Lucas Saúde](http://servicos.saolucassaude.com.br:8080/bennet/public/login.jsf)
+    * Usuário: antony
+    * Senha: rhps
