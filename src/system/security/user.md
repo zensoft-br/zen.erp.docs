@@ -1,5 +1,3 @@
-# Usuário
-
 # Segurança
 
 Segurança em computadores, sistemas e redes incluem diversas medidas, como a utilização de senhas seguras, criptografia de dados, firewalls, antivírus e sistemas de autenticação de usuários. Além disso, a segurança em sistemas também envolve a implementação de políticas de segurança, treinamento e conscientização dos usuários, além da realização de testes de segurança e atualizações regulares dos sistemas.
@@ -20,28 +18,53 @@ Algumas boas práticas para criação de senhas seguras incluem:
 4. Não compartilhar a senha com outras pessoas.
 5. A utilização de senhas seguras é fundamental para garantir a segurança de informações pessoais e empresariais, e deve ser considerada uma prática essencial para a proteção de dados na era digital.
 
-Para alteração de senha, digite a senha atual, depois a senha nova e seguida digite novamente a senha para confirmação, sendo que ela deve conter no mínimo XXXX caracteres.
+Para alteração de senha, digite a senha atual, depois a senha nova e em seguida digite novamente a senha para confirmação dos caracteres escolhidos.
 
-A senha tem validade de XX dias.
 
 ### Certificado Digital
 
 Certificado digital é um documento eletrônico que funciona como uma espécie de identidade virtual, utilizada para autenticar a identidade de uma pessoa, empresa ou dispositivo em transações eletrônicas.
 O certificado digital permite a realização de transações eletrônicas seguras. Ele funciona como uma espécie de "assinatura digital", que garante a autenticidade e a integridade das informações transmitidas. E também é utilizado em processos de segurança da informação, como a autenticação de usuários em sistemas corporativos, a verificação da autenticidade de sites e a criptografia de mensagens de e-mail.
 
-Para que serve no sisgtema o certificado???? Fiscal?
-A criação de novos, que adiciona e como faz?
+#### Inclusão de um novo Certificado Digital
+
+Para adicionar um certificado digital cliclar ![](https://static.zenerp.app.br/icons/action-create.svg) e escolher o Tipo. Depois no campo Descrição inserir um nome para identififação do certificado. No campo Conteúdo inserir o arquivo do certificado. E a senha é obrigatório ??????????
+
 
 ### Grupos
 
-Essa sessão é utilizada para criar grupo de acesso, facilitando e agilizando a liberação do uso dos módulos para novos usários ou adição de novos módulos para usuários já existentes.
+Essa sessão é utilizada para criar grupo de acesso, para facilitar e agilizar a liberação do uso dos módulos para novos usários ou adição para usuários já existentes. Sendo assim quando o usuário ou grupo for associado ao grupo terá os acessos cadastrados dentro do ponto de acesso.
 
-##### Inclusão de um novo Grupo
-Para a incluisão de um novo grupo, clicar ![]() 
-no campo "código" digite o nome do módulo/
+#### Inclusão de um novo Grupo
+Para a incluisão de um novo grupo, clicar ![](https://static.zenerp.app.br/icons/action-create.svg), no campo Código digite o nome do módulo e a entidade???, o qual será cadastrado as liberações a serem acessadas e executadas. E na Descrição colocar no nome do módulo.
 
 
 ### Pontos de acesso
 
+O ponto de acesso geralmente se refere ao local em que um usuário pode se conectar ao sistema para acessar suas funcionalidades. Isso permite que o ERP aplique políticas de controle de acesso, limitando o acesso a dados ou funcionalidades que não sejam relevantes para as funções do usuário.
+
+????????
+
 
 ### Sessões
+
+Uma sessão se refere a uma instância única de conexão entre um usuário e o sistema.
+
+Uma sessão é iniciada quando um usuário faz login e é encerrada quando o usuário faz logout ou quando ocorre uma desconexão involuntária (como falha de rede ou falha do servidor).
+
+Durante uma sessão, o ERP geralmente mantém um registro das atividades do usuário, como as transações que foram executadas, as consultas realizadas e as modificações feitas nos dados do sistema. Isso permite que o ERP rastreie as ações do usuário e mantenha um registro preciso do que acontece no sistema.
+
+### Usuários
+
+Usuário é uma pessoa autorizada a acessar o sistema para realizar tarefas em nome da empresa onde trabalha.
+
+#### Inclusão de um novo usuário
+
+Para a incluisão de um usuário, clicar ![](https://static.zenerp.app.br/icons/action-create.svg), no campo email inserir o endereço da pessoa a ser cadastrada e no campo nome inserir o nome e sobrenome da pessoa.
+
+Ela recebe um e-mail para fazer o primeiro acesso???? 
+
+#### Exclusão de usuário
+
+Para a exclusão de um usuário, clicar nos três pontos, que se encontram na linha de registro do usuário, e escolher a opção excluir.
+Lembrando que todas ações e transações realizadas por esse usuários não serão excluídas.
