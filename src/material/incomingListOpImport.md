@@ -39,7 +39,7 @@ Baixe a [planilha modelo](incomingListOpImport.xlsx) e preencha com as informaç
 
 ### Incluindo um novo romaneio
 
-Acesse [Materiais > Romaneio de entrada]{.menu} clique no botão ![](https://static.zenerp.app.br/icons/action-more-toolbar.svg){.icon} e clique na opção [Importar romaneio de entrada]{.menu}
+Acesse [Materiais > Romaneio de entrada]{.menu} cliquem no botão ![](https://static.zenerp.app.br/icons/action-create.svg){.icon} para criar o cabeçalho do romaneio, depois clique no botão ![](https://static.zenerp.app.br/icons/action-more-toolbar.svg){.icon} e clique na opção [Importar romaneio de entrada]{.menu}
 
 Na tela de importar romaneio de entrada clique em [Escolher arquivo]{.menu}, selecione a planilha e clique em **Abrir** e em seguida clique em [Processar]{.z-button .default}
 
