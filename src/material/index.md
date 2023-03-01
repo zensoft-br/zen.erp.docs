@@ -26,5 +26,6 @@
 
 * [Impressão de etiquetas de identificação de paletes](handlingUnitLabel)
 * [Alimentar o estoque manualmente](incomingListOpManual)
+* [Alimentar o estoque à partir do XML da nota fiscal de entrada](incomingListOpManual)
 * [Alimentar o estoque através de planilha](incomingListOpImport)
 * [Alterar estoque](stockOpUpdate)
