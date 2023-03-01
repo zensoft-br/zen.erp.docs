@@ -6,7 +6,7 @@ Um sistema seguro é essencial para garantir a integridade, confidencialidade e 
 
 ### Senhas
 
-Senha é uma sequência de caracteres que serve para autenticar a identidade de um usuário em um sistema, dispositivo ou serviço. Ela é utilizada como uma medida de segurança para proteger informações sensíveis e evitar que pessoas não autorizadas acessem determinado recurso.
+Senha é uma sequência de caracteres, que serve para autenticar a identidade de um usuário em um sistema, dispositivo ou serviço. Ela é utilizada como uma medida de segurança para proteger informações sensíveis e evitar que pessoas não autorizadas acessem determinado recurso.
 
 As senhas podem ser compostas por letras, números, símbolos e/ou uma combinação desses elementos, e devem ser mantidas em sigilo pelo usuário para garantir sua efetividade. É importante que as senhas sejam complexas o suficiente para não serem adivinhadas facilmente por hackers ou pessoas mal-intencionadas.
 
@@ -18,7 +18,7 @@ Algumas boas práticas para criação de senhas seguras incluem:
 4. Não compartilhar a senha com outras pessoas.
 5. A utilização de senhas seguras é fundamental para garantir a segurança de informações pessoais e empresariais, e deve ser considerada uma prática essencial para a proteção de dados na era digital.
 
-Para alteração de senha, digite a senha atual, depois a senha nova e em seguida digite novamente a senha para confirmação dos caracteres escolhidos.
+Para alteração de senha, digite a senha atual, depois a senha nova e em seguida digite novamente a senha nova escolhida para confirmação dos caracteres escolhidos.
 
 
 ### Certificado Digital
@@ -28,7 +28,7 @@ O certificado digital permite a realização de transações eletrônicas segura
 
 #### Inclusão de um novo Certificado Digital
 
-Para adicionar um certificado digital cliclar ![](https://static.zenerp.app.br/icons/action-create.svg) e escolher o Tipo. Depois no campo Descrição inserir um nome para identififação do certificado. No campo Conteúdo inserir o arquivo do certificado. E a senha é obrigatório ??????????
+Para adicionar um certificado digital cliclar ![](https://static.zenerp.app.br/icons/action-create.svg){.icon} e escolher o Tipo. Depois no campo Descrição inserir um nome para identififação do certificado. No campo Conteúdo inserir o arquivo do certificado e finaliza clicando em Gravar.
 
 
 ### Grupos
@@ -36,15 +36,16 @@ Para adicionar um certificado digital cliclar ![](https://static.zenerp.app.br/i
 Essa sessão é utilizada para criar grupo de acesso, para facilitar e agilizar a liberação do uso dos módulos para novos usários ou adição para usuários já existentes. Sendo assim quando o usuário ou grupo for associado ao grupo terá os acessos cadastrados dentro do ponto de acesso.
 
 #### Inclusão de um novo Grupo
-Para a incluisão de um novo grupo, clicar ![](https://static.zenerp.app.br/icons/action-create.svg), no campo Código digite o nome do módulo e a entidade???, o qual será cadastrado as liberações a serem acessadas e executadas. E na Descrição colocar no nome do módulo.
+Para a incluisão de um novo grupo, clicar ![](https://static.zenerp.app.br/icons/action-create.svg){.icon}, no campo Código digitar o nome da empresa / setor ou função, no qual serão cadastradas as liberações a serem acessadas e executadas. E na Descrição colocar o nome da empresa + vírgula e o nome do departamento ou função. E finaliza clicando em Gravar.
+
+Exemplo:
+Campo Código - /zensoft/fiscal
+Campo Descrição - Zensoft, Fiscal
 
 
 ### Pontos de acesso
 
-O ponto de acesso geralmente se refere ao local em que um usuário pode se conectar ao sistema para acessar suas funcionalidades. Isso permite que o ERP aplique políticas de controle de acesso, limitando o acesso a dados ou funcionalidades que não sejam relevantes para as funções do usuário.
-
-????????
-
+O ponto de acesso se refere ao local em que um usuário pode se conectar ao sistema para acessar suas funcionalidades. Isso permite que o ERP aplique políticas de controle de acesso, limitando o acesso a dados ou funcionalidades que não sejam relevantes para as funções do usuário.
 
 ### Sessões
 
@@ -60,11 +61,9 @@ Usuário é uma pessoa autorizada a acessar o sistema para realizar tarefas em n
 
 #### Inclusão de um novo usuário
 
-Para a incluisão de um usuário, clicar ![](https://static.zenerp.app.br/icons/action-create.svg), no campo email inserir o endereço da pessoa a ser cadastrada e no campo nome inserir o nome e sobrenome da pessoa.
-
-Ela recebe um e-mail para fazer o primeiro acesso???? 
+Para a incluisão de um usuário, clicar ![](https://static.zenerp.app.br/icons/action-create.svg){.icon}, no campo email inserir o endereço eletrônico da pessoa a ser cadastrada e no campo nome inserir o nome e sobrenome da pessoa.
 
 #### Exclusão de usuário
 
-Para a exclusão de um usuário, clicar nos três pontos, que se encontram na linha de registro do usuário, e escolher a opção excluir.
+Para a exclusão de um usuário, clicar nos três pontos, que se encontram na linha de registro do usuário e escolher a opção excluir.
 Lembrando que todas ações e transações realizadas por esse usuários não serão excluídas.
