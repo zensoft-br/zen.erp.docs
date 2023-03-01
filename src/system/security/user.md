@@ -65,7 +65,7 @@ Usuário é uma pessoa autorizada a acessar o sistema para realizar tarefas em n
 
 Para a incluisão de um usuário, clicar ![](https://static.zenerp.app.br/icons/action-create.svg){.icon}, no campo email inserir o endereço eletrônico da pessoa a ser cadastrada e no campo nome inserir o nome e sobrenome da pessoa.
 
-### Exclusão de usuário
+### Exclusão de um usuário
 
 Para a exclusão de um usuário, clicar nos três pontos, que se encontram na linha de registro do usuário e escolher a opção excluir.
 Lembrando que todas ações e transações realizadas por esse usuários não serão excluídas.
