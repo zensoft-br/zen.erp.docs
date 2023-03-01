@@ -39,7 +39,9 @@ Essa sessão é utilizada para criar grupo de acesso, para facilitar e agilizar 
 Para a incluisão de um novo grupo, clicar ![](https://static.zenerp.app.br/icons/action-create.svg){.icon}, no campo Código digitar o nome da empresa / setor ou função, no qual serão cadastradas as liberações a serem acessadas e executadas. E na Descrição colocar o nome da empresa + vírgula e o nome do departamento ou função. E finaliza clicando em Gravar.
 
 Exemplo:
+
 Campo Código - /zensoft/fiscal
+
 Campo Descrição - Zensoft, Fiscal
 
 
