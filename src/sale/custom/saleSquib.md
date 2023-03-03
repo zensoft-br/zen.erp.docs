@@ -28,6 +28,7 @@ Para visualizar os pedidos de venda criados, clique no botão [Pedidos de venda]
 Após lançar todos os itens clique no botão [Finalizar preparação de pedido de venda]{.z-button} e informe os campos necessários.
 
 ## Comissão
+
 A comissão vai mudar de acordo com o desconto concedido em cada item do pedido conforme a regra abaixo:
 
 ### Indústria
