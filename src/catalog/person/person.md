@@ -1,24 +1,24 @@
 # Pessoas
 
-[]{.draft}
-
-Acesse [Cadastros > Pessoas > Pessoas]{.menu}
-
 Uma pessoa representa um cidadão (pessoa física) ou uma entidade (pessoa jurídica) que possui algum tipo de relacionamento com a organização.
 
-Uma pessoa pode assumir um ou vários papéis em relação à organização, como [cliente]{.tag}, [fornecedor]{.tag}, [colaborador]{.tag}, etc...
+Uma pessoa pode assumir um ou vários papéis em relação à organização, como [cliente]{.tag}, [fornecedor]{.tag}, [colaborador]{.tag}, transportadora, etc.
 
 ## Pesquisar
 
-Para pesquisar, clique em ![](https://static.zenerp.app.br/icons/action-search.svg){.icon} e preencha os [critérios](person-search) de busca desejados.
-
-## Atualizar
-
-Ao clicar em ![](https://static.zenerp.app.br/icons/action-refresh.svg){.icon} qualquer critério de filtro utilizado anteriormente é removido e o grid é atualizado.
+Para pesquisar uma pessoa, clique em ![](https://static.zenerp.app.br/icons/action-search.svg){.icon} e preencha os [critérios](person-search) de busca desejados.
 
 ## Incluir
 
 Para incluir uma pessoa, clique em ![](https://static.zenerp.app.br/icons/action-create.svg){.icon} e preencha os [campos](person-edit) solicitados.
+
+## Alterar
+
+Para alterar uma pessoa, localize a pessoa desejada, clique em ![](https://static.zenerp.app.br/icons/action-update.svg){.icon} e edite os [campos](person-edit) necessários.
+
+## Atualizar
+
+Para atualizar clique em ![](https://static.zenerp.app.br/icons/action-refresh.svg){.icon} qualquer critério de filtro utilizado anteriormente é removido e o grid é atualizado.
 
 ## Exportar
 
@@ -29,13 +29,9 @@ Para mais informações sobre exportação de dados, clique em [exportar dados d
 
 Para visualizar os dados de uma pessoa cadastrada, clique em ![](https://static.zenerp.app.br/icons/action-read.svg){.icon}.
 
-## Alterar
-
-Para alterar uma pessoa, localize a pessoa desejada, clique em ![](https://static.zenerp.app.br/icons/action-update.svg){.icon} e preencha os [campos](person-edit) solicitados.
-
 ## Excluir
 
-Para excluir uma pessoa, localize a pessoa desejada e clique em ![](https://static.zenerp.app.br/icons/action-delete.svg){.icon}.
+Para excluir uma pessoa, localize a pessoa desejada e clique em ![](https://static.zenerp.app.br/icons/action-delete.svg){.icon} e confirme.
 
 ## Dashboard
 
@@ -51,7 +47,7 @@ Para visualizar os endereços cadastrados para uma pessoa, clique em ![](https:/
 
 ### Observações
 
-Para visualizar as observaçoes cadastrados para uma pessoa, clique em ![](https://static.zenerp.app.br/icons/catalog/person/personComment.svg){.icon}[Observações](personComment).
+Para visualizar as observações cadastrados para uma pessoa, clique em ![](https://static.zenerp.app.br/icons/catalog/person/personComment.svg){.icon}[Observações](personComment).
 
 ### Contatos
 
