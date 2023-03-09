@@ -16,12 +16,13 @@ Despesa - É o valor que uma empresa gasta ou incorre para gerar receita durante
 
 ## Incluir
 
-Para inclui clique em ![](https://static.zenerp.app.br/icons/action-create.svg){.icon} e preencha os [campos](account-edit) solicitados.
+Para incluir clique em ![](https://static.zenerp.app.br/icons/action-create.svg){.icon} e preencha os [campos](account-edit) solicitados.
 
+Em caso de dúvidas, utilize um cadastro existente, para referência, pois em caso de dúvidas auxiliará na nova criação.
 
 ## Alterar
 
-Localize a conta contábil desejada, clique em ![](https://static.zenerp.app.br/icons/action-update.svg){.icon} e preencha os [campos](account-edit) solicitados.
+Localize a conta contábil desejada, clique em ![](https://static.zenerp.app.br/icons/action-update.svg){.icon} e edite os [campos](account-edit) necessários.
 
 ## Excluir
 
