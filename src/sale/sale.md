@@ -1,14 +1,14 @@
 # Pedidos de venda
 
-[]{.draft}
-
 Um pedido de venda é um documento que formaliza o compromisso de um cliente para adquirir um material detalhando quais são os produtos, quantidades, preços e condições de prazo e pagamento acordados. 
 
 Acesso em [Vendas > Pedidos de venda]{.menu}
 
 ## Incluir
 
-Clique em ![](https://static.zenerp.app.br/icons/action-create.svg){.icon} e preencha os [campos](sale-edit) solicitados.
+Para incluir clique em ![](https://static.zenerp.app.br/icons/action-create.svg){.icon} e preencha os [campos](sale-edit) solicitados.
+
+Em caso de dúvidas, utilize um pedido de venda existente, para referência.
 
 ## Alterar
 

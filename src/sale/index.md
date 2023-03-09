@@ -1,7 +1,5 @@
 # Módulo vendas
 
-[]{.draft}
-
 * [Comissões](saleCommission)
 * [Formação de preços](priceFormation)
 * [Lista de preços de venda](priceList)
