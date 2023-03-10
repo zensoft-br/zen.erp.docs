@@ -18,17 +18,17 @@ Um lançamento contábil poderá ser alterado somente se estiver no status [DRAF
 
 ## Excluir
 
-Para exclui localize o lançamento contábil desejado, clique em ![](https://static.zenerp.app.br/icons/action-more-tr.svg){.icon} > [Excluir]{.menu} e confirme.
+Para excluir localize o lançamento contábil desejado, clique em ![](https://static.zenerp.app.br/icons/action-more-tr.svg){.icon} > [Excluir]{.menu} e confirme.
 
 A exclusão será definitiva e será efetivada apenas se o lançamento contábil estiver no status [DRAFT]{.status}
 
 ## Publicar
 
-Localize o lançamento contábil desejado, clique em ![](https://static.zenerp.app.br/icons/action-forward.svg){.icon} > [Publicar lançamento contábil]{.menu}
+Para publicar localize o lançamento contábil desejado, clique em ![](https://static.zenerp.app.br/icons/action-forward.svg){.icon} > [Publicar lançamento contábil]{.menu}
 
 ## Reverter
 
-Localize o lançamento contábil desejado, clique em ![](https://static.zenerp.app.br/icons/action-forward.svg){.icon} > [Reverter publicação de lançamento contábil]{.menu}
+Para reverter localize o lançamento contábil desejado, clique em ![](https://static.zenerp.app.br/icons/action-forward.svg){.icon} > [Reverter publicação de lançamento contábil]{.menu}
 
 ## Veja também
 

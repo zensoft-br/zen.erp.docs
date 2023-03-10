@@ -54,29 +54,29 @@ Localize o pedido de venda desejado, clique em ![](https://static.zenerp.app.br/
 
 ## Reverter aprovação
 
-Localize o pedido de venda desejado, clique em ![](https://static.zenerp.app.br/icons/action-forward.svg){.icon} > [Reverter aprovação de pedido de venda]{.menu}
+Para reverter uma aprovação localize o pedido de venda desejado, clique em ![](https://static.zenerp.app.br/icons/action-forward.svg){.icon} > [Reverter aprovação de pedido de venda]{.menu}
 
 ## Reverter preparação
 
-Localize o pedido de venda desejado, clique em ![](https://static.zenerp.app.br/icons/action-forward.svg){.icon} > [Reverter preparação de pedido de venda]{.menu}
+Para reverter uma preparação localize o pedido de venda desejado, clique em ![](https://static.zenerp.app.br/icons/action-forward.svg){.icon} > [Reverter preparação de pedido de venda]{.menu}
 
 ## Imprimir
 
-Localize o pedido de venda desejado, clique em ![](https://static.zenerp.app.br/icons/action-more-tr.svg){.icon} > [Imprimir]{.menu}
+Para imprimir localize o pedido de venda desejado, clique em ![](https://static.zenerp.app.br/icons/action-more-tr.svg){.icon} > [Imprimir]{.menu}
 
 ## Duplicar
 
-Localize o pedido de venda desejado, clique em ![](https://static.zenerp.app.br/icons/action-forward.svg){.icon} > [Duplicar pedido de venda]{.menu}
+Para duplicar localize o pedido de venda desejado, clique em ![](https://static.zenerp.app.br/icons/action-forward.svg){.icon} > [Duplicar pedido de venda]{.menu}
 
 ## Cancelar
 
-Localize o pedido de venda desejado, clique em ![](https://static.zenerp.app.br/icons/action-forward.svg){.icon} > [Cancelar pedido de venda]{.menu}
+Para cancelar localize o pedido de venda desejado, clique em ![](https://static.zenerp.app.br/icons/action-forward.svg){.icon} > [Cancelar pedido de venda]{.menu}
 
 ## Processar automaticamente
 
 Processar automaticamente um pedido de venda já faz a baixa do estoque e gera a nota fiscal.
 
-Localize o pedido de venda desejado, clique em ![](https://static.zenerp.app.br/icons/action-forward.svg){.icon} > [Processar automaticamente o pedido de venda]{.menu}
+Para processar automaticamente um pedido de venda localize o pedido de venda desejado, clique em ![](https://static.zenerp.app.br/icons/action-forward.svg){.icon} > [Processar automaticamente o pedido de venda]{.menu}
 
 ## Veja também
 
