@@ -13,6 +13,3 @@ Quando realizar uma tarefa/ação e aparecer um erro e/ou uma dúvida envie para
 4.Priorize a gravidade: se você encontrou vários erros, priorize-os de acordo com sua gravidade e descreva cada um deles individualmente. Isso ajudará a equipe de atendimento a priorizar o trabalho e corrigir os erros/dúvidas mais críticos(as) primeiro;
 
 5.Seja educado(a) e respeitoso(a) e finalize com informações de contato: Certifique-se de deixar informações de contato para que a equipe possa entrar em contato com você para mais informações, caso necessário.
-
-
-
