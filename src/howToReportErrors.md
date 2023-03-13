@@ -1,6 +1,6 @@
 # Como reportar erros/dúvidas para o suporte do Zen ERP
 
-Quando realizar uma tarefa/ação e aparecer um erro e/ou uma dúvida envie para o email suporte@zensoft.com.br ou para o número de WhatsApp (19) XXXXXXXXX.
+Quando realizar uma tarefa/ação e aparecer um erro e/ou uma dúvida envie para o email suporte@zensoft.com.br ou contate o número de WhatsApp (19) XXXXXXXXX.
 
 É importante que nesse relato contenha os seguintes pontos, para que o atendimento seja eficaz e eficiente: 
 
