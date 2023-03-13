@@ -36,7 +36,7 @@ Para adicionar um certificado digital cliclar ![](https://static.zenerp.app.br/i
 Essa sessão é utilizada para criar grupo de acesso, para facilitar e agilizar a liberação do uso dos módulos para novos usários ou adição para usuários já existentes. Sendo assim quando o usuário ou grupo for associado ao grupo terá os acessos cadastrados dentro do ponto de acesso.
 
 ### Inclusão de um novo Grupo
-Para a incluisão de um novo grupo, clicar ![](https://static.zenerp.app.br/icons/action-create.svg){.icon}, no campo Código digitar o nome da empresa / setor ou função, no qual serão cadastradas as liberações a serem acessadas e executadas. E na Descrição colocar o nome da empresa + vírgula e o nome do departamento ou função. E finaliza clicando em Gravar.
+Para a inclusão de um novo grupo, clicar ![](https://static.zenerp.app.br/icons/action-create.svg){.icon}, no campo Código digitar o nome da empresa / setor ou função, no qual serão cadastradas as liberações a serem acessadas e executadas. E na Descrição colocar o nome da empresa + vírgula e o nome do departamento ou função. E finaliza clicando em Gravar.
 
 Exemplo:
 
@@ -61,11 +61,10 @@ Durante uma sessão, o ERP geralmente mantém um registro das atividades do usu�
 
 Usuário é uma pessoa autorizada a acessar o sistema para realizar tarefas em nome da empresa onde trabalha.
 
-### Inclusão de um novo usuário
+### Incluir usuário
 
-Para a incluisão de um usuário, clicar ![](https://static.zenerp.app.br/icons/action-create.svg){.icon}, no campo email inserir o endereço eletrônico da pessoa a ser cadastrada e no campo nome inserir o nome e sobrenome da pessoa.
+Para a incluir um usuário, clicar ![](https://static.zenerp.app.br/icons/action-create.svg){.icon}, no campo email inserir o endereço eletrônico da pessoa a ser cadastrada e no campo nome inserir o nome e sobrenome da pessoa.
 
-### Exclusão de um usuário
+### Desativar usuário
 
-Para a exclusão de um usuário, clicar nos três pontos, que se encontram na linha de registro do usuário e escolher a opção excluir.
-Lembrando que todas ações e transações realizadas por esse usuários não serão excluídas.
+Para desativar um usuário, clicar em ![](https://static.zenerp.app.br/icons/action-more-tr.svg){.icon} na linha de registro do usuário e escolher a opção Desativar usuário, com isso o usuário aparecerá com seu status INATIVO.
