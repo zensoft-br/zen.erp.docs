@@ -26,17 +26,17 @@ Para alteração de senha, digite a senha atual, depois a senha nova e em seguid
 Certificado digital é um documento eletrônico que funciona como uma espécie de identidade virtual, utilizada para autenticar a identidade de uma pessoa, empresa ou dispositivo em transações eletrônicas.
 O certificado digital permite a realização de transações eletrônicas seguras. Ele funciona como uma espécie de "assinatura digital", que garante a autenticidade e a integridade das informações transmitidas. E também é utilizado em processos de segurança da informação, como a autenticação de usuários em sistemas corporativos, a verificação da autenticidade de sites e a criptografia de mensagens de e-mail.
 
-### Inclusão de um novo Certificado Digital
+### Incluir
 
-Para adicionar um certificado digital cliclar ![](https://static.zenerp.app.br/icons/action-create.svg){.icon} e escolher o Tipo. Depois no campo Descrição inserir um nome para identififação do certificado. No campo Conteúdo inserir o arquivo do certificado e finaliza clicando em Gravar.
+Para incluir um certificado digital cliclar ![](https://static.zenerp.app.br/icons/action-create.svg){.icon} e escolher o Tipo. Depois no campo Descrição inserir um nome para identififação do certificado. No campo Conteúdo inserir o arquivo do certificado e finaliza clicando em Gravar.
 
 
 ## Grupos
 
 Essa sessão é utilizada para criar grupo de acesso, para facilitar e agilizar a liberação do uso dos módulos para novos usários ou adição para usuários já existentes. Sendo assim quando o usuário ou grupo for associado ao grupo terá os acessos cadastrados dentro do ponto de acesso.
 
-### Inclusão de um novo Grupo
-Para a inclusão de um novo grupo, clicar ![](https://static.zenerp.app.br/icons/action-create.svg){.icon}, no campo Código digitar o nome da empresa / setor ou função, no qual serão cadastradas as liberações a serem acessadas e executadas. E na Descrição colocar o nome da empresa + vírgula e o nome do departamento ou função. E finaliza clicando em Gravar.
+### Incluir Grupo
+Para a incluir um grupo, clicar ![](https://static.zenerp.app.br/icons/action-create.svg){.icon}, no campo Código digitar o nome da empresa / setor ou função, no qual serão cadastradas as liberações a serem acessadas e executadas. E na Descrição colocar o nome da empresa + vírgula e o nome do departamento ou função. E finaliza clicando em Gravar.
 
 Exemplo:
 
