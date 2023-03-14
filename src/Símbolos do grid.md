@@ -31,6 +31,9 @@ Porém se tiver alguma dependência, não será possível excluir.
 Três pontos - ![](https://static.zenerp.app.br/icons/action-more.svg){.icon}
 Esse símbolo trás diversas opções de ações, ele está parametrizado para cada sessão, sendo assim em cada sessão terá uma lista diferente.
 
+Triâgulo - ![](https://static.zenerp.app.br/icons/action-more-toolbar.svg){.icon}
+Esse símbolo trás diversas opções de ações, ele está parametrizado para cada sessão, sendo assim em cada sessão terá uma lista diferente.
+
 Exportação → ![](https://static.zenerp.app.br/icons/action-export.svg){.icon}
 Esse símbolo é para o exportação de dados, cadastros, transações manuais e informações.
 Clicando no símbolo, aparecerá a opção exportar, escolhendo-a aparecerá uma lista para escolher qual a extensão do arquivo que deseja fazer o exporte.
